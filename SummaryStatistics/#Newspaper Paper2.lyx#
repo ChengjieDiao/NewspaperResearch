@@ -1,0 +1,528 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing onehalf
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 3cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+The Newspaper Swap Event in 2017
+\end_layout
+
+\begin_layout Author
+Chengjie Diao
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+Despite the extensive attention given to daily newspapers due to their comprehen
+sive coverage of national and international news, there exists a significant
+ research gap when it comes to community newspapers in Canada.
+ There is a severe lack of academic papers discussing community newspapers
+ in Canada.
+ However, these local publications hold a critical role in delivering informatio
+n that is regionally relevant, serving as essential channels for local governmen
+t activities, advertisements, and fundraising for local projects or elections.
+ Moreover, they possess substantial cultural value as a cherished element
+ of Canadian society.
+ Furthur, community newspapers face challenges from online news platforms
+ with declining profitability, which has led to closures of many newspapers.
+ A noteworthy example is the that Postmedia and Toronto Star swapped dozens
+ of community newspapers in 2014, with most of the swapped paper were shut
+ down as a cost-cutting strategy, leading to reduction of around 244 jobs.
+\end_layout
+
+\begin_layout Standard
+The newspaper industry holds a rich heritage and has historically appealed
+ to older generations who exhibit a lesser inclination towards seeking news
+ online.
+ Additionally, community newspapers play a vital role in areas where internet
+ accessibility is limited, ensuring that residents have access to news sources
+ beyond the online realm.
+ Therefore, it is crucial to acquire a comprehensive understanding of the
+ newspaper swap events that occurred in 2017, as they have led to the significan
+t closure of newspapers, some of which have a rich history spanning several
+ decades.
+ The closures of newspapers in these affected markets not only result in
+ a reduction of local news coverage but are also accompanied by an effort
+ by Postmedia and Toronto Star to avoid direct product competition.
+ This avoidance is achieved through the swapping of newspapers in several
+ markets where both companies operate, ultimately leading to an increased
+ concentration of each company's presence within the affected markets.
+ Consequently, this consolidation raises pertinent questions regarding the
+ impact on circulation and advertising rates in these markets.
+ It is particularly important to investigate whether newspapers owned by
+ these two companies have seen an increase in advertising rates as a result
+ of their increased market power, and whether the consolidation has had
+ negative effects on newspapers operated by smaller companies in the affected
+ markets.
+\end_layout
+
+\begin_layout Standard
+To address these questions, we collected newspaper circulation data from
+ News Media Canada and advertising rate data from Adoreach in Ontario, covering
+ the period from 2013 to 2019.
+ The News Media Canada dataset includes information on circulation areas,
+ operating companies, circulations, and distribution days of each newspaper.
+ We merged this data with the advertising rate data based on newspaper names.
+ Using the circulation area of each newspaper, we determined representative
+ latitude and longitude coordinates corresponding to their locations.
+ Subsequently, we identified the census subdivisions that encompassed these
+ points and defined the census subdivision in which a newspaper circulates
+ as its market.
+ By analyzing this dataset, we were able to determine the census subdivisions
+ affected by the newspaper swap in 2017 and identify the newspapers operating
+ within those markets.
+ We consider the census subdivision an appropriate market definition for
+ community newspapers, as community newspapers primarily provide news relevant
+ to the local municipality, including government initiatives, fundraising
+ events, and political activities.
+ The term "census subdivision" is synonymous with "municipality" and accurately
+ reflects the scope of coverage provided by these newspapers.
+\end_layout
+
+\begin_layout Standard
+Emprical result: To be done later
+\end_layout
+
+\begin_layout Standard
+Specific Contribution: Motivation was mentioned earlier, more specific contribut
+ion to be done after the refinement of empirical result.
+\end_layout
+
+\begin_layout Section
+Data and Summary Statistics
+\end_layout
+
+\begin_layout Standard
+Our study focuses on the newspaper editions.
+ For instance, if a newspaper circulates twice a week, such as on Tuesday
+ and Thursday, it is considered as two separate newspaper editions, each
+ with circulation on its respective day.
+ This definition aligns with the practices of auditing firms that conduct
+ separate circulation audits for each edition.
+ Additionally, treating each edition of a newspaper as a separate entity
+ enhances comparability in terms of weekly circulations.
+ It also accounts for the possibility that each edition may have distinct
+ content and framework.
+ The dataset used in this study covers the period from 2013 to 2019 and
+ includes a total of 595 newspaper editions.
+ Out of these, 372 newspaper editions could be matched to obtain an appropriate
+ advertising rate.
+ The data used in this study is subject to an imbalance resulting from various
+ factors, including the closure and opening of newspaper editions, as well
+ as the decisions of certain newspapers not to subscribe to the membership
+ of News Media Canada during specific years, leading to their exclusion
+ from the dataset.
+ Despite the dataset is not complete, we leverage the richness and comprehensive
+ness of this dataset to gain valuable insights into the event.
+ 
+\end_layout
+
+\begin_layout Standard
+During the event, a total of 39 community newspapers were swapped.
+ Out of these, 33 newspapers were subsequently closed immediately after
+ the swap, resulting in only 6 newspapers continuing their operations under
+ new ownership.
+ To identify the swapped newspapers, we observed their titles from public
+ media sources.
+ We then determined the census subdivisions in which these newspapers were
+ operating.
+ It is worth noting that some newspapers may operate in multiple census
+ subdivisions, and we considered all of those census subdivisions as affected
+ in our analysis.
+\end_layout
+
+\begin_layout Standard
+In total, we found that 36 census subdivisions were affected by the swap
+ events.
+ Additionally, our dataset identified 221 census subdivisions as circulation
+ areas for some newspapers.
+ Among the 39 swapped newspapers, we were able to identify 30 of them in
+ our dataset.
+ Furthermore, our dataset suggests that there are an additional 34 newspapers
+ (excluding the swapped ones) operating under the affected census subdivisions.
+\end_layout
+
+\begin_layout Standard
+Consistent with the industrial report from News Media Canada, our data suggests
+ that the ownership of the newspapers is concentrated among large corporations.
+ Among the 372 newspaper editions in our dataset, 223 of them are owned
+ by either Metroland or Postmedia, which are the two largest firms in the
+ community newspaper industry.
+\end_layout
+
+\begin_layout Standard
+Regarding the events that occurred, a total of 70 newspaper editions were
+ affected in some way (either swapped or operated under the market affected
+ by the swap).
+ Out of these 70 newspaper editions, 56 of them belong to either Postmedia
+ or Metroland, further emphasizing the dominance of these large corporations
+ in the affected market.
+\end_layout
+
+\begin_layout Standard
+The majority of newspaper editions are available free of charge, although
+ some require payment.
+ Moreover, our dataset includes newspaper editions that have both paid and
+ free circulation.
+ We classify a newspaper edition as "free" if it exclusively had free circulatio
+n from 2013 to 2019, "paid" if it solely had paid circulation during that
+ period, and "both paid and free" if it had at least one year with positive
+ free circulation and at least one year with paid circulation.
+ In our analysis, we identified 157 newspaper editions classified as "free,"
+ 74 editions classified as "paid," and 140 editions with nonzero paid or
+ free circulation for at least one year.
+\end_layout
+
+\begin_layout Standard
+Figure 1 presents the mean total circulation, which combines the free circulatio
+n and paid circulation for each newspaper edition, across different groups
+ over the years.
+ Notably, newspaper editions owned by either Postmedia or Metroland exhibit
+ a consistently higher average circulation compared to other ownership groups.
+ The figure indicates an overall declining trend in mean circulation over
+ the years.
+ However, the mean circulation of newspaper editions in the affected census
+ subdivisions experienced a significant increase after 2017, suggesting
+ a possible reduction in competition within those areas.
+ It is important to acknowledge the potential presence of survival bias,
+ wherein Postmedia and Metroland may have closed newspapers with lower circulati
+ons, resulting in an increased mean circulation for the affected census
+ subdivisions.
+\end_layout
+
+\begin_layout Standard
+Figure 2 displays the mean national line rate for each line of advertisement
+ across different groups over the years.
+ As expected, newspaper editions owned by Postmedia or Metroland, which
+ also exhibit higher average circulations, demonstrate a consistently higher
+ rate compared to other newspapers.
+ Notably, the mean rate of newspaper editions owned by Postmedia or Metroland
+ operating in the affected census subdivisions experienced a significant
+ jump after the event in 2017.
+ Although there appears to be an increasing trend in the rate across time
+ for all newspaper editions, this pronounced jump suggests a potential posibilit
+y of reduction in competition within those specific areas.
+\end_layout
+
+\begin_layout Standard
+Figure 3 depicts the number of newspaper editions across each year.
+ It is crucial to interpret this figure with caution due to potential data
+ incompleteness.
+ The presence of a newspaper edition in the dataset does not necessarily
+ indicate its closure at a later date.
+ Nevertheless, the data consistently suggests a decline in the number of
+ newspapers over time, aligning with industry discussions on this matter.
+ Irrespective of ownership groups, a declining trend is observed in the
+ number of newspaper editions.
+ The most substantial drop occurs in 2017, and this decline continues from
+ 2018 to 2019.
+\end_layout
+
+\begin_layout Subsection
+Investigation of Survival Bias (Updated: June 18, 2023)
+\end_layout
+
+\begin_layout Standard
+Since the dataset includes all newspaper editions for each year, and calculates
+ the mean circulation and advertising rates annually for each group, it's
+ plausible that the observed surge in mean circulation and rates in the
+ affected markets is attributable to the predominance of Postmedia and Metroland.
+ These media conglomerates, owning most of the newspaper editions, may have
+ closed numerous underperforming editions, pushing up the mean statistics
+ in the affected market.
+\end_layout
+
+\begin_layout Standard
+Closure of poorly performing newspapers leaves only those with high circulation
+ and advertising rates, thereby driving up the mean values in the affected
+ markets.
+ To further analyze this, we have refined the dataset to include only those
+ newspaper editions that were operational before and after the swap events.
+ We plotted the circulation and advertising rates for various groups.
+\end_layout
+
+\begin_layout Standard
+From Figures 4 and 5, it appears that the increase in the mean rates in
+ these affected markets could be attributed to survival bias.
+ When we examine newspaper editions that were operational before 2017 and
+ survived post-swap, we do not observe a significant rise in circulation
+ and rates for editions owned by Postmedia and Metroland in the affected
+ markets.
+ On the contrary, the circulation and advertising rates for these editions
+ are showing a slight decline post-event.
+\end_layout
+
+\begin_layout Standard
+It appears that newspaper editions in the affected markets, not owned by
+ Postmedia and Metroland, have managed to increase their rates and circulation
+ following the event.
+ This suggests a potential ability to fill the vacancy created in the lower-rate
+ range by the closure of underperforming editions owned by Postmedia and
+ Metroland.
+ It should be noted that there are only 3 to 5 newspaper editions, representing
+ a total of just 28 observations, were operational both before and after
+ the event, and are managed by companies other than Postmedia and Metroland.
+ The sample size for this specific subgroup is relatively small.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Figure_1.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mean Weekly Circulations Across Year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Figure_2.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mean NatlLine Rate Across Year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Figure_3.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Number of Newspaper Editions Across Year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Figure_4.png
+	scale 30
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mean Circulations Across Year For the Newspaper Editions for the Subgroup
+ of Newspapers That Are Operational Both Before and After the Event
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Figure_5.png
+	scale 30
+	rotateOrigin center
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mean NatlLine Rate Across Year For the Newspaper Editions That Are Operational
+ Both Before and After the Event
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

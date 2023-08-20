@@ -1,0 +1,15 @@
+,CompeitionMeasure,Circulation,LineRate,TotalMarketFreeCirculation,Rate/Circulation
+%Mover,0.09,0.32,0.18,0.30,-0.11
+Average Income,-0.09,-0.02,-0.03,0.07,-0.10
+CompetitionMeasure,1.00,-0.04,-0.09,0.19,-0.02
+GiantDummy,-0.10,0.06,0.19,-0.03,-0.05
+Circulation,-0.04,1.00,0.48,0.66,-0.43
+LineRate,-0.09,0.48,1.00,0.38,0.19
+TotalMarketFreeCirculation,0.19,0.66,0.38,1.00,-0.28
+Average Age,0.18,-0.26,-0.07,-0.27,0.21
+Employment Rate,-0.16,0.03,0.02,0.04,0.02
+Population Density,-0.05,0.23,0.37,0.64,-0.14
+Population,-0.07,0.23,0.37,0.74,-0.09
+%TotalMarketFreeCirculation,-0.41,-0.22,-0.09,-0.69,0.17
+Rate/Circulation,-0.02,-0.43,0.19,-0.28,1.00
+Number of Families ,-0.07,0.23,0.37,0.74,-0.09

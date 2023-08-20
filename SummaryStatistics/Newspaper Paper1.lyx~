@@ -1,0 +1,246 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing onehalf
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 3cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Factors Influencing the Circulation Patterns of Canadian Community Newspapers:
+ An Empirical Study
+\end_layout
+
+\begin_layout Author
+Chengjie Diao
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+Despite the extensive attention given to daily newspapers due to their comprehen
+sive coverage of national and international news, there exists a significant
+ research gap when it comes to community newspapers in Canada.
+ There is a severe lack of academic papers discussing community newspapers
+ in Canada.
+ However, these local publications hold a critical role in delivering informatio
+n that is regionally relevant, serving as essential channels for local governmen
+t activities, advertisements, and fundraising for local projects or elections.
+ Moreover, they possess substantial cultural value as a cherished element
+ of Canadian society.
+ Furthur, community newspapers face challenges from online news platforms
+ with declining profitability, which has led to closures of many newspapers.
+ A noteworthy example is the that Postmedia and Toronto Star swapped dozens
+ of community newspapers in 2014, with many of the swapped paper were shut
+ down as a cost-cutting strategy.
+\end_layout
+
+\begin_layout Standard
+Newspapers have a longstanding tradition and appeal to older generations
+ who may be less inclined to access news online.
+ Additionally, community newspapers remain essential in areas with limited
+ internet accessibility, ensuring that residents are not solely reliant
+ on online sources.
+ Hence, it is crucial to obtain a comprehensive understanding of the factors
+ that affecting the circulation patterns of community newspapers since circulati
+on serves as a direct measure of the reach of local news through these publicati
+ons, knowing these factors will help policy makers to subsidize the companies
+ or local regions more accurately with limited funds, and also serves as
+ industrial research to help community newspapers to adjust their strategies
+ to remain high level of circlulations under a shrinking market.
+\end_layout
+
+\begin_layout Standard
+To address this research gap, this paper investigate factors influencing
+ the circulation of Canadian community newspapers.
+ specifically we explores the factors in the following categories:
+\end_layout
+
+\begin_layout Standard
+Ownership: This paper will examine whether newspapers with larger circulations,
+ owned by large media companies, experience more significant declines compared
+ to newspapers with smaller circulations, owned by small companies or family
+ businesses.
+ In addition, this study will examine whether local markets tend to exhibit
+ higher concentrations over time, with large newspapers or newspapers owned
+ by giant companies dominating circulation or these local markets favors
+ small publishers, enabling them to maintain a significant share of circulation
+ without being overshadowed by larger firms.
+ The analysis will span the period from 2013 to 2019.
+\end_layout
+
+\begin_layout Standard
+Competition: This paper will measure the competition level by the number
+ of newspapers circulated in the same census subdivision and the number
+ of newspapers circulated in the same census subdivision owned by other
+ companies.
+ It will investigate whether increased competition leads to a more substantial
+ decline in circulation.
+\end_layout
+
+\begin_layout Standard
+Demographic Characteristics: This paper will analyze how factors such as
+ population size, income levels, and average education levels correlate
+ with circulation patterns.
+ Understanding these demographic dynamics can provide insights into the
+ target audience and readership preferences.
+\end_layout
+
+\begin_layout Standard
+By systematically exploring these factors, the research aims to provide
+ a comprehensive understanding of the factors influencing the circulation
+ of Canadian community newspapers.
+\end_layout
+
+\begin_layout Standard
+To conduct our analysis, we acquired data from News Media Canada spanning
+ the period from 2013 to 2019.
+ This dataset provided valuable insights into free and paid circulations,
+ newspaper ownership, names, and the markets in which they circulated.
+ The circulation areas for each newspaper are consisted of addresses or
+ names of specific locations such as cities, towns, streets, or local districts.
+ However, the dataset did not provide a standardized market level required
+ for further analysis.
+ To address this issue, we utilized the geopy package in Python to obtain
+ representative latitude and longitude coordinates based on the addresses
+ or location names.
+ We then mapped these coordinates to the corresponding census subdivisions
+ in Canada.
+ We defined a newspaper's market as the census subdivision in which it circulate
+d.
+ While this approach may have limitations, such as a newspaper may only
+ circulate in certain streets rather than the entire census subdivision,
+ we consider it a reasonable market definition.
+ This is because most markets indicated in the dataset corresponded to towns
+ or municipalities (census subdivisions).
+ As a result, census subdivisions serve as the most suitable administrative
+ districts for representing the circulation areas of community newspapers.
+\end_layout
+
+\begin_layout Standard
+For each census subdivision, we retrieved demographic characteristics from
+ the CHASS data center.
+ These characteristics included total population, growth rate, age distribution,
+ education levels, and incomes, which have potential relevance to newspaper
+ circulations.
+\end_layout
+
+\begin_layout Standard
+It is important to note that the dataset provided by News Media Canada,
+ while comprehensive, may be subject to noise and incompleteness.
+ This is because newspapers have the choice to subscribe to membership with
+ News Media Canada and voluntarily report their circulation statistics.
+ Consequently, not all community newspapers across Canada are captured in
+ this dataset.
+ Furthermore, if a newspaper appeared in the dataset previously but is absent
+ in the current year, it does not necessarily imply that the newspaper has
+ ceased publication.
+ It could be due to the newspaper suspending its membership or choosing
+ not to report statistics to the association.
+\end_layout
+
+\begin_layout Standard
+However, our discussions with the data provider indicate that most influential
+ newspapers opt to subscribe to News Media Canada as it is the leading associati
+on for community newspapers.
+ Membership offers valuable benefits such as low-cost webinars for editorial,
+ marketing, and advertising departments, sales training, auditing, and represent
+ation of members' interests in various public affairs issues.
+ These services and resources are valuable to community newspapers and can
+ potentially yield cost-cutting benefits.
+ Consequently, we believe that this dataset adequately captures market features
+ and can provide answers to our research questions.
+\end_layout
+
+\begin_layout Standard
+Futhur works:
+\end_layout
+
+\begin_layout Standard
+Methodology: statistics summarization, regressions, or difference in difference
+ analysis), to be done later.
+\end_layout
+
+\begin_layout Standard
+Discuss the result: need to be done after the result comes out.
+\end_layout
+
+\end_body
+\end_document
