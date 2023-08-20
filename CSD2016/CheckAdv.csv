@@ -1,0 +1,2030 @@
+,AdvNewspaper,Issued,AdvCirc,NatlLineRate,SpotColour,ProcessColour,Columns,Lines,MaterialCode,Year
+0,ajax pickering news advertiser,Thursday,52714,4.52,335.0,1160.0,10.0,175.0,10.0,2013
+1,ajax pickering news advertiser,Wednesday,52732,4.52,335.0,1160.0,10.0,175.0,10.0,2013
+2,ajax pickering news advertiser,Thursday,53596,4.94,1160.0,1160.0,10.0,161.0,10,2014
+3,ajax pickering news advertiser,Wednesday,53584,4.94,1160.0,1160.0,10.0,161.0,10,2014
+4,ajax pickering news advertiser,Thursday,53619,4.94,1160.0,1160.0,10.0,161.0,10.0,2015
+5,ajax pickering news advertiser,Wednesday,53619,4.94,1160.0,1160.0,10.0,161.0,10.0,2015
+6,ajax pickering news advertiser,Thursday,53950,4.94,,1160.0,10.0,161.0,10.0,2016
+7,ajax pickering news advertiser,Wednesday,53965,4.94,,1160.0,10.0,161.0,10.0,2016
+8,ajax pickering news advertiser,Thursday,52833,4.94,,1160.0,10.0,161.0,10.0,2017
+9,ajax pickering news advertiser,Wednesday,52855,4.94,,1160.0,10.0,161.0,10.0,2017
+10,ajax pickering news advertiser,Thursday,52624,4.94,,1160.0,10.0,161.0,10.0,2018
+11,ajax pickering news advertiser,Wednesday,52574,4.94,,1160.0,10.0,161.0,10.0,2018
+12,ajax pickering news advertiser,Thursday,53176,4.94,,1160.0,10.0,161.0,10.0,2019
+13,ajax pickering news advertiser,Wednesday,53217,4.94,,1160.0,10.0,161.0,10.0,2019
+14,alexandria glengarry news,Wednesday,5229,0.85,206.0,694.0,8.0,295.0,7.0,2013
+15,alexandria glengarry news,Wednesday,4990,0.85,206.0,694.0,8.0,295.0,5,2014
+16,alexandria glengarry news,Wednesday,4714,0.85,206.0,694.0,8.0,295.0,5.0,2015
+17,alexandria glengarry news,Wednesday,4612,0.85,,694.0,8.0,295.0,5.0,2016
+18,alexandria glengarry news,Wednesday,4615,0.85,,694.0,8.0,295.0,5.0,2017
+19,alexandria glengarry news,Wednesday,4420,0.92,,694.0,8.0,295.0,5.0,2018
+20,alexandria glengarry news,Wednesday,4039,0.92,,694.0,8.0,295.0,5.0,2019
+21,alliston herald,Thursday,22553,3.21,335.0,1160.0,10.0,175.0,10.0,2013
+22,alliston herald,Thursday,22127,3.51,1160.0,1160.0,10.0,161.0,10,2014
+23,alliston herald,Thursday,22266,3.51,1160.0,1160.0,10.0,161.0,10.0,2015
+24,alliston herald,Thursday,22403,3.51,,1160.0,10.0,161.0,10.0,2016
+25,alliston herald,Thursday,22860,3.51,,1160.0,10.0,161.0,10.0,2017
+26,alliston herald,Thursday,23199,3.51,,1160.0,10.0,161.0,10.0,2018
+27,alliston herald,Thursday,22890,3.51,,1160.0,10.0,161.0,10.0,2019
+28,amherstburg river town times,Wednesday,8986,0.77,88.0,382.0,6.0,210.0,5.0,2013
+29,amherstburg river town times,Wednesday,8985,0.79,88.0,382.0,6.0,210.0,5,2014
+30,amherstburg river town times,Wednesday,9177,0.79,88.0,382.0,6.0,210.0,5.0,2015
+31,amherstburg river town times,Wednesday,9185,0.79,,382.0,6.0,210.0,5.0,2016
+32,amherstburg river town times,Wednesday,9133,0.79,,382.0,6.0,210.0,5.0,2017
+33,amherstburg river town times,Wednesday,9280,0.79,,382.0,6.0,210.0,5.0,2018
+34,amherstburg river town times,Wednesday,9442,0.79,,382.0,6.0,210.0,5.0,2019
+35,ancaster news,Thursday,12817,1.7,335.0,1160.0,10.0,175.0,10.0,2013
+36,ancaster news,Thursday,12823,1.85,1160.0,1160.0,10.0,161.0,10,2014
+37,ancaster news,Thursday,12927,1.85,1160.0,1160.0,10.0,161.0,10.0,2015
+38,ancaster news,Thursday,12712,1.85,,1160.0,10.0,161.0,10.0,2016
+39,ancaster news,Thursday,12710,1.85,,1160.0,10.0,161.0,10.0,2017
+40,ancaster news,Thursday,13040,1.85,,1160.0,10.0,161.0,10.0,2018
+41,ancaster news,Thursday,13075,1.85,,1160.0,10.0,161.0,10.0,2019
+42,arnprior chronicle guide,Thursday,7607,1.06,335.0,1160.0,6.0,218.0,5.0,2013
+43,arnprior chronicle guide,Thursday,7668,0.74,1160.0,1160.0,10.0,189.0,10,2014
+44,arnprior chronicle guide,Thursday,7873,0.87,1160.0,1160.0,10.0,161.0,10.0,2015
+45,arnprior chronicle guide,Thursday,7941,0.87,,1160.0,10.0,161.0,10.0,2016
+46,arnprior chronicle guide,Thursday,8332,0.87,,1160.0,10.0,161.0,10.0,2017
+47,arnprior chronicle guide,Thursday,8114,0.87,,1160.0,10.0,161.0,10.0,2018
+48,arnprior chronicle guide,Thursday,7380,0.87,,1160.0,10.0,161.0,10.0,2019
+49,arthur enterprise news,Friday,575,0.86,335.0,1160.0,10.0,175.0,10.0,2013
+50,arthur enterprise news,Wednesday,522,0.93,1160.0,1160.0,10.0,161.0,10,2014
+51,arthur enterprise news,Wednesday,355,0.93,1160.0,1160.0,10.0,161.0,10.0,2015
+52,arthur enterprise news,Wednesday,315,0.93,,1160.0,10.0,161.0,10.0,2016
+53,arthur enterprise news,Wednesday,235,0.93,,1160.0,10.0,161.0,10.0,2017
+54,atikokan progress,Monday,1391,0.79,165.0,471.0,5.0,210.0,4.0,2013
+55,atikokan progress,Monday,1350,0.82,165.0,471.0,5.0,210.0,4,2014
+56,atikokan progress,Monday,1260,0.86,165.0,471.0,5.0,210.0,4.0,2015
+57,atikokan progress,Monday,1193,0.86,,471.0,5.0,210.0,4.0,2016
+58,atikokan progress,Monday,1113,0.88,,471.0,5.0,210.0,4.0,2017
+59,atikokan progress,Monday,1081,0.88,,471.0,5.0,210.0,4.0,2018
+60,atikokan progress,Monday,1041,0.88,,471.0,5.0,210.0,4.0,2019
+61,aurora the auroran,Tuesday,19284,1.24,88.0,194.0,6.0,220.0,5.0,2013
+62,aurora the auroran,Thursday,19575,0.57,88.0,176.0,8.0,301.0,,2014
+63,aurora the auroran,Thursday,19427,0.57,88.0,176.0,8.0,301.0,,2015
+64,aurora the auroran,Thursday,19427,0.57,,176.0,8.0,301.0,9.0,2016
+65,aurora the auroran,Thursday,18184,0.57,,176.0,8.0,301.0,9.0,2017
+66,aurora the auroran,Thursday,18184,0.57,,176.0,8.0,301.0,9.0,2018
+67,aurora the auroran,Thursday,18184,0.57,,176.0,8.0,301.0,9.0,2019
+68,aylmer express,Wednesday,3516,0.75,118.0,294.0,8.0,294.0,2.0,2013
+69,aylmer express,Wednesday,3376,0.77,118.0,294.0,8.0,294.0,2,2014
+70,aylmer express,Wednesday,3421,0.78,118.0,294.0,8.0,294.0,2.0,2015
+71,aylmer express,Wednesday,3421,0.79,,294.0,8.0,294.0,2.0,2016
+72,aylmer express,Wednesday,3314,0.8,,294.0,8.0,294.0,2.0,2017
+73,aylmer express,Wednesday,3090,0.81,,294.0,8.0,294.0,2.0,2018
+74,aylmer express,Wednesday,3026,0.81,,294.0,8.0,294.0,2.0,2019
+75,ayr news,Wednesday,3204,0.77,118.0,412.0,6.0,294.0,1.0,2013
+76,ayr news,Wednesday,3209,0.77,118.0,412.0,6.0,294.0,1,2014
+77,ayr news,Wednesday,3099,0.77,118.0,412.0,6.0,294.0,1.0,2015
+78,ayr news,Wednesday,3082,0.77,,412.0,6.0,294.0,1.0,2016
+79,ayr news,Wednesday,3052,1.4,,412.0,5.0,193.0,4.0,2017
+80,ayr news,Wednesday,2875,1.4,,412.0,5.0,193.0,4.0,2018
+81,ayr news,Wednesday,2747,1.4,,412.0,5.0,193.0,4.0,2019
+82,bancroft this week,Friday,7429,0.97,176.0,176.0,9.0,157.0,3.0,2013
+83,bancroft this week,Friday,7850,0.97,176.0,176.0,9.0,160.0,3,2014
+84,bancroft this week,Friday,7871,0.82,176.0,176.0,9.0,189.0,3.0,2015
+85,bancroft this week,Friday,9338,0.82,,235.0,9.0,189.0,3.0,2016
+86,bancroft this week,Friday,9176,0.82,,235.0,9.0,189.0,3.0,2017
+87,bancroft this week,Friday,8962,0.82,,235.0,9.0,189.0,3.0,2018
+88,bancroft this week,Friday,8962,0.82,,235.0,9.0,189.0,3.0,2019
+89,bancroft times,Thursday,3840,0.66,188.0,565.0,6.0,294.0,1.0,2013
+90,bancroft times,Thursday,3840,0.66,188.0,565.0,6.0,294.0,1,2014
+91,bancroft times,Thursday,3131,0.66,188.0,565.0,6.0,294.0,1.0,2015
+92,bancroft times,Thursday,3383,0.66,,565.0,6.0,294.0,1.0,2016
+93,bancroft times,Thursday,3193,0.66,,565.0,6.0,294.0,1.0,2017
+94,bancroft times,Thursday,2699,0.66,,565.0,6.0,294.0,1.0,2018
+95,bancroft times,Wednesday,2535,0.54,,176.0,8.0,301.0,9.0,2019
+96,barrhaven independent,Friday,10344,0.65,176.0,353.0,6.0,220.0,5.0,2015
+97,barrhaven independent,Friday,10344,0.75,,353.0,6.0,220.0,5.0,2016
+98,barrhaven independent,Friday,10344,0.85,,353.0,6.0,220.0,5.0,2017
+99,barrhaven independent,Friday,6700,1.11,,353.0,6.0,168.0,5.0,2018
+100,barrhaven independent,Friday,6700,1.11,,353.0,6.0,168.0,5.0,2019
+101,barrie advance,Thursday,52243,3.41,335.0,1160.0,10.0,175.0,10.0,2013
+102,barrie advance,Tuesday,52243,3.41,335.0,1160.0,10.0,175.0,10.0,2013
+103,barrie advance,Thursday,52221,3.72,1160.0,1160.0,10.0,161.0,10,2014
+104,barrie advance,Tuesday,52221,3.72,1160.0,1160.0,10.0,161.0,10,2014
+105,barrie advance,Thursday,52359,3.72,1160.0,1160.0,10.0,161.0,10.0,2015
+106,barrie advance,Thursday,52317,3.72,,1160.0,10.0,161.0,10.0,2016
+107,barrie advance,Thursday,52759,3.72,,1160.0,10.0,161.0,10.0,2017
+108,barrie advance,Thursday,52277,3.72,,1160.0,10.0,161.0,10.0,2018
+109,barrie advance,Thursday,51148,3.72,,1160.0,10.0,161.0,10.0,2019
+110,barrie advance innisfil journal,Thursday,62969,4.37,670.0,2320.0,10.0,175.0,10.0,2013
+111,barrie advance innisfil journal,Thursday,63006,4.77,2320.0,2320.0,10.0,161.0,10,2014
+112,barrie advance innisfil journal,Thursday,63357,4.77,2320.0,2320.0,10.0,161.0,10.0,2015
+113,barrie advance innisfil journal,Thursday,63693,4.77,,2320.0,10.0,161.0,10.0,2016
+114,barrie advance innisfil journal,Thursday,64420,4.77,,2320.0,10.0,161.0,10.0,2017
+115,barrie advance innisfil journal,Thursday,64125,4.77,,2320.0,10.0,161.0,10.0,2018
+116,barrie advance innisfil journal,Thursday,62997,4.77,,2320.0,10.0,161.0,10.0,2019
+117,barrys bay the valley gazette,Wednesday,1174,0.73,118.0,176.0,6.0,217.0,5.0,2013
+118,barrys bay the valley gazette,Wednesday,1308,0.73,118.0,176.0,6.0,217.0,5,2014
+119,barrys bay the valley gazette,Wednesday,1471,0.79,176.0,176.0,6.0,217.0,5.0,2015
+120,barrys bay the valley gazette,Wednesday,1629,0.81,,176.0,6.0,217.0,5.0,2016
+121,barrys bay the valley gazette,Wednesday,1629,0.85,,176.0,6.0,217.0,5.0,2017
+122,barrys bay the valley gazette,Wednesday,1638,0.86,,176.0,6.0,217.0,5.0,2018
+123,barrys bay the valley gazette,Wednesday,1526,0.88,,176.0,6.0,217.0,5.0,2019
+124,barrys bay this week,Wednesday,1291,0.8,171.0,235.0,9.0,158.0,3.0,2013
+125,barrys bay this week,Wednesday,1292,0.8,171.0,235.0,9.0,158.0,3,2014
+126,beeton new tecumseth times,Thursday,2092,1.02,158.0,473.0,6.0,210.0,5.0,2013
+127,beeton new tecumseth times,Thursday,1853,1.02,88.0,176.0,6.0,210.0,5,2014
+128,beeton new tecumseth times,Thursday,1409,1.02,88.0,176.0,6.0,210.0,5.0,2015
+129,beeton new tecumseth times,Thursday,1409,1.02,,176.0,6.0,210.0,5.0,2016
+130,beeton new tecumseth times,Thursday,1273,1.02,,176.0,6.0,210.0,5.0,2017
+131,beeton new tecumseth times,Thursday,1279,1.02,,176.0,6.0,210.0,5.0,2018
+132,beeton new tecumseth times,Thursday,1077,0.84,,176.0,6.0,210.0,5.0,2019
+133,belle river lakeshore news,Thursday,9429,0.91,129.0,388.0,6.0,204.0,5.0,2013
+134,belle river lakeshore news,Thursday,9416,0.91,129.0,388.0,6.0,204.0,5,2014
+135,belle river lakeshore news,Thursday,9385,0.95,136.0,408.0,6.0,204.0,5.0,2015
+136,belle river lakeshore news,Thursday,9383,0.95,,408.0,6.0,204.0,5.0,2016
+137,belle river lakeshore news,Thursday,9402,1.0,,428.0,6.0,204.0,5.0,2017
+138,belle river lakeshore news,Thursday,9409,1.09,,428.0,6.0,204.0,5.0,2018
+139,belle river lakeshore news,Thursday,9409,1.09,,428.0,6.0,287.0,5.0,2019
+140,belleville news,Thursday,23146,1.47,335.0,1160.0,6.0,218.0,5.0,2013
+141,belleville news,Thursday,24279,1.28,1160.0,1160.0,10.0,189.0,10,2014
+142,belleville news,Thursday,22354,1.51,1160.0,1160.0,10.0,161.0,10.0,2015
+143,belleville news,Thursday,22872,1.51,,1160.0,10.0,161.0,10.0,2016
+144,belleville news,Thursday,22628,1.51,,1160.0,10.0,161.0,10.0,2017
+145,belleville region the community press,Thursday,45279,2.12,276.0,553.0,9.0,160.0,3.0,2013
+146,belleville region the community press,Thursday,46122,1.73,176.0,176.0,9.0,160.0,3,2014
+147,belleville region the community press,Thursday,45644,1.73,176.0,176.0,9.0,160.0,3.0,2015
+148,belleville region the community press,Thursday,45939,1.73,,176.0,9.0,160.0,3.0,2016
+149,belleville region the community press,Thursday,46391,1.73,,176.0,9.0,160.0,3.0,2017
+150,belleville region the community press,Thursday,46391,1.73,,176.0,10.0,160.0,10.0,2018
+151,belleville region the community press,Thursday,46391,1.73,,176.0,10.0,160.0,10.0,2019
+152,blenheim news tribune,Wednesday,2271,0.52,94.0,153.0,6.0,224.0,5.0,2013
+153,blenheim news tribune,Wednesday,2241,0.52,94.0,153.0,6.0,224.0,5,2014
+154,blenheim news tribune,Wednesday,2272,0.52,94.0,153.0,6.0,224.0,5.0,2015
+155,blenheim news tribune,Wednesday,2112,0.54,,176.0,6.0,224.0,5.0,2016
+156,blenheim news tribune,Wednesday,2112,0.54,,176.0,6.0,224.0,5.0,2017
+157,blenheim news tribune,Wednesday,2088,0.54,,176.0,6.0,224.0,5.0,2018
+158,blenheim news tribune,Wednesday,2088,0.54,,176.0,6.0,224.0,5.0,2019
+159,blyth brussels citizen,Thursday,1844,0.39,71.0,235.0,9.0,210.0,3.0,2013
+160,blyth brussels citizen,Thursday,1820,0.4,71.0,235.0,9.0,210.0,3,2014
+161,blyth brussels citizen,Thursday,1798,0.41,71.0,235.0,9.0,210.0,3.0,2015
+162,blyth brussels citizen,Thursday,1762,0.42,,235.0,9.0,210.0,3.0,2016
+163,blyth brussels citizen,Thursday,1756,0.44,,235.0,9.0,210.0,3.0,2017
+164,blyth brussels citizen,Thursday,1775,0.79,,235.0,5.0,210.0,4.0,2018
+165,blyth brussels citizen,Thursday,1846,0.82,,235.0,5.0,210.0,4.0,2019
+166,bracebridge examiner,Wednesday,2708,1.32,335.0,1160.0,10.0,301.0,10.0,2013
+167,bracebridge examiner,Thursday,8849,2.21,1160.0,1160.0,10.0,161.0,10,2014
+168,bracebridge examiner,Thursday,8974,2.21,1160.0,1160.0,10.0,161.0,10.0,2015
+169,bracebridge examiner,Thursday,8609,2.21,,1160.0,10.0,161.0,10.0,2016
+170,bracebridge examiner,Thursday,8609,2.21,,1160.0,10.0,161.0,10.0,2017
+171,bracebridge examiner,Thursday,7970,2.21,,1160.0,10.0,161.0,10.0,2018
+172,bracebridge examiner,Thursday,7970,2.21,,1160.0,10.0,161.0,10.0,2019
+173,bradford west gwillimbury topic,Thursday,9050,1.37,335.0,1160.0,10.0,175.0,10.0,2013
+174,bradford west gwillimbury topic,Thursday,9507,1.5,1160.0,1160.0,10.0,161.0,10,2014
+175,bradford west gwillimbury topic,Thursday,10330,1.5,1160.0,1160.0,10.0,161.0,10.0,2015
+176,bradford west gwillimbury topic,Thursday,10224,1.5,,1160.0,10.0,161.0,10.0,2016
+177,bradford west gwillimbury topic,Thursday,10538,1.5,,1160.0,10.0,161.0,10.0,2017
+178,bradford west gwillimbury topic,Thursday,10538,1.5,,1160.0,10.0,161.0,10.0,2018
+179,bradford west gwillimbury topic,Thursday,10434,1.5,,1160.0,10.0,161.0,10.0,2019
+180,brampton guardian,Friday,118875,5.66,335.0,1160.0,10.0,175.0,10.0,2013
+181,brampton guardian,Thursday,117857,5.66,335.0,1160.0,10.0,175.0,10.0,2013
+182,brampton guardian,Wednesday,118064,5.66,335.0,1160.0,10.0,175.0,10.0,2013
+183,brampton guardian,Friday,112109,5.07,1160.0,1160.0,10.0,161.0,10,2014
+184,brampton guardian,Thursday,123247,5.07,1160.0,1160.0,10.0,161.0,10,2014
+185,brampton guardian,Wednesday,112430,5.07,1160.0,1160.0,10.0,161.0,10,2014
+186,brampton guardian,Friday,111746,5.07,1160.0,1160.0,10.0,161.0,10.0,2015
+187,brampton guardian,Thursday,126420,5.07,1160.0,1160.0,10.0,161.0,10.0,2015
+188,brampton guardian,Wednesday,114175,5.07,1160.0,1160.0,10.0,161.0,10.0,2015
+189,brampton guardian,Friday,115738,5.07,,1160.0,10.0,161.0,10.0,2016
+190,brampton guardian,Thursday,129139,5.07,,1160.0,10.0,161.0,10.0,2016
+191,brampton guardian,Friday,116447,5.07,,1160.0,10.0,161.0,10.0,2017
+192,brampton guardian,Thursday,129958,5.07,,1160.0,10.0,161.0,10.0,2017
+193,brampton guardian,Thursday,129958,5.07,,1160.0,10.0,161.0,10.0,2018
+194,brampton guardian,Thursday,137258,5.07,,1160.0,10.0,161.0,10.0,2019
+195,brantford brant news,Thursday,48334,2.53,335.0,1160.0,6.0,190.0,5.0,2013
+196,brantford brant news,Thursday,48299,1.85,1160.0,1160.0,10.0,161.0,10,2014
+197,brantford brant news,Thursday,48675,1.85,1160.0,1160.0,10.0,161.0,10.0,2015
+198,brantford brant news,Thursday,48869,1.85,,1160.0,10.0,161.0,10.0,2016
+199,brantford brant news,Thursday,49012,1.85,,1160.0,10.0,161.0,10.0,2017
+200,brantford expositor your tmc newspaper,Thursday,47465,2.51,235.0,471.0,10.0,287.0,3.0,2015
+201,brantford expositor your tmc newspaper,Thursday,43096,2.51,,471.0,10.0,287.0,3.0,2016
+202,brantford expositor your tmc newspaper,Thursday,43096,2.51,,471.0,10.0,287.0,10.0,2017
+203,brantford expositor your tmc newspaper,Thursday,42817,2.58,,485.0,10.0,287.0,10.0,2018
+204,brantford your brant connection,Thursday,51463,1.21,121.0,364.0,9.0,160.0,3.0,2013
+205,brighton independent,Thursday,16983,1.72,335.0,1160.0,10.0,175.0,10.0,2013
+206,brighton independent,Thursday,7251,0.55,1160.0,1160.0,10.0,189.0,10,2014
+207,brighton independent,Thursday,7251,0.64,1160.0,1160.0,10.0,161.0,10.0,2015
+208,brighton independent,Thursday,7775,0.64,,1160.0,10.0,161.0,10.0,2016
+209,brighton independent,Thursday,7876,0.64,,1160.0,10.0,161.0,10.0,2017
+210,brighton independent,Thursday,7874,0.64,,1160.0,10.0,161.0,10.0,2018
+211,brighton independent,Thursday,7889,0.64,,1160.0,10.0,161.0,10.0,2019
+212,brighton independent northumberland news,Thursday,39735,3.81,670.0,2320.0,10.0,175.0,10.0,2013
+213,brock citizen,Thursday,5497,1.58,335.0,1160.0,10.0,175.0,10.0,2013
+214,brock citizen,Thursday,5497,1.73,1160.0,1160.0,10.0,161.0,10,2014
+215,brock citizen,Thursday,5497,1.73,1160.0,1160.0,10.0,161.0,10.0,2015
+216,brock citizen,Thursday,5497,1.73,,1160.0,10.0,161.0,10.0,2016
+217,brock citizen,Thursday,5497,1.73,,1160.0,10.0,161.0,10.0,2017
+218,brock citizen,Thursday,5497,1.73,,1160.0,10.0,161.0,10.0,2018
+219,brock citizen,Thursday,5497,1.73,,1160.0,10.0,161.0,10.0,2019
+220,brockville st. lawrence news,Thursday,28135,0.97,1160.0,1160.0,10.0,189.0,10,2014
+221,brockville st. lawrence news,Thursday,29518,1.14,1160.0,1160.0,10.0,161.0,10.0,2015
+222,brockville st. lawrence news,Thursday,28808,1.14,,1160.0,10.0,161.0,10.0,2016
+223,brockville st. lawrence news,Thursday,30466,1.14,,1160.0,10.0,161.0,10.0,2017
+224,bruce peninsula press,Monthly,2867,0.75,176.0,176.0,8.0,224.0,6.0,2013
+225,bruce peninsula press,Monthly,3080,0.78,176.0,176.0,8.0,224.0,6,2014
+226,bruce peninsula press,Monthly,3080,0.8,176.0,176.0,8.0,224.0,6.0,2015
+227,bruce peninsula press,Monthly,3021,0.82,,176.0,8.0,196.0,6.0,2016
+228,bruce peninsula press,Monthly,2861,0.85,,176.0,8.0,196.0,6.0,2017
+229,bruce peninsula press,Monthly,3096,0.88,,176.0,8.0,196.0,6.0,2018
+230,bruce peninsula press,Monthly,3096,0.91,,176.0,8.0,196.0,6.0,2019
+231,burks falls almaguin news,Thursday,2643,0.83,335.0,1160.0,10.0,301.0,10.0,2013
+232,burks falls almaguin news,Thursday,2767,0.81,1160.0,1160.0,10.0,301.0,10,2014
+233,burks falls almaguin news,Thursday,2373,0.81,1160.0,1160.0,10.0,301.0,10.0,2015
+234,burks falls almaguin news,Thursday,2523,0.81,,1160.0,10.0,301.0,10.0,2016
+235,burks falls almaguin news,Thursday,2380,0.81,,1160.0,10.0,301.0,10.0,2017
+236,burks falls almaguin news,Thursday,2218,0.81,,1160.0,10.0,297.0,10.0,2018
+237,burks falls almaguin news,Thursday,1970,0.81,,1160.0,10.0,297.0,10.0,2019
+238,burlington de nederlandse courant,Monthly,2700,1.31,235.0,235.0,5.0,224.0,4,2014
+239,burlington de nederlandse courant,Monthly,2700,1.47,201.0,201.0,4.0,137.0,,2015
+240,burlington de nederlandse courant,Monthly,2700,1.47,,201.0,4.0,137.0,2.0,2016
+241,burlington post,Friday,49818,5.17,335.0,1160.0,10.0,175.0,10.0,2013
+242,burlington post,Thursday,60967,5.17,335.0,1160.0,10.0,175.0,10.0,2013
+243,burlington post,Wednesday,49598,5.03,335.0,1160.0,10.0,175.0,10.0,2013
+244,burlington post,Friday,49979,5.64,1160.0,1160.0,10.0,161.0,10,2014
+245,burlington post,Thursday,60973,5.64,1160.0,1160.0,10.0,161.0,10,2014
+246,burlington post,Wednesday,49808,5.49,1160.0,1160.0,10.0,161.0,10,2014
+247,burlington post,Friday,49583,5.64,1160.0,1160.0,10.0,161.0,10.0,2015
+248,burlington post,Thursday,60379,5.64,1160.0,1160.0,10.0,161.0,10.0,2015
+249,burlington post,Friday,49456,5.64,,1160.0,10.0,161.0,10.0,2016
+250,burlington post,Thursday,60227,5.64,,1160.0,10.0,161.0,10.0,2016
+251,burlington post,Friday,48790,5.64,,1160.0,10.0,161.0,10.0,2017
+252,burlington post,Thursday,59245,5.64,,1160.0,10.0,161.0,10.0,2017
+253,burlington post,Friday,48174,5.64,,1160.0,10.0,161.0,10.0,2018
+254,burlington post,Thursday,57872,5.64,,1160.0,10.0,161.0,10.0,2018
+255,burlington post,Thursday,57606,5.64,,1160.0,10.0,161.0,10.0,2019
+256,burlington post flamborough review,Thursday,74724,6.08,670.0,2320.0,10.0,175.0,10.0,2013
+257,burlington post flamborough review,Thursday,74724,6.64,2320.0,2320.0,10.0,161.0,10,2014
+258,burlington post flamborough review,Thursday,74235,6.64,2320.0,2320.0,10.0,161.0,10.0,2015
+259,burlington post flamborough review,Thursday,74046,6.64,,2320.0,10.0,161.0,10.0,2016
+260,burlington post flamborough review,Thursday,74046,6.64,,2320.0,10.0,161.0,10.0,2017
+261,burlington post flamborough review,Thursday,72085,6.64,,2320.0,10.0,161.0,10.0,2018
+262,burlington post flamborough review,Thursday,71793,6.64,,2320.0,10.0,161.0,10.0,2019
+263,caledon citizen,Thursday,15965,0.8,59.0,235.0,8.0,276.0,6.0,2013
+264,caledon citizen,Thursday,16226,0.8,59.0,235.0,8.0,300.0,,2014
+265,caledon citizen,Thursday,12240,0.8,59.0,235.0,8.0,300.0,,2015
+266,caledon citizen,Thursday,18566,0.8,,235.0,8.0,300.0,9.0,2016
+267,caledon citizen,Thursday,18566,0.8,,235.0,8.0,300.0,9.0,2017
+268,caledon citizen,Thursday,18566,0.8,,235.0,8.0,300.0,9.0,2018
+269,caledon citizen,Thursday,18566,0.8,,235.0,8.0,300.0,9.0,2019
+270,caledon enterprise,Thursday,16892,1.83,335.0,1160.0,10.0,175.0,10.0,2013
+271,caledon enterprise,Tuesday,12988,1.83,335.0,1160.0,10.0,175.0,10.0,2013
+272,caledon enterprise,Thursday,17140,2.0,1160.0,1160.0,10.0,161.0,10,2014
+273,caledon enterprise,Tuesday,13161,2.0,1160.0,1160.0,10.0,161.0,10,2014
+274,caledon enterprise,Thursday,17089,2.06,1160.0,1160.0,10.0,161.0,10.0,2015
+275,caledon enterprise,Tuesday,13067,2.0,1160.0,1160.0,10.0,161.0,10.0,2015
+276,caledon enterprise,Thursday,17951,2.06,,1160.0,10.0,161.0,10.0,2016
+277,caledon enterprise,Thursday,18657,2.06,,1160.0,10.0,161.0,10.0,2017
+278,caledon enterprise,Thursday,18437,2.06,,1160.0,10.0,161.0,10.0,2018
+279,caledon enterprise,Thursday,19199,2.06,,1160.0,10.0,161.0,10.0,2019
+280,cambridge times,Friday,43059,1.84,335.0,1160.0,10.0,175.0,10.0,2013
+281,cambridge times,Thursday,48159,1.84,335.0,1160.0,10.0,175.0,10.0,2013
+282,cambridge times,Tuesday,43045,1.84,335.0,1160.0,10.0,175.0,10.0,2013
+283,cambridge times,Friday,42992,2.01,1160.0,1160.0,10.0,161.0,10,2014
+284,cambridge times,Thursday,48113,2.22,1160.0,1160.0,10.0,161.0,10,2014
+285,cambridge times,Tuesday,43185,2.01,1160.0,1160.0,10.0,161.0,10,2014
+286,cambridge times,Friday,43070,2.01,1160.0,1160.0,10.0,161.0,10.0,2015
+287,cambridge times,Thursday,48224,2.22,1160.0,1160.0,10.0,161.0,10.0,2015
+288,cambridge times,Tuesday,43067,2.01,1160.0,1160.0,10.0,161.0,10.0,2015
+289,cambridge times,Thursday,48168,2.22,,1160.0,10.0,161.0,10.0,2016
+290,cambridge times,Tuesday,42956,2.01,,1160.0,10.0,161.0,10.0,2016
+291,cambridge times,Thursday,46877,2.22,,1160.0,10.0,161.0,10.0,2017
+292,cambridge times,Tuesday,41666,2.01,,1160.0,10.0,161.0,10.0,2017
+293,cambridge times,Thursday,46295,2.22,,1160.0,10.0,161.0,10.0,2018
+294,cambridge times,Tuesday,41054,2.01,,1160.0,10.0,161.0,10.0,2018
+295,cambridge times,Thursday,46295,2.22,,1160.0,10.0,161.0,10.0,2019
+296,cambridge times,Tuesday,41054,2.01,,1160.0,10.0,161.0,10.0,2019
+297,campbellford northwest emc,Thursday,11630,1.13,335.0,1160.0,6.0,218.0,5.0,2013
+298,campbellford trent hills independent,Thursday,11630,0.98,1160.0,1160.0,10.0,189.0,10,2014
+299,campbellford trent hills independent,Thursday,11750,1.16,1160.0,1160.0,10.0,161.0,10.0,2015
+300,carleton place almonte canadian gazette,Thursday,12509,0.87,335.0,1160.0,6.0,218.0,5.0,2013
+301,carleton place almonte canadian gazette,Thursday,12812,0.61,1160.0,1160.0,10.0,189.0,10,2014
+302,carleton place almonte canadian gazette,Thursday,13125,0.71,1160.0,1160.0,10.0,161.0,10.0,2015
+303,carleton place almonte canadian gazette,Thursday,13376,0.71,,1160.0,10.0,161.0,10.0,2016
+304,carleton place almonte canadian gazette,Thursday,12246,0.71,,1160.0,10.0,161.0,10.0,2017
+305,carleton place almonte canadian gazette,Thursday,11690,0.71,,1160.0,10.0,161.0,10.0,2018
+306,carleton place almonte canadian gazette,Thursday,11547,0.71,,1160.0,10.0,161.0,10.0,2019
+307,central hastings trent hills news,Thursday,20334,1.51,,1160.0,10.0,161.0,10.0,2016
+308,central hastings trent hills news,Thursday,19975,1.51,,1160.0,10.0,161.0,10.0,2017
+309,chatham kent this week,Thursday,43000,1.06,,376.0,9.0,160.0,3.0,2018
+310,chatham kent this week,Thursday,43000,0.95,,376.0,10.0,160.0,10.0,2019
+311,chatham this week,Wednesday,19679,0.99,94.0,376.0,9.0,160.0,3.0,2013
+312,chatham this week,Wednesday,19692,0.99,94.0,376.0,9.0,160.0,3,2014
+313,chatham this week,Wednesday,19670,0.99,94.0,376.0,9.0,160.0,3.0,2015
+314,chatham this week,Wednesday,19785,0.99,,376.0,9.0,160.0,3.0,2016
+315,chatham this week,Wednesday,19760,0.99,,376.0,9.0,160.0,3.0,2017
+316,chatham voice,Thursday,21774,0.97,,,9.0,192.0,3,2014
+317,chatham voice,Thursday,19041,0.97,,,9.0,192.0,3.0,2015
+318,chatham voice,Thursday,19401,0.97,,,9.0,192.0,3.0,2016
+319,chatham voice,Thursday,19290,0.97,,,9.0,192.0,3.0,2017
+320,chatham voice,Thursday,19300,0.97,,,9.0,192.0,3.0,2018
+321,chatham voice,Thursday,19300,0.97,,0.0,9.0,192.0,3.0,2019
+322,chesterville record,Wednesday,1593,0.8,176.0,529.0,6.0,220.0,5.0,2013
+323,chesterville record,Wednesday,2256,0.75,176.0,294.0,6.0,220.0,5,2014
+324,chesterville record,Wednesday,1797,0.82,176.0,294.0,6.0,220.0,5.0,2015
+325,chesterville record,Wednesday,1700,0.82,,294.0,6.0,217.0,5.0,2016
+326,chesterville record,Wednesday,1582,0.82,,294.0,6.0,217.0,5.0,2017
+327,chesterville record,Wednesday,1369,0.82,,294.0,6.0,217.0,5.0,2018
+328,chesterville record,Wednesday,1217,0.82,,294.0,6.0,217.0,5.0,2019
+329,clarington this week,Wednesday/Thursday,25731,2.96,335.0,1160.0,10.0,175.0,10.0,2013
+330,clarington this week,Wednesday/Thursday,25731,2.96,335.0,1160.0,10.0,175.0,10.0,2013
+331,clarington this week,Wednesday/Thursday,25845,3.23,1160.0,1160.0,10.0,161.0,10,2014
+332,clarington this week,Wednesday/Thursday,25845,3.23,1160.0,1160.0,10.0,161.0,10,2014
+333,clarington this week,Wednesday/Thursday,25845,3.23,1160.0,1160.0,10.0,161.0,10.0,2015
+334,clarington this week,Wednesday/Thursday,25845,3.23,1160.0,1160.0,10.0,161.0,10.0,2015
+335,clarington this week,Wednesday/Thursday,25663,3.23,,1160.0,10.0,161.0,10.0,2016
+336,clarington this week,Wednesday/Thursday,25663,3.23,,1160.0,10.0,161.0,10.0,2016
+337,clarington this week,Wednesday/Thursday,25663,3.23,,1160.0,10.0,161.0,10.0,2017
+338,clarington this week,Wednesday/Thursday,25663,3.23,,1160.0,10.0,161.0,10.0,2017
+339,clarington this week,Wednesday/Thursday,25912,3.23,,1160.0,10.0,161.0,10.0,2018
+340,clarington this week,Wednesday/Thursday,25912,3.23,,1160.0,10.0,161.0,10.0,2018
+341,clarington this week,Wednesday/Thursday,25731,3.23,,1160.0,10.0,161.0,10.0,2019
+342,clarington this week,Wednesday/Thursday,25731,3.23,,1160.0,10.0,161.0,10.0,2019
+343,clinton news record,Wednesday,1714,0.72,88.0,353.0,9.0,160.0,3.0,2013
+344,clinton news record,Wednesday,1484,0.72,88.0,353.0,9.0,160.0,3,2014
+345,clinton news record,Wednesday,1339,0.73,88.0,353.0,9.0,160.0,3.0,2015
+346,clinton news record,Wednesday,1232,0.73,,353.0,9.0,160.0,3.0,2016
+347,clinton news record,Wednesday,1157,0.73,,353.0,9.0,160.0,3.0,2017
+348,clinton news record,Wednesday,1004,0.73,,353.0,9.0,160.0,3.0,2018
+349,clinton news record,Wednesday,1004,0.66,,353.0,10.0,160.0,10.0,2019
+350,cochrane times post,Thursday,2007,0.87,128.0,386.0,9.0,160.0,3.0,2013
+351,cochrane times post,Thursday,1882,0.87,128.0,386.0,9.0,160.0,3,2014
+352,cochrane times post,Thursday,1712,0.87,128.0,386.0,9.0,160.0,3.0,2015
+353,cochrane times post,Thursday,1539,0.87,,386.0,9.0,160.0,3.0,2016
+354,cochrane times post,Thursday,1381,0.87,,386.0,9.0,160.0,3.0,2017
+355,cochrane times post,Thursday,1093,0.87,,386.0,9.0,160.0,3.0,2018
+356,cochrane times post,Thursday,974,0.87,,386.0,10.0,160.0,10.0,2019
+357,collingwood connection,Thursday,11500,2.16,335.0,1160.0,10.0,175.0,10.0,2013
+358,collingwood connection,Thursday,10819,2.35,1160.0,1160.0,10.0,161.0,10,2014
+359,collingwood connection,Thursday,11098,2.35,1160.0,1160.0,10.0,161.0,10.0,2015
+360,collingwood connection,Thursday,11509,2.35,,1160.0,10.0,161.0,10.0,2016
+361,collingwood connection,Thursday,11441,2.35,,1160.0,10.0,161.0,10.0,2017
+362,collingwood connection,Thursday,11584,2.35,,1160.0,10.0,161.0,10.0,2018
+363,collingwood connection,Thursday,11586,2.35,,1160.0,10.0,161.0,10.0,2019
+364,collingwood connection wasaga stayner sun,Thursday,23164,3.53,2320.0,2320.0,10.0,161.0,10,2014
+365,collingwood connection wasaga stayner sun,Thursday,23354,3.53,2320.0,2320.0,10.0,161.0,10.0,2015
+366,collingwood connection wasaga stayner sun,Thursday,23765,3.53,,2320.0,10.0,161.0,10.0,2016
+367,collingwood connection wasaga stayner sun,Thursday,23948,3.53,,2320.0,10.0,161.0,10.0,2017
+368,collingwood connection wasaga stayner sun,Thursday,24635,3.53,,2320.0,10.0,161.0,10.0,2018
+369,collingwood connection wasaga stayner sun,Thursday,24825,3.53,,2320.0,10.0,161.0,10.0,2019
+370,collingwood enterprise bulletin,Friday,17041,0.98,186.0,309.0,10.0,287.0,3.0,2013
+371,collingwood enterprise bulletin,Friday,18389,0.98,186.0,309.0,10.0,287.0,3,2014
+372,collingwood enterprise bulletin,Friday,19153,0.98,186.0,309.0,10.0,287.0,3.0,2015
+373,collingwood enterprise bulletin,Friday,19153,1.0,,319.0,10.0,287.0,3.0,2016
+374,collingwood enterprise bulletin,Friday,19153,1.0,,319.0,10.0,287.0,10.0,2017
+375,cornwall express,Thursday,36541,1.6,229.0,229.0,8.0,224.0,12.0,2013
+376,cornwall express,Thursday,36541,1.6,229.0,229.0,8.0,224.0,12,2014
+377,cornwall express,Thursday,36541,,,,8.0,175.0,12.0,2015
+378,cornwall express,Thursday,36541,,,,8.0,175.0,12.0,2016
+379,cornwall express,Thursday,36541,,,,8.0,175.0,12.0,2017
+380,cornwall express,Wednesday,36541,,,,8.0,175.0,12.0,2018
+381,cornwall seaway news,Thursday,36541,1.6,229.0,229.0,8.0,224.0,12.0,2013
+382,cornwall seaway news,Thursday,36541,1.6,229.0,229.0,8.0,224.0,12,2014
+383,cornwall seaway news,Thursday,36541,,,,8.0,175.0,12.0,2015
+384,cornwall seaway news,Thursday,36541,,,,8.0,175.0,12.0,2016
+385,cornwall seaway news,Thursday,36541,,,,8.0,175.0,12.0,2017
+386,cornwall seaway news,Wednesday,36541,,,,8.0,175.0,12.0,2018
+387,cornwall seaway news,Wednesday,36541,,,,8.0,175.0,12.0,2019
+388,creemore echo,Friday,3546,0.69,265.0,265.0,6.0,220.0,5.0,2013
+389,creemore echo,Friday,3659,0.69,265.0,265.0,6.0,220.0,5,2014
+390,creemore echo,Friday,3901,0.69,118.0,118.0,6.0,220.0,5.0,2015
+391,creemore echo,Friday,3831,0.69,,118.0,6.0,220.0,5.0,2016
+392,creemore echo,Friday,3846,0.69,,118.0,6.0,220.0,5.0,2017
+393,creemore echo,Friday,3896,0.69,,118.0,6.0,220.0,5.0,2018
+394,creemore echo,Friday,3896,0.69,,118.0,6.0,220.0,5.0,2019
+395,deep river north renfrew times,Wednesday,1963,0.49,310.0,310.0,9.0,196.0,3.0,2013
+396,deep river north renfrew times,Wednesday,1963,0.51,224.0,224.0,9.0,196.0,3,2014
+397,deep river north renfrew times,Wednesday,1809,0.53,224.0,224.0,9.0,196.0,3.0,2015
+398,deep river north renfrew times,Wednesday,1831,0.53,,224.0,9.0,196.0,3.0,2016
+399,deep river north renfrew times,Wednesday,1783,0.55,,224.0,9.0,196.0,3.0,2017
+400,deep river north renfrew times,Wednesday,1661,0.71,,282.0,9.0,196.0,3.0,2018
+401,deep river north renfrew times,Wednesday,1550,0.71,,282.0,9.0,196.0,3.0,2019
+402,delhi news record,Wednesday,542,1.07,135.0,400.0,9.0,160.0,3.0,2013
+403,delhi news record,Wednesday,506,1.07,135.0,400.0,9.0,160.0,3,2014
+404,delhi news record,Thursday,3200,1.07,135.0,400.0,10.0,287.0,3.0,2015
+405,delhi news record,Thursday,3200,1.07,,400.0,10.0,287.0,3.0,2016
+406,delhi news record,Thursday,3200,1.09,,400.0,10.0,287.0,10.0,2017
+407,delhi news record,Thursday,3200,1.11,,400.0,10.0,287.0,10.0,2018
+408,delhi news record,Thursday,3200,1.11,,400.0,10.0,287.0,10.0,2019
+409,dorchester signpost,Wednesday,1766,1.06,176.0,529.0,5.0,221.0,4.0,2013
+410,dorchester signpost,Wednesday,1750,1.09,176.0,176.0,5.0,221.0,4,2014
+411,dorchester signpost,Wednesday,1670,1.09,176.0,176.0,5.0,221.0,4.0,2015
+412,dorchester signpost,Wednesday,1670,1.09,,176.0,5.0,221.0,4.0,2016
+413,dorchester signpost,Wednesday,1566,1.09,,176.0,5.0,221.0,4.0,2017
+414,dorchester signpost,Wednesday,1468,1.15,,188.0,5.0,221.0,4.0,2018
+415,dorchester signpost,Wednesday,1428,1.19,,200.0,5.0,221.0,4.0,2019
+416,drayton community news,Friday,5404,0.71,282.0,282.0,6.0,220.0,5.0,2013
+417,drayton community news,Friday,5369,0.71,282.0,282.0,6.0,220.0,5,2014
+418,drayton community news,Friday,5407,0.71,282.0,282.0,6.0,220.0,5.0,2015
+419,drayton community news,Friday,5451,0.71,,282.0,6.0,220.0,5.0,2016
+420,drayton community news,Friday,5157,0.74,,282.0,6.0,220.0,5.0,2017
+421,drayton community news,Friday,5048,0.74,,282.0,6.0,220.0,5.0,2018
+422,drayton community news,Thursday,5051,0.74,,282.0,6.0,220.0,5.0,2019
+423,dresden bothwell leader spirit,Thursday,4500,0.61,82.0,188.0,9.0,160.0,3.0,2013
+424,dryden observer,Wednesday,2885,0.85,126.0,315.0,6.0,301.0,2.0,2013
+425,dryden observer,Wednesday,2885,0.86,126.0,315.0,6.0,301.0,2,2014
+426,dryden observer,Wednesday,2345,0.87,126.0,315.0,6.0,301.0,2.0,2015
+427,dryden observer,Wednesday,2190,1.64,,315.0,6.0,160.0,5.0,2016
+428,dryden observer,Wednesday,2080,1.66,,315.0,6.0,160.0,5.0,2017
+429,dryden observer,Wednesday,1727,1.68,,315.0,6.0,160.0,5.0,2018
+430,dryden observer red lake northern sun news,Wednesday,2538,2.19,,315.0,6.0,160.0,5.0,2019
+431,dryden the rising sun,Friday,4350,1.89,,433.0,6.0,160.0,5.0,2017
+432,dundalk herald,Wednesday,1813,0.82,353.0,353.0,6.0,301.0,1.0,2013
+433,dundalk herald,Wednesday,1817,0.82,353.0,353.0,6.0,301.0,2,2014
+434,dundalk herald,Wednesday,1730,0.82,353.0,353.0,6.0,301.0,2.0,2015
+435,dundalk herald,Wednesday,1730,0.82,,353.0,6.0,301.0,2.0,2016
+436,dundalk herald,Wednesday,1777,0.82,,353.0,6.0,301.0,2.0,2017
+437,dundalk herald,Wednesday,1443,0.82,,353.0,6.0,301.0,2.0,2018
+438,dundalk herald,Wednesday,1443,0.82,,353.0,6.0,301.0,2.0,2019
+439,dundas star news,Thursday,18105,1.7,335.0,1160.0,10.0,175.0,10.0,2013
+440,dundas star news,Thursday,18117,1.85,1160.0,1160.0,10.0,161.0,10,2014
+441,dundas star news,Thursday,15745,1.85,1160.0,1160.0,10.0,161.0,10.0,2015
+442,dundas star news,Thursday,15415,1.85,,1160.0,10.0,161.0,10.0,2016
+443,dundas star news,Thursday,15413,1.85,,1160.0,10.0,161.0,10.0,2017
+444,dundas star news,Thursday,15067,1.85,,1160.0,10.0,161.0,10.0,2018
+445,dundas star news,Thursday,14638,1.85,,1160.0,10.0,161.0,10.0,2019
+446,east gwillimbury express,Thursday,7550,0.54,1160.0,1160.0,10.0,301.0,10.0,2015
+447,east gwillimbury express,Thursday,7443,0.54,,1160.0,10.0,301.0,10.0,2016
+448,east gwillimbury express,Thursday,7276,0.54,,1160.0,10.0,301.0,10.0,2017
+449,east gwillimbury express,Thursday,7276,0.54,,1160.0,10.0,161.0,10.0,2018
+450,east gwillimbury express,Thursday,7259,0.54,,1160.0,10.0,161.0,10.0,2019
+451,east york beach neighbourhood voice,Thursday,45704,6.18,,1160.0,10.0,161.0,10.0,2019
+452,east york riverdale beach mirror,Thursday,55569,5.49,335.0,1160.0,10.0,175.0,10.0,2013
+453,east york riverdale beach mirror,Thursday,56393,6.0,1160.0,1160.0,10.0,161.0,10,2014
+454,east york riverdale beach mirror,Thursday,56734,6.0,1160.0,1160.0,10.0,161.0,10.0,2015
+455,east york riverdale beach mirror,Thursday,58355,6.0,,1160.0,10.0,161.0,10.0,2016
+456,east york riverdale beach mirror,Thursday,57549,6.0,,1160.0,10.0,161.0,10.0,2017
+457,east york riverdale beach mirror,Thursday,57123,6.18,,1160.0,10.0,161.0,10.0,2018
+458,eganville leader,Wednesday,5466,0.97,176.0,412.0,8.0,294.0,7.0,2013
+459,eganville leader,Wednesday,5453,0.97,176.0,412.0,8.0,294.0,7,2014
+460,eganville leader,Wednesday,5831,0.97,176.0,412.0,8.0,294.0,7.0,2015
+461,eganville leader,Wednesday,6018,0.97,,412.0,8.0,294.0,7.0,2016
+462,eganville leader,Wednesday,6096,0.97,,412.0,8.0,294.0,7.0,2017
+463,eganville leader,Wednesday,5629,1.0,,412.0,8.0,294.0,7.0,2018
+464,eganville leader,Wednesday,5652,1.06,,412.0,8.0,294.0,7.0,2019
+465,elliot lake the standard,Wednesday,3775,0.85,59.0,176.0,9.0,210.0,3.0,2013
+466,elliot lake the standard,Thursday,3715,0.87,59.0,176.0,9.0,210.0,3,2014
+467,elliot lake the standard,Thursday,3238,0.99,59.0,176.0,9.0,175.0,3.0,2015
+468,elliot lake the standard,Thursday,2931,0.99,,176.0,9.0,160.0,3.0,2016
+469,elliot lake the standard,Thursday,2588,0.99,,176.0,9.0,160.0,3.0,2017
+470,elliot lake the standard,Thursday,2357,0.99,,176.0,9.0,160.0,3.0,2018
+471,elliot lake the standard,Thursday,2135,0.99,,176.0,10.0,160.0,10.0,2019
+472,elmira independent,Thursday,3176,0.95,116.0,294.0,10.0,175.0,10.0,2013
+473,elmira independent,Thursday,4034,1.03,294.0,294.0,10.0,161.0,10,2014
+474,elmira independent,Friday,10591,0.85,294.0,294.0,10.0,161.0,10.0,2015
+475,elmira woolwich observer,Saturday,15107,1.18,147.0,441.0,6.0,196.0,5.0,2013
+476,elmira woolwich observer,Saturday,15139,1.18,353.0,353.0,6.0,193.0,5,2014
+477,elmira woolwich observer,Saturday,15204,1.18,353.0,353.0,6.0,193.0,5.0,2015
+478,elmira woolwich observer,Thursday,14911,1.18,,353.0,6.0,193.0,5.0,2016
+479,elmira woolwich observer,Thursday,14915,1.18,,353.0,6.0,193.0,5.0,2017
+480,elmira woolwich observer,Thursday,14866,1.24,,353.0,6.0,193.0,5.0,2018
+481,elmira woolwich observer,Thursday,14866,1.27,,353.0,6.0,193.0,5.0,2019
+482,elmvale springwater news,Thursday,15194,0.71,294.0,294.0,9.0,224.0,3.0,2013
+483,elmvale springwater news,Thursday,17155,0.82,294.0,294.0,9.0,224.0,3,2014
+484,elmvale springwater news,Thursday,17597,0.82,294.0,294.0,9.0,224.0,3.0,2015
+485,elmvale springwater news,Thursday,17597,0.82,,294.0,9.0,224.0,3.0,2016
+486,elmvale springwater news,Thursday,17597,0.82,,294.0,9.0,224.0,3.0,2017
+487,elmvale springwater news,Thursday,17597,0.82,,294.0,9.0,224.0,3.0,2018
+488,elmvale springwater news,Thursday,17597,0.82,,294.0,9.0,224.0,3.0,2019
+489,erin advocate,Wednesday,1698,1.84,335.0,1160.0,10.0,175.0,10.0,2013
+490,erin advocate,Wednesday,1750,2.01,1160.0,1160.0,10.0,161.0,10,2014
+491,erin advocate,Wednesday,1384,2.01,1160.0,1160.0,10.0,161.0,10.0,2015
+492,erin advocate,Wednesday,1250,2.01,,1160.0,10.0,161.0,10.0,2016
+493,erin advocate,Wednesday,1074,2.01,,1160.0,10.0,161.0,10.0,2017
+494,erin advocate,Thursday,2849,2.01,,1160.0,10.0,161.0,10.0,2018
+495,erin advocate,Thursday,2849,2.01,,1160.0,10.0,161.0,10.0,2019
+496,espanola mid north monitor,Wednesday,1630,0.68,59.0,176.0,9.0,210.0,3.0,2013
+497,espanola mid north monitor,Thursday,1233,0.71,59.0,176.0,9.0,210.0,3,2014
+498,espanola mid north monitor,Thursday,949,0.81,59.0,176.0,9.0,175.0,3.0,2015
+499,espanola mid north monitor,Thursday,820,0.81,,176.0,9.0,160.0,3.0,2016
+500,espanola mid north monitor,Thursday,793,0.81,,176.0,9.0,160.0,3.0,2017
+501,espanola mid north monitor,Thursday,793,0.81,,176.0,9.0,160.0,3.0,2018
+502,espanola mid north monitor,Thursday,793,0.81,,176.0,10.0,160.0,10.0,2019
+503,essex free press,Thursday,10483,0.81,235.0,235.0,6.0,220.0,5.0,2013
+504,essex free press,Thursday,10142,0.81,118.0,118.0,6.0,203.0,5,2014
+505,essex free press,Thursday,10016,0.81,118.0,118.0,6.0,203.0,5.0,2015
+506,essex free press,Thursday,9917,0.84,,118.0,6.0,203.0,5.0,2016
+507,essex free press,Thursday,9975,0.84,,118.0,6.0,203.0,5.0,2017
+508,essex free press,Thursday,9900,0.84,,118.0,6.0,203.0,5.0,2018
+509,essex free press,Thursday,9950,0.89,,118.0,6.0,203.0,5.0,2019
+510,etobicoke guardian,Friday,69131,6.08,335.0,1160.0,10.0,175.0,10.0,2013
+511,etobicoke guardian,Thursday,69433,6.08,335.0,1160.0,10.0,175.0,10.0,2013
+512,etobicoke guardian,Thursday,69333,6.64,1160.0,1160.0,10.0,161.0,10,2014
+513,etobicoke guardian,Thursday,70109,6.64,1160.0,1160.0,10.0,161.0,10.0,2015
+514,etobicoke guardian,Thursday,71507,6.64,,1160.0,10.0,161.0,10.0,2016
+515,etobicoke guardian,Thursday,70703,6.64,,1160.0,10.0,161.0,10.0,2017
+516,etobicoke guardian,Thursday,68437,6.84,,1160.0,10.0,161.0,10.0,2018
+517,etobicoke guardian,Thursday,67721,6.84,,1160.0,10.0,161.0,10.0,2019
+518,exeter times advocate,Wednesday,2888,0.96,335.0,1160.0,10.0,175.0,10.0,2013
+519,exeter times advocate,Wednesday,2830,1.05,1160.0,1160.0,10.0,161.0,10,2014
+520,exeter times advocate,Wednesday,2538,1.05,1160.0,1160.0,10.0,161.0,10.0,2015
+521,exeter times advocate,Wednesday,2513,1.05,,1160.0,10.0,161.0,10.0,2016
+522,exeter times advocate,Wednesday,2242,1.05,,1160.0,10.0,161.0,10.0,2017
+523,exeter times advocate,Wednesday,2005,1.05,,118.0,10.0,161.0,10.0,2018
+524,exeter times advocate,Wednesday,2871,1.05,,118.0,10.0,161.0,10.0,2019
+525,exeter times advocate weekender,Friday,11148,1.06,335.0,1160.0,10.0,175.0,10.0,2013
+526,exeter times advocate weekender,Thursday,10400,1.16,1160.0,1160.0,10.0,161.0,10,2014
+527,exeter times advocate weekender,Thursday,11027,1.16,1160.0,1160.0,10.0,161.0,10.0,2015
+528,exeter times advocate weekender,Thursday,11097,1.16,,1160.0,10.0,161.0,10.0,2016
+529,exeter times advocate weekender,Thursday,11097,1.16,,1160.0,10.0,161.0,10.0,2017
+530,exeter times advocate weekender,Thursday,11324,1.05,,118.0,10.0,161.0,10.0,2018
+531,exeter times advocate weekender,Thursday,11324,1.05,,118.0,10.0,161.0,10.0,2019
+532,fergus elora news express,Wednesday,8070,1.11,116.0,294.0,10.0,175.0,10.0,2013
+533,fergus elora news express,Wednesday,8172,1.21,294.0,294.0,10.0,161.0,10,2014
+534,fergus elora news express,Wednesday,8071,1.21,294.0,294.0,10.0,161.0,10.0,2015
+535,fergus elora news express,Wednesday,7973,1.21,,294.0,10.0,161.0,10.0,2016
+536,fergus elora news express,Wednesday,8303,1.21,,294.0,10.0,161.0,10.0,2017
+537,fergus wellington advertiser,Friday,40314,1.61,282.0,282.0,6.0,220.0,5.0,2013
+538,fergus wellington advertiser,Friday,40068,1.61,282.0,282.0,6.0,220.0,5,2014
+539,fergus wellington advertiser,Friday,40470,1.64,282.0,282.0,6.0,220.0,5.0,2015
+540,fergus wellington advertiser,Friday,40208,1.64,,282.0,6.0,220.0,5.0,2016
+541,fergus wellington advertiser,Friday,39929,1.71,,282.0,6.0,220.0,5.0,2017
+542,fergus wellington advertiser,Friday,39925,1.76,,282.0,6.0,220.0,5.0,2018
+543,fergus wellington advertiser,Thursday,40151,1.76,,282.0,6.0,220.0,5.0,2019
+544,flesherton advance,Wednesday,1335,0.82,353.0,353.0,6.0,301.0,1.0,2013
+545,flesherton advance,Wednesday,1268,0.82,353.0,353.0,6.0,301.0,2,2014
+546,flesherton advance,Wednesday,1292,0.82,353.0,353.0,6.0,301.0,2.0,2015
+547,flesherton advance,Wednesday,1292,0.82,,353.0,6.0,301.0,2.0,2016
+548,flesherton advance,Wednesday,1299,0.82,,353.0,6.0,301.0,2.0,2017
+549,flesherton advance,Wednesday,1221,0.82,,353.0,6.0,301.0,2.0,2018
+550,flesherton advance,Wednesday,1221,0.82,,353.0,6.0,301.0,2.0,2019
+551,forest standard,Thursday,2110,0.89,76.0,271.0,6.0,210.0,5.0,2013
+552,forest standard,Thursday,2121,0.89,76.0,271.0,6.0,210.0,5,2014
+553,forest standard,Thursday,1959,0.91,100.0,271.0,6.0,210.0,5.0,2015
+554,forest watford standard guide advocate,Thursday,2069,1.2,,282.0,6.0,210.0,5.0,2016
+555,forest watford standard guide advocate,Thursday,1919,1.2,,282.0,6.0,210.0,5.0,2017
+556,forest watford standard guide advocate,Thursday,1754,1.2,,282.0,6.0,210.0,5.0,2018
+557,forest watford standard guide advocate,Thursday,1466,1.2,,282.0,6.0,210.0,5.0,2019
+558,fort erie times,Saturday,11985,0.74,88.0,206.0,9.0,160.0,3.0,2013
+559,fort erie times,Thursday,12192,0.74,88.0,206.0,9.0,160.0,3,2014
+560,fort erie times,Thursday,12321,0.74,88.0,206.0,9.0,160.0,3.0,2015
+561,fort erie times,Thursday,12482,0.74,,206.0,9.0,160.0,3.0,2016
+562,fort erie times,Thursday,12530,0.74,,206.0,9.0,160.0,3.0,2017
+563,fort frances times,Wednesday,4455,1.35,135.0,382.0,6.0,301.0,1.0,2013
+564,fort frances times,Wednesday,4023,1.35,135.0,382.0,6.0,301.0,1,2014
+565,fort frances times,Wednesday,4007,1.39,135.0,388.0,6.0,301.0,1.0,2015
+566,fort frances times,Wednesday,3394,1.42,,388.0,6.0,301.0,1.0,2016
+567,fort frances times,Wednesday,3816,1.45,,395.0,6.0,301.0,1.0,2017
+568,fort frances times,Wednesday,3420,1.52,,395.0,6.0,301.0,1.0,2018
+569,fort frances times,Wednesday,3059,1.55,,400.0,6.0,301.0,1.0,2019
+570,frontenac gazette,Thursday,8515,0.57,1160.0,1160.0,10.0,189.0,10,2014
+571,frontenac gazette,Thursday,8727,0.67,1160.0,1160.0,10.0,161.0,10.0,2015
+572,frontenac gazette,Thursday,8882,0.67,,1160.0,10.0,161.0,10.0,2016
+573,frontenac gazette,Thursday,8622,0.67,,1160.0,10.0,161.0,10.0,2017
+574,frontenac news,Thursday,8641,0.82,335.0,1160.0,6.0,218.0,5.0,2013
+575,frontenac news,Thursday,9198,0.88,106.0,235.0,6.0,205.0,5.0,2013
+576,frontenac news,Thursday,9166,1.0,106.0,235.0,6.0,205.0,5,2014
+577,frontenac news,Thursday,9210,1.0,106.0,235.0,6.0,205.0,5.0,2015
+578,frontenac news,Thursday,9159,1.02,,259.0,6.0,205.0,5.0,2016
+579,frontenac news,Thursday,9135,1.02,,259.0,6.0,205.0,5.0,2017
+580,frontenac news,Thursday,9274,1.06,,259.0,6.0,205.0,5.0,2018
+581,frontenac news,Thursday,12241,1.12,,259.0,6.0,205.0,5.0,2019
+582,gananoque reporter,Thursday,7500,1.08,176.0,429.0,9.0,160.0,3.0,2013
+583,gananoque reporter,Thursday,7500,1.11,176.0,429.0,9.0,160.0,3,2014
+584,gananoque reporter,Thursday,6782,1.11,176.0,429.0,9.0,160.0,3.0,2015
+585,gananoque reporter,Thursday,6463,1.11,,429.0,9.0,160.0,3.0,2016
+586,gananoque reporter,Thursday,6463,1.11,,429.0,9.0,160.0,3.0,2017
+587,gananoque reporter,Thursday,6452,1.11,,429.0,10.0,160.0,10.0,2018
+588,gananoque reporter,Thursday,6452,1.11,,429.0,10.0,160.0,10.0,2019
+589,georgetown acton independent free press,Thursday,22197,2.57,335.0,1160.0,10.0,175.0,10.0,2013
+590,georgetown acton independent free press,Tuesday,22022,2.57,335.0,1160.0,10.0,175.0,10.0,2013
+591,georgetown acton independent free press,Thursday,22215,2.8,1160.0,1160.0,10.0,161.0,10,2014
+592,georgetown acton independent free press,Thursday,22304,2.8,1160.0,1160.0,10.0,161.0,10.0,2015
+593,georgetown acton independent free press,Thursday,22541,2.8,,1160.0,10.0,161.0,10.0,2016
+594,georgetown acton independent free press,Thursday,22585,2.8,,1160.0,10.0,161.0,10.0,2017
+595,georgetown acton independent free press,Thursday,22585,2.8,,1160.0,10.0,161.0,10.0,2018
+596,georgetown acton independent free press,Thursday,23583,2.8,,1160.0,10.0,161.0,10.0,2019
+597,georgina advocate,Thursday,17008,1.92,335.0,1160.0,10.0,175.0,10.0,2013
+598,georgina advocate,Thursday,17139,2.1,1160.0,1160.0,10.0,161.0,10,2014
+599,georgina advocate,Thursday,17530,2.1,1160.0,1160.0,10.0,161.0,10.0,2015
+600,georgina advocate,Thursday,17539,2.1,,1160.0,10.0,161.0,10.0,2016
+601,georgina advocate,Thursday,17190,2.1,,1160.0,10.0,161.0,10.0,2017
+602,georgina advocate,Thursday,17190,2.1,,1160.0,10.0,161.0,10.0,2018
+603,georgina advocate,Thursday,16877,2.1,,1160.0,10.0,161.0,10.0,2019
+604,geraldton times star,Wednesday,1098,0.72,259.0,0.0,5.0,220.0,4.0,2013
+605,geraldton times star,Wednesday,1092,0.73,265.0,0.0,5.0,220.0,4,2014
+606,geraldton times star,Wednesday,1075,0.75,271.0,,5.0,220.0,4.0,2015
+607,geraldton times star,Wednesday,770,0.81,,,5.0,220.0,4.0,2016
+608,geraldton times star,Wednesday,770,0.86,,,5.0,220.0,4.0,2017
+609,geraldton times star,Wednesday,661,0.98,,,5.0,220.0,4.0,2018
+610,geraldton times star,Wednesday,489,0.99,,,5.0,220.0,4.0,2019
+611,glanbrook gazette,Thursday,7663,0.78,335.0,1160.0,10.0,175.0,10.0,2013
+612,glanbrook gazette,Thursday,8064,0.85,1160.0,1160.0,10.0,161.0,10,2014
+613,glanbrook gazette,Thursday,8391,0.85,1160.0,1160.0,10.0,161.0,10.0,2015
+614,glanbrook gazette,Thursday,8550,0.85,,1160.0,10.0,161.0,10.0,2016
+615,glanbrook gazette,Thursday,8756,0.85,,1160.0,10.0,161.0,10.0,2017
+616,glanbrook gazette,Thursday,9194,0.85,,1160.0,10.0,161.0,10.0,2018
+617,glanbrook gazette,Thursday,9194,0.85,,1160.0,10.0,161.0,10.0,2019
+618,glencoe transcript free press,Thursday,1258,0.89,76.0,271.0,6.0,210.0,5.0,2013
+619,glencoe transcript free press,Thursday,1196,0.89,76.0,271.0,6.0,210.0,5,2014
+620,glencoe transcript free press,Thursday,1107,0.91,100.0,271.0,6.0,210.0,5.0,2015
+621,goderich signal star,Wednesday,4403,0.78,88.0,235.0,9.0,160.0,3.0,2013
+622,goderich signal star,Wednesday,4276,0.78,88.0,235.0,9.0,160.0,3,2014
+623,goderich signal star,Wednesday,3772,0.77,88.0,235.0,9.0,160.0,3.0,2015
+624,goderich signal star,Wednesday,3607,0.77,,235.0,9.0,160.0,3.0,2016
+625,goderich signal star,Wednesday,3585,0.77,,235.0,9.0,160.0,3.0,2017
+626,goderich signal star,Wednesday,3126,0.77,,235.0,9.0,160.0,3.0,2018
+627,goderich signal star,Wednesday,2744,0.69,,235.0,10.0,160.0,10.0,2019
+628,grand bend lakeshore advance,Wednesday,1152,0.66,88.0,353.0,9.0,160.0,3.0,2013
+629,grand bend lakeshore advance,Wednesday,1141,0.72,88.0,353.0,9.0,160.0,3,2014
+630,grand bend lakeshore advance,Wednesday,992,0.73,88.0,353.0,9.0,160.0,3.0,2015
+631,grand bend lakeshore advance,Wednesday,908,0.73,,353.0,9.0,160.0,3.0,2016
+632,grand bend lakeshore advance,Wednesday,908,0.73,,353.0,9.0,160.0,3.0,2017
+633,grand bend lakeshore advance,Wednesday,908,0.73,,353.0,9.0,160.0,3.0,2018
+634,gravenhurst banner,Wednesday,1546,1.14,335.0,1160.0,10.0,301.0,10.0,2013
+635,gravenhurst banner,Thursday,5492,1.87,1160.0,1160.0,10.0,161.0,10,2014
+636,gravenhurst banner,Thursday,5516,1.87,1160.0,1160.0,10.0,161.0,10.0,2015
+637,gravenhurst banner,Thursday,5392,1.87,,1160.0,10.0,161.0,10.0,2016
+638,gravenhurst banner,Thursday,5564,1.87,,1160.0,10.0,161.0,10.0,2017
+639,gravenhurst banner,Thursday,5412,1.87,,1160.0,10.0,161.0,10.0,2018
+640,gravenhurst banner,Thursday,5412,1.87,,1160.0,10.0,161.0,10.0,2019
+641,grey bruce this week,Thursday,31665,1.47,59.0,59.0,9.0,160.0,3.0,2015
+642,grey bruce this week,Thursday,31665,1.47,,59.0,9.0,160.0,3.0,2016
+643,grey bruce this week,Thursday,29783,1.47,,59.0,9.0,160.0,3.0,2017
+644,grey bruce this week,Thursday,29783,1.47,,59.0,9.0,160.0,3.0,2018
+645,grey bruce this week,Thursday,29783,1.33,,59.0,10.0,160.0,10.0,2019
+646,grimsby lincoln news,Wednesday,23850,2.36,1160.0,1160.0,10.0,147.0,10,2014
+647,grimsby lincoln news,Wednesday,23850,2.36,1160.0,1160.0,10.0,147.0,10.0,2015
+648,grimsby lincoln news,Tuesday,23974,2.36,,1160.0,10.0,147.0,10.0,2016
+649,grimsby lincoln news,Tuesday,23974,2.36,,1160.0,10.0,147.0,10.0,2017
+650,grimsby lincoln news,Tuesday,22939,2.36,,1160.0,10.0,147.0,10.0,2018
+651,grimsby lincoln west lincoln news now,Thursday,25116,1.01,147.0,324.0,6.0,210.0,5,2014
+652,grimsby lincoln west lincoln news now,Thursday,25116,1.33,147.0,324.0,6.0,160.0,5.0,2015
+653,grimsby lincoln west lincoln news now,Thursday,25116,1.33,,324.0,6.0,160.0,5.0,2016
+654,grimsby lincoln west lincoln news now,Thursday,25116,1.33,,324.0,6.0,160.0,5.0,2017
+655,grimsby lincoln west lincoln news now,Thursday,25116,1.33,,324.0,6.0,160.0,5.0,2018
+656,grimsby lincoln west lincoln news now,Thursday,25116,1.33,,324.0,6.0,160.0,5.0,2019
+657,guelph mercury tribune,Tuesday,39098,1.84,335.0,1160.0,10.0,175.0,10.0,2013
+658,guelph mercury tribune,Thursday,44263,2.22,1160.0,1160.0,10.0,161.0,10,2014
+659,guelph mercury tribune,Tuesday,39475,2.01,1160.0,1160.0,10.0,161.0,10,2014
+660,guelph mercury tribune,Thursday,44326,2.22,1160.0,1160.0,10.0,161.0,10.0,2015
+661,guelph mercury tribune,Tuesday,39150,2.01,1160.0,1160.0,10.0,161.0,10.0,2015
+662,guelph mercury tribune,Thursday,43993,2.22,,1160.0,10.0,161.0,10.0,2016
+663,guelph mercury tribune,Tuesday,39091,2.01,,1160.0,10.0,161.0,10.0,2016
+664,guelph mercury tribune,Thursday,43993,2.22,,1160.0,10.0,161.0,10.0,2017
+665,guelph mercury tribune,Tuesday,39091,2.01,,1160.0,10.0,161.0,10.0,2017
+666,guelph mercury tribune,Thursday,43515,2.22,,1160.0,10.0,161.0,10.0,2018
+667,guelph mercury tribune,Tuesday,38751,2.01,,1160.0,10.0,161.0,10.0,2018
+668,guelph mercury tribune,Thursday,43257,2.22,,1160.0,10.0,161.0,10.0,2019
+669,guelph mercury tribune,Tuesday,38508,2.01,,1160.0,10.0,161.0,10.0,2019
+670,hagersville cayuga haldimand press,Wednesday,3610,0.77,118.0,294.0,6.0,294.0,2.0,2013
+671,hagersville cayuga haldimand press,Wednesday,3375,0.77,118.0,294.0,6.0,294.0,2,2014
+672,hagersville cayuga haldimand press,Wednesday,3152,0.72,118.0,294.0,6.0,294.0,2.0,2015
+673,hagersville cayuga haldimand press,Thursday,3134,0.84,,294.0,6.0,294.0,2.0,2016
+674,hagersville cayuga haldimand press,Thursday,3073,0.84,,294.0,6.0,294.0,2.0,2017
+675,haldimand county haldimand press,Thursday,3395,0.84,,294.0,6.0,294.0,2.0,2018
+676,haldimand county haldimand press,Thursday,3326,0.84,,294.0,6.0,294.0,2.0,2019
+677,haldimand county the sachem,Thursday,20724,1.46,335.0,1160.0,10.0,175.0,10.0,2013
+678,haldimand county the sachem,Thursday,21102,1.6,1160.0,1160.0,10.0,161.0,10,2014
+679,haldimand county the sachem,Thursday,21243,1.6,1160.0,1160.0,10.0,161.0,10.0,2015
+680,haldimand county the sachem,Thursday,20967,1.6,,1160.0,10.0,161.0,10.0,2016
+681,haldimand county the sachem,Thursday,20866,1.6,,1160.0,10.0,161.0,10.0,2017
+682,haldimand county the sachem,Thursday,21943,1.6,,1160.0,10.0,161.0,10.0,2018
+683,haldimand county the sachem,Thursday,21943,1.6,,1160.0,10.0,161.0,10.0,2019
+684,haliburton county echo,Tuesday,2777,0.65,141.0,353.0,9.0,158.0,3.0,2013
+685,haliburton county echo,Tuesday,2520,0.65,141.0,353.0,9.0,158.0,3,2014
+686,haliburton county echo,Tuesday,2164,0.55,141.0,353.0,9.0,189.0,3.0,2015
+687,haliburton county echo,Tuesday,1991,0.55,,176.0,9.0,189.0,3.0,2016
+688,haliburton county echo,Tuesday,2095,0.55,,176.0,9.0,189.0,3.0,2017
+689,haliburton county echo,Tuesday,2013,0.55,,176.0,9.0,189.0,3.0,2018
+690,haliburton county echo,Tuesday,1953,0.55,,176.0,9.0,189.0,3.0,2019
+691,haliburton county life,Thursday,6372,0.41,,176.0,9.0,189.0,3.0,2018
+692,haliburton county life,Thursday,6372,0.41,,176.0,9.0,189.0,3.0,2019
+693,haliburton highlander,Thursday,7312,0.95,88.0,88.0,6.0,213.0,5.0,2013
+694,haliburton highlander,Thursday,6727,1.61,104.0,104.0,4.0,189.0,8,2014
+695,haliburton highlander,Thursday,7430,1.61,104.0,104.0,4.0,189.0,8.0,2015
+696,haliburton highlander,Thursday,8104,1.61,,104.0,4.0,189.0,8.0,2016
+697,haliburton highlander,Thursday,7313,1.61,,104.0,4.0,189.0,8.0,2017
+698,haliburton highlander,Thursday,8722,1.61,,104.0,4.0,189.0,8.0,2018
+699,haliburton highlander,Thursday,8798,1.61,,104.0,4.0,189.0,8.0,2019
+700,hamilton burlington bay observer,Monthly,28246,2.46,118.0,294.0,6.0,216.0,5.0,2013
+701,hamilton burlington bay observer,Monthly,28246,2.46,118.0,294.0,6.0,216.0,5,2014
+702,hamilton burlington bay observer,Monthly,28246,2.46,,,6.0,216.0,5.0,2015
+703,hamilton burlington bay observer,Monthly,28246,2.46,,,6.0,216.0,5.0,2016
+704,hamilton burlington bay observer,Monthly,28246,2.46,,,6.0,216.0,5.0,2017
+705,hamilton burlington bay observer,Monthly,28246,2.46,,,6.0,216.0,5.0,2018
+706,hamilton burlington bay observer,Monthly,28246,2.46,,,6.0,216.0,5.0,2019
+707,hamilton mountain news,Thursday,50291,2.8,335.0,1160.0,10.0,175.0,10.0,2013
+708,hamilton mountain news,Thursday,50300,3.06,1160.0,1160.0,10.0,161.0,10,2014
+709,hamilton mountain news,Thursday,50557,3.06,1160.0,1160.0,10.0,161.0,10.0,2015
+710,hamilton mountain news,Thursday,50057,3.06,,1160.0,10.0,161.0,10.0,2016
+711,hamilton mountain news,Thursday,50062,3.06,,1160.0,10.0,161.0,10.0,2017
+712,hamilton mountain news,Thursday,49984,3.06,,1160.0,10.0,161.0,10.0,2018
+713,hamilton mountain news,Thursday,49497,3.06,,1160.0,10.0,161.0,10.0,2019
+714,hanover the post,Thursday,15268,0.93,188.0,424.0,9.0,160.0,3.0,2013
+715,hanover the post,Thursday,15304,0.93,188.0,424.0,9.0,160.0,3,2014
+716,hanover the post,Thursday,15542,0.93,188.0,424.0,9.0,160.0,3.0,2015
+717,hanover the post,Thursday,15604,0.93,,424.0,9.0,160.0,3.0,2016
+718,hanover the post,Thursday,15479,0.93,,424.0,9.0,160.0,3.0,2017
+719,hanover the post,Thursday,15588,0.93,,424.0,9.0,160.0,3.0,2018
+720,hanover the post,Thursday,15588,0.84,,424.0,10.0,160.0,10.0,2019
+721,harrow news,Tuesday,1319,0.48,118.0,235.0,6.0,208.0,5.0,2013
+722,harrow news,Tuesday,1268,0.49,118.0,235.0,6.0,208.0,5,2014
+723,harrow news,Tuesday,1288,0.51,118.0,235.0,6.0,208.0,5.0,2015
+724,harrow news,Tuesday,1251,0.52,,235.0,6.0,208.0,5.0,2016
+725,harrow news,Tuesday,1224,0.52,,235.0,6.0,208.0,5.0,2017
+726,harrow news,Tuesday,1241,0.53,,235.0,6.0,208.0,5.0,2018
+727,harrow news,Tuesday,1221,0.53,,235.0,6.0,208.0,5.0,2019
+728,hawkesbury le carillon,Friday,19500,1.13,,353.0,8.0,175.0,,2017
+729,hawkesbury le carillon,Thursday,14900,1.15,,353.0,8.0,175.0,,2018
+730,hawkesbury le carillon,Thursday,14900,1.18,,353.0,8.0,200.0,,2019
+731,hornepayne jackfish journal,Wednesday,293,0.67,100.0,329.0,5.0,196.0,4.0,2013
+732,hornepayne jackfish journal,Wednesday,293,0.67,100.0,329.0,5.0,196.0,4,2014
+733,hornepayne jackfish journal,Wednesday,265,0.67,100.0,329.0,5.0,196.0,4.0,2015
+734,hornepayne jackfish journal,Wednesday,265,0.67,,329.0,5.0,196.0,4.0,2016
+735,hornepayne jackfish journal,Wednesday,254,0.67,,329.0,5.0,196.0,4.0,2017
+736,hornepayne wicksteed weekly,Wednesday,200,0.72,,118.0,5.0,185.0,4.0,2019
+737,huntsville forester,Wednesday,4656,1.05,335.0,1160.0,10.0,301.0,10.0,2013
+738,huntsville forester,Thursday,9535,2.29,1160.0,1160.0,10.0,161.0,10,2014
+739,huntsville forester,Thursday,10310,2.29,1160.0,1160.0,10.0,161.0,,2015
+740,huntsville forester,Thursday,9569,2.29,,1160.0,10.0,161.0,10.0,2016
+741,huntsville forester,Thursday,9569,2.29,,1160.0,10.0,161.0,10.0,2017
+742,huntsville forester,Thursday,9405,2.29,,1160.0,10.0,161.0,10.0,2018
+743,huntsville forester,Thursday,9443,2.29,,1160.0,10.0,161.0,10.0,2019
+744,ignace driftwood,Wednesday,365,0.38,41.0,124.0,6.0,220.0,5.0,2013
+745,ignace driftwood,Wednesday,363,0.38,41.0,124.0,6.0,220.0,5,2014
+746,ignace driftwood,Wednesday,337,0.38,41.0,124.0,6.0,220.0,5.0,2015
+747,ignace driftwood,Wednesday,314,0.38,,124.0,6.0,220.0,5.0,2016
+748,ignace driftwood,Wednesday,303,0.38,,124.0,6.0,220.0,5.0,2017
+749,ingersoll times,Wednesday,1032,0.92,176.0,529.0,9.0,160.0,3.0,2013
+750,ingersoll times,Wednesday,883,0.92,176.0,529.0,9.0,160.0,3,2014
+751,ingersoll times,Wednesday,728,0.94,182.0,546.0,9.0,160.0,3.0,2015
+752,ingersoll times,Wednesday,532,0.94,,546.0,9.0,160.0,3.0,2016
+753,ingersoll times,Wednesday,532,0.94,,546.0,9.0,160.0,3.0,2017
+754,ingersoll times,Wednesday,532,0.94,,546.0,10.0,160.0,10.0,2018
+755,innisfil journal,Thursday,10726,1.37,335.0,1160.0,10.0,175.0,10.0,2013
+756,innisfil journal,Thursday,10785,1.5,1160.0,1160.0,10.0,161.0,10,2014
+757,innisfil journal,Thursday,10998,1.5,1160.0,1160.0,10.0,161.0,10.0,2015
+758,innisfil journal,Thursday,11376,1.5,,1160.0,10.0,161.0,10.0,2016
+759,innisfil journal,Thursday,11661,1.5,,1160.0,10.0,161.0,10.0,2017
+760,innisfil journal,Thursday,11848,1.5,,1160.0,10.0,161.0,10.0,2018
+761,innisfil journal,Thursday,11849,1.5,,1160.0,10.0,161.0,10.0,2019
+762,innisfil scope,Wednesday,12645,1.4,158.0,473.0,6.0,210.0,5.0,2013
+763,innisfil scope,Wednesday,12533,1.4,88.0,176.0,6.0,210.0,5,2014
+764,iroquois falls enterprise,Thursday,2232,0.51,212.0,529.0,10.0,292.0,3.0,2013
+765,iroquois falls enterprise,Thursday,2172,0.52,212.0,529.0,10.0,292.0,3,2014
+766,iroquois falls enterprise,Thursday,2138,0.53,212.0,529.0,10.0,292.0,3.0,2015
+767,iroquois falls enterprise,Thursday,1951,0.54,,529.0,10.0,292.0,3.0,2016
+768,iroquois falls enterprise,Thursday,1883,0.55,,529.0,10.0,292.0,3.0,2017
+769,iroquois falls enterprise,Thursday,1724,0.56,,471.0,10.0,292.0,3.0,2018
+770,iroquois falls enterprise,Thursday,1598,0.58,,471.0,10.0,292.0,3.0,2019
+771,kanata kourier standard,Thursday,26227,1.62,335.0,1160.0,6.0,218.0,5.0,2013
+772,kanata kourier standard,Thursday,26702,1.13,1160.0,1160.0,10.0,189.0,10,2014
+773,kanata kourier standard,Thursday,28642,1.33,1160.0,1160.0,10.0,161.0,10.0,2015
+774,kanata kourier standard,Thursday,29010,1.33,,1160.0,10.0,161.0,10.0,2016
+775,kanata kourier standard,Thursday,29024,1.33,,1160.0,10.0,161.0,10.0,2017
+776,kapuskasing northern times,Thursday,2183,1.42,129.0,388.0,9.0,160.0,3.0,2013
+777,kapuskasing northern times,Thursday,1955,1.42,129.0,388.0,9.0,160.0,3,2014
+778,kapuskasing northern times,Thursday,1784,1.42,129.0,388.0,9.0,160.0,3.0,2015
+779,kapuskasing northern times,Thursday,1041,1.42,,388.0,9.0,160.0,3.0,2016
+780,kapuskasing northern times,Thursday,924,1.42,,388.0,9.0,160.0,3.0,2017
+781,kapuskasing northern times,Thursday,9537,1.42,,388.0,9.0,160.0,3.0,2018
+782,kapuskasing northern times weekender,Thursday,9802,1.45,129.0,388.0,9.0,160.0,3.0,2013
+783,kapuskasing northern times weekender,Thursday,10454,1.45,129.0,388.0,9.0,160.0,3,2014
+784,kapuskasing northern times weekender,Thursday,9719,1.45,129.0,388.0,9.0,160.0,3.0,2015
+785,kapuskasing northern times weekender,Thursday,9061,1.45,,388.0,9.0,160.0,3.0,2016
+786,kapuskasing northern times weekender,Thursday,9423,1.45,,388.0,9.0,160.0,3.0,2017
+787,kawartha lakes north durham caps community news,Monthly,21269,0.94,88.0,265.0,6.0,188.0,5.0,2013
+788,kawartha lakes this week,Thursday,29305,2.85,335.0,1160.0,10.0,175.0,10.0,2013
+789,kawartha lakes this week,Tuesday,21617,2.85,335.0,1160.0,10.0,175.0,10.0,2013
+790,kawartha lakes this week,Thursday,29432,3.11,1160.0,1160.0,10.0,161.0,10,2014
+791,kawartha lakes this week,Tuesday,11387,3.11,1160.0,1160.0,10.0,161.0,10,2014
+792,kawartha lakes this week,Thursday,29432,3.11,1160.0,1160.0,10.0,161.0,10.0,2015
+793,kawartha lakes this week,Thursday,29432,3.11,,1160.0,10.0,161.0,10.0,2016
+794,kawartha lakes this week,Thursday,29432,3.11,,1160.0,10.0,161.0,10.0,2017
+795,kawartha lakes this week,Thursday,29432,3.11,,1160.0,10.0,161.0,10.0,2018
+796,kawartha lakes this week,Thursday,29432,3.11,,1160.0,10.0,161.0,10.0,2019
+797,kemptville advance,Thursday,10391,0.8,335.0,1160.0,6.0,218.0,5.0,2013
+798,kemptville advance,Thursday,9467,0.56,1160.0,1160.0,10.0,189.0,10,2014
+799,kemptville advance,Thursday,10454,0.66,1160.0,1160.0,10.0,161.0,10.0,2015
+800,kemptville advance,Thursday,10471,0.66,,1160.0,10.0,161.0,10.0,2016
+801,kemptville advance,Thursday,10640,0.66,,1160.0,10.0,161.0,10.0,2017
+802,kemptville advance,Thursday,10676,0.66,,1160.0,10.0,161.0,10.0,2018
+803,kemptville advance,Thursday,10710,0.66,,1160.0,10.0,161.0,10.0,2019
+804,kemptville north grenville times,Wednesday,6265,0.65,412.0,412.0,6.0,217.0,5,2014
+805,kemptville north grenville times,Wednesday,8837,0.88,,235.0,6.0,217.0,5.0,2019
+806,kenora lake of the woods enterprise,Thursday,8735,1.32,94.0,618.0,10.0,160.0,10.0,2013
+807,kenora lake of the woods enterprise,Thursday,8735,1.28,94.0,176.0,10.0,160.0,10,2014
+808,kenora lake of the woods enterprise,Thursday,8735,1.28,94.0,176.0,10.0,160.0,10.0,2015
+809,kenora lake of the woods enterprise,Thursday,8133,1.28,,176.0,10.0,160.0,10.0,2016
+810,kenora lake of the woods enterprise,Thursday,7893,1.28,,176.0,10.0,160.0,10.0,2017
+811,kenora lake of the woods enterprise,Thursday,7893,1.28,,176.0,10.0,160.0,10.0,2018
+812,kenora lake of the woods enterprise,Thursday,7893,1.28,,176.0,10.0,160.0,10.0,2019
+813,kincardine independent,Wednesday,2061,0.86,159.0,382.0,6.0,217.0,5.0,2013
+814,kincardine independent,Wednesday,2394,0.86,159.0,382.0,6.0,217.0,5,2014
+815,kincardine independent,Wednesday,2369,0.86,159.0,382.0,6.0,217.0,5.0,2015
+816,kincardine independent,Wednesday,2185,0.86,,382.0,6.0,217.0,5.0,2016
+817,kincardine independent,Wednesday,1988,0.86,,382.0,6.0,217.0,5.0,2017
+818,kincardine independent,Wednesday,1749,0.86,,382.0,6.0,217.0,5.0,2018
+819,kincardine independent,Wednesday,1622,0.86,,382.0,6.0,217.0,5.0,2019
+820,kincardine news,Tuesday,2440,0.84,153.0,309.0,9.0,160.0,3.0,2013
+821,kincardine news,Thursday,7000,0.87,153.0,309.0,9.0,160.0,3,2014
+822,kincardine news,Thursday,7000,0.87,153.0,309.0,9.0,160.0,3.0,2015
+823,kincardine news,Thursday,6065,0.87,,309.0,9.0,160.0,3.0,2016
+824,kincardine news,Thursday,5854,0.87,,309.0,9.0,160.0,3.0,2017
+825,kincardine news,Thursday,5823,0.87,,309.0,9.0,160.0,3.0,2018
+826,kincardine news,Thursday,5823,0.79,,309.0,10.0,160.0,10.0,2019
+827,king connection,Thursday,7342,0.63,335.0,1160.0,10.0,175.0,10.0,2013
+828,king connection,Thursday,5877,0.71,1160.0,1160.0,10.0,161.0,10,2014
+829,king connection,Thursday,7515,0.71,1160.0,1160.0,10.0,161.0,10.0,2015
+830,king connection,Thursday,7590,0.71,,1160.0,10.0,161.0,10.0,2016
+831,king connection,Thursday,6091,0.71,,1160.0,10.0,161.0,10.0,2017
+832,king connection,Thursday,6091,0.71,,1160.0,10.0,161.0,10.0,2018
+833,king connection,Thursday,5192,0.71,,1160.0,10.0,161.0,10.0,2019
+834,king weekly sentinel,Wednesday,7023,1.21,158.0,473.0,6.0,210.0,5.0,2013
+835,king weekly sentinel,Thursday,7533,0.91,88.0,176.0,8.0,301.0,,2014
+836,king weekly sentinel,Thursday,9800,0.57,88.0,176.0,8.0,301.0,,2015
+837,king weekly sentinel,Thursday,8663,0.57,,176.0,8.0,301.0,9.0,2016
+838,king weekly sentinel,Thursday,9763,0.57,,176.0,8.0,301.0,9.0,2017
+839,king weekly sentinel,Thursday,9763,0.57,,176.0,8.0,301.0,9.0,2018
+840,king weekly sentinel,Thursday,9763,0.57,,176.0,8.0,301.0,9.0,2019
+841,kingston emc,Thursday,44717,1.41,335.0,1160.0,6.0,218.0,5.0,2013
+842,kingston frontenac this week,Thursday,53186,3.92,194.0,429.0,9.0,160.0,3.0,2013
+843,kingston frontenac this week,Thursday,51478,3.99,194.0,429.0,9.0,160.0,3,2014
+844,kingston frontenac this week,Thursday,50246,3.99,194.0,429.0,9.0,160.0,3.0,2015
+845,kingston frontenac this week,Thursday,49707,3.99,,429.0,9.0,160.0,3.0,2016
+846,kingston frontenac this week,Thursday,48840,3.99,,429.0,9.0,160.0,3.0,2017
+847,kingston frontenac this week,Thursday,48741,3.99,,429.0,10.0,160.0,10.0,2018
+848,kingston frontenac this week,Thursday,48741,3.99,,429.0,10.0,160.0,10.0,2019
+849,kingston heritage,Thursday,47070,0.98,1160.0,1160.0,10.0,189.0,10,2014
+850,kingston heritage,Thursday,47010,1.16,1160.0,1160.0,10.0,161.0,10.0,2015
+851,kingston heritage,Thursday,46251,1.16,,1160.0,10.0,161.0,10.0,2016
+852,kingston heritage,Thursday,46061,1.16,,1160.0,10.0,161.0,10.0,2017
+853,kingsville reporter,Tuesday,1647,0.69,129.0,412.0,6.0,203.0,5.0,2013
+854,kingsville reporter,Tuesday,1480,0.69,129.0,412.0,6.0,203.0,5,2014
+855,kingsville reporter,Tuesday,1333,0.73,136.0,408.0,6.0,203.0,5.0,2015
+856,kingsville reporter,Tuesday,1220,0.73,,408.0,6.0,203.0,5.0,2016
+857,kingsville reporter,Tuesday,1220,0.76,,428.0,6.0,203.0,5.0,2017
+858,kingsville reporter,Tuesday,1065,0.84,,428.0,6.0,203.0,5.0,2018
+859,kingsville reporter,Tuesday,978,0.84,,428.0,6.0,287.0,5.0,2019
+860,kirkland lake northern news,Monday/Wednesday/Friday,1679,0.73,,206.0,10.0,287.0,10.0,2016
+861,kirkland lake northern news,Monday/Wednesday/Friday,1679,0.73,,206.0,10.0,287.0,10.0,2016
+862,kirkland lake northern news,Monday/Wednesday/Friday,1679,0.73,,206.0,10.0,287.0,10.0,2016
+863,kirkland lake northern news,Monday/Wednesday/Friday,1679,0.73,,206.0,10.0,287.0,10.0,2017
+864,kirkland lake northern news,Monday/Wednesday/Friday,1679,0.73,,206.0,10.0,287.0,10.0,2017
+865,kirkland lake northern news,Monday/Wednesday/Friday,1679,0.73,,206.0,10.0,287.0,10.0,2017
+866,kirkland lake northern news,Monday/Wednesday/Friday,1105,0.73,,206.0,10.0,287.0,10.0,2018
+867,kirkland lake northern news,Monday/Wednesday/Friday,1105,0.73,,206.0,10.0,287.0,10.0,2018
+868,kirkland lake northern news,Monday/Wednesday/Friday,1105,0.73,,206.0,10.0,287.0,10.0,2018
+869,kirkland lake northern news this week,Friday,9118,0.82,,294.0,10.0,287.0,10.0,2016
+870,kirkland lake northern news this week,Friday,9118,0.82,,294.0,10.0,287.0,10.0,2017
+871,kirkland lake northern news this week,Friday,8544,0.82,,294.0,10.0,287.0,10.0,2018
+872,kitchener citizen,Monthly,66000,3.18,353.0,1165.0,5.0,196.0,4.0,2013
+873,kitchener citizen,Monthly,66000,3.18,353.0,1165.0,5.0,196.0,4,2014
+874,kitchener post,Friday,59197,2.44,335.0,1160.0,10.0,175.0,10.0,2013
+875,kitchener post,Friday,59153,2.66,1160.0,1160.0,10.0,161.0,10,2014
+876,kitchener post,Thursday,59938,2.66,1160.0,1160.0,10.0,161.0,10.0,2015
+877,kitchener post,Thursday,59209,2.66,,1160.0,10.0,161.0,10.0,2016
+878,kitchener post,Thursday,59209,2.66,,1160.0,10.0,161.0,10.0,2017
+879,kitchener post,Thursday,57887,2.66,,1160.0,10.0,161.0,10.0,2018
+880,kitchener post,Thursday,59793,2.66,,1160.0,10.0,161.0,10.0,2019
+881,lakefield herald,Friday,1040,0.72,59.0,176.0,6.0,220.0,5.0,2013
+882,lakefield herald,Firday,1012,0.72,59.0,176.0,6.0,220.0,5,2014
+883,lakefield herald,Friday,875,0.72,59.0,176.0,6.0,220.0,5.0,2015
+884,lakefield herald,Friday,877,0.72,,176.0,6.0,220.0,5.0,2016
+885,lakefield herald,Friday,1032,0.72,,176.0,6.0,220.0,5.0,2017
+886,lakefield herald,Friday,933,0.72,,176.0,6.0,220.0,5.0,2018
+887,lakefield herald,Friday,933,0.74,,176.0,6.0,220.0,5.0,2019
+888,lanark era,Tuesday,1225,0.71,188.0,753.0,6.0,217.0,5.0,2013
+889,lanark era,Tuesday,1225,0.71,188.0,753.0,6.0,217.0,5,2014
+890,lanark era,Tuesday,984,0.71,235.0,706.0,6.0,217.0,5.0,2015
+891,lanark era,Tuesday,964,0.71,,588.0,6.0,217.0,5.0,2016
+892,lanark era,Tuesday,978,0.71,,588.0,6.0,217.0,5.0,2017
+893,lanark era,Tuesday,880,0.73,,471.0,6.0,217.0,5.0,2018
+894,lanark era,Tuesday,880,0.73,,471.0,6.0,217.0,5.0,2019
+895,lasalle post,Friday,11174,1.04,129.0,388.0,6.0,204.0,5.0,2013
+896,lasalle post,Friday,11219,1.04,129.0,388.0,6.0,204.0,5,2014
+897,lasalle post,Friday,11219,1.08,136.0,408.0,6.0,204.0,5.0,2015
+898,lasalle post,Friday,11219,1.08,,408.0,6.0,204.0,5.0,2016
+899,lasalle post,Friday,11219,1.14,,428.0,6.0,204.0,5.0,2017
+900,lasalle post,Friday,11219,1.25,,428.0,6.0,204.0,5.0,2018
+901,lasalle post,Friday,11219,1.25,,428.0,6.0,287.0,5.0,2019
+902,leamington southpoint sun,Wednesday,10800,1.06,294.0,529.0,6.0,204.0,5.0,2013
+903,leamington southpoint sun,Wednesday,9881,1.12,294.0,529.0,6.0,204.0,5,2014
+904,leamington southpoint sun,Wednesday,10384,1.12,294.0,529.0,6.0,204.0,5.0,2015
+905,leamington southpoint sun,Wednesday,10620,1.14,,529.0,6.0,204.0,5.0,2016
+906,leamington southpoint sun,Wednesday,10659,1.18,,529.0,6.0,204.0,5.0,2017
+907,leamington southpoint sun,Wednesday,10672,1.18,,529.0,6.0,204.0,5.0,2018
+908,leamington wheatley kingsville southpoint sun,Wednesday,16300,1.53,,529.0,6.0,204.0,5.0,2019
+909,lindsay post,Friday,19710,1.25,231.0,328.0,10.0,287.0,3.0,2013
+910,lindsay post,Tuesday,2112,0.99,229.0,328.0,10.0,287.0,3.0,2013
+911,listowel banner,Wednesday,2681,0.99,335.0,1160.0,10.0,175.0,10.0,2013
+912,listowel banner,Wednesday,2644,1.08,1160.0,1160.0,10.0,161.0,10,2014
+913,listowel banner,Wednesday,2289,1.08,1160.0,1160.0,10.0,161.0,10.0,2015
+914,listowel banner,Wednesday,2126,1.08,,1160.0,10.0,161.0,10.0,2016
+915,listowel banner,Wednesday,2126,1.08,,1160.0,10.0,161.0,10.0,2017
+916,listowel banner,Wednesday,1717,1.08,,1160.0,10.0,161.0,10.0,2018
+917,listowel banner,Wednesday,1530,1.08,,1160.0,10.0,161.0,10.0,2019
+918,listowel independent plus,Thursday,21964,1.16,335.0,1160.0,10.0,175.0,10.0,2013
+919,listowel independent plus,Thursday,22069,1.27,1160.0,1160.0,10.0,161.0,10,2014
+920,listowel independent plus,Thursday,21956,1.27,1160.0,1160.0,10.0,161.0,10.0,2015
+921,listowel independent plus,Thursday,22017,1.27,,1160.0,10.0,161.0,10.0,2016
+922,listowel independent plus,Thursday,22592,1.27,,1160.0,10.0,161.0,10.0,2017
+923,listowel independent plus,Thursday,28735,1.27,,1160.0,10.0,161.0,10.0,2018
+924,listowel independent plus,Thursday,23669,1.27,,1160.0,10.0,161.0,10.0,2019
+925,london community news,Thursday,128076,2.15,335.0,1160.0,10.0,175.0,10.0,2013
+926,london community news,Thursday,128076,2.35,1160.0,1160.0,10.0,161.0,10,2014
+927,london community news,Thursday,129642,2.35,1160.0,1160.0,10.0,161.0,10.0,2015
+928,london our london,Thursday,129642,2.35,,1160.0,10.0,161.0,10.0,2016
+929,london our london,Thursday,110000,2.35,,1160.0,10.0,161.0,10.0,2017
+930,london the londoner,Thursday,140154,2.94,294.0,882.0,9.0,160.0,3.0,2013
+931,london the londoner,Thursday,140428,2.94,294.0,882.0,9.0,160.0,3,2014
+932,london the londoner,Thursday,140600,2.94,147.0,412.0,9.0,160.0,3.0,2015
+933,london the londoner,Thursday,140615,2.35,,412.0,9.0,160.0,3.0,2016
+934,london the londoner,Thursday,140111,2.35,,412.0,9.0,160.0,3.0,2017
+935,london the londoner,Thursday,140111,2.35,,353.0,10.0,160.0,10.0,2018
+936,london the londoner,Thursday,140111,2.35,,353.0,10.0,160.0,10.0,2019
+937,lucknow sentinel,Wednesday,1304,0.53,59.0,176.0,9.0,160.0,3.0,2013
+938,lucknow sentinel,Wednesday,1289,0.53,59.0,176.0,9.0,160.0,3,2014
+939,lucknow sentinel,Wednesday,1162,0.53,59.0,176.0,9.0,160.0,3.0,2015
+940,lucknow sentinel,Wednesday,922,0.53,,176.0,9.0,160.0,3.0,2016
+941,lucknow sentinel,Wednesday,922,0.53,,176.0,9.0,160.0,3.0,2017
+942,lucknow sentinel,Wednesday,922,0.53,,176.0,9.0,160.0,3.0,2018
+943,lucknow sentinel,Wednesday,922,0.48,,176.0,10.0,160.0,10.0,2019
+944,manitoulin expositor,Wednesday,5519,0.97,212.0,635.0,6.0,225.0,5.0,2013
+945,manitoulin expositor,Wednesday,4916,0.98,224.0,635.0,6.0,225.0,5,2014
+946,manitoulin expositor,Wednesday,5514,1.0,224.0,635.0,6.0,225.0,5.0,2015
+947,manitoulin expositor,Wednesday,5194,1.01,,635.0,6.0,225.0,5.0,2016
+948,manitoulin expositor,Wednesday,5194,1.01,,635.0,6.0,225.0,5.0,2017
+949,manitoulin expositor,Wednesday,4473,1.01,,635.0,6.0,225.0,5.0,2018
+950,manitoulin expositor,Wednesday,4724,1.01,,635.0,6.0,225.0,5.0,2019
+951,manitoulin west recorder,Friday,1568,0.97,212.0,635.0,6.0,200.0,5.0,2013
+952,manitoulin west recorder,Friday,1421,0.98,224.0,635.0,6.0,200.0,5,2014
+953,manitoulin west recorder,Friday,1458,1.0,224.0,635.0,6.0,200.0,5.0,2015
+954,manitoulin west recorder,Friday,1460,1.01,,635.0,6.0,200.0,5.0,2016
+955,manitoulin west recorder,Friday,1460,1.01,,635.0,6.0,200.0,5.0,2017
+956,manitoulin west recorder,Friday,1167,1.01,,635.0,6.0,200.0,5.0,2018
+957,manitoulin west recorder,Friday,1167,1.01,,635.0,6.0,200.0,5.0,2019
+958,manitouwadge echo,Wednesday,446,0.94,118.0,412.0,5.0,190.0,4.0,2013
+959,manitouwadge echo,Wednesday,365,0.92,118.0,412.0,4.0,142.0,,2014
+960,manitouwadge echo,Wednesday,346,0.46,118.0,412.0,5.0,227.0,4.0,2015
+961,manitouwadge echo,Wednesday,341,0.46,,412.0,5.0,182.0,4.0,2016
+962,manotick messenger,Thursday,7789,0.88,206.0,412.0,6.0,220.0,5.0,2013
+963,manotick messenger,Thursday,7804,0.91,176.0,353.0,6.0,220.0,5,2014
+964,manotick messenger,Thursday,8089,0.91,176.0,353.0,6.0,220.0,5.0,2015
+965,manotick messenger,Thursday,9325,0.93,,353.0,6.0,220.0,5.0,2016
+966,manotick messenger,Thursday,9503,0.93,,353.0,6.0,220.0,5.0,2017
+967,manotick messenger,Friday,6300,1.21,,353.0,6.0,168.0,5.0,2018
+968,manotick messenger,Friday,9503,1.21,,353.0,6.0,168.0,5.0,2019
+969,manotick news,Thursday,10481,1.06,335.0,1160.0,6.0,218.0,5.0,2013
+970,manotick news,Thursday,11232,0.74,1160.0,1160.0,10.0,189.0,10,2014
+971,manotick news,Thursday,11392,0.87,1160.0,1160.0,10.0,161.0,10.0,2015
+972,manotick news,Thursday,11506,0.87,,1160.0,10.0,161.0,10.0,2016
+973,marathon mercury,Tuesday,963,1.04,153.0,576.0,5.0,222.0,4.0,2013
+974,marathon mercury,Tuesday,911,1.06,153.0,576.0,5.0,222.0,4,2014
+975,marathon mercury,Tuesday,855,1.08,153.0,576.0,5.0,222.0,4.0,2015
+976,marathon mercury,Tuesday,783,1.11,,576.0,5.0,222.0,4.0,2016
+977,marathon mercury,Tuesday,745,1.11,,447.0,5.0,222.0,4.0,2017
+978,marathon mercury,Tuesday,681,1.11,,447.0,5.0,222.0,4.0,2018
+979,marathon mercury,Tuesday,589,1.11,,447.0,5.0,222.0,4.0,2019
+980,markham economist sun,Thursday/Saturday,67164,4.86,335.0,1160.0,10.0,175.0,10.0,2013
+981,markham economist sun,Thursday/Saturday,67164,4.86,335.0,1160.0,10.0,175.0,10.0,2013
+982,markham economist sun,Thursday,67973,5.31,1160.0,1160.0,10.0,161.0,10,2014
+983,markham economist sun,Thursday,69828,5.31,1160.0,1160.0,10.0,161.0,10.0,2015
+984,markham economist sun,Thursday,70101,5.31,,1160.0,10.0,161.0,10.0,2016
+985,markham economist sun,Thursday,71119,5.31,,1160.0,10.0,161.0,10.0,2017
+986,markham economist sun,Thursday,71119,5.31,,1160.0,10.0,161.0,10.0,2018
+987,markham economist sun,Thursday,70998,5.31,,1160.0,10.0,161.0,10.0,2019
+988,markham economist sun stouffville sun tribune,Thursday/Saturday,79464,5.68,670.0,2320.0,10.0,175.0,10.0,2013
+989,markham economist sun stouffville sun tribune,Thursday/Saturday,79464,5.68,670.0,2320.0,10.0,175.0,10.0,2013
+990,markham economist sun stouffville sun tribune,Thursday,81056,6.19,2320.0,2320.0,10.0,161.0,10,2014
+991,markham economist sun stouffville sun tribune,Thursday,83365,6.19,2320.0,2320.0,10.0,161.0,10.0,2015
+992,markham economist sun stouffville sun tribune,Thursday,83658,6.19,,2320.0,10.0,161.0,10.0,2016
+993,markham economist sun stouffville sun tribune,Thursday,85216,6.19,,2320.0,10.0,161.0,10.0,2017
+994,markham economist sun stouffville sun tribune,Thursday,85216,6.19,,2320.0,10.0,161.0,10.0,2018
+995,markham economist sun stouffville sun tribune,Thursday,85072,6.19,,2320.0,10.0,161.0,10.0,2019
+996,meaford express,Wednesday,1267,1.5,1160.0,1160.0,10.0,161.0,10.0,2015
+997,meaford express,Wednesday,1196,1.5,,1160.0,10.0,161.0,10.0,2016
+998,meaford express,Wednesday,1006,1.5,,1160.0,10.0,161.0,10.0,2017
+999,meaford express blue mountains courier herald,Wednesday,1260,1.81,335.0,1160.0,10.0,175.0,10.0,2013
+1000,meaford express blue mountains courier herald,Wednesday,1871,1.5,1160.0,1160.0,10.0,161.0,10,2014
+1001,meaford independent,Thursday,1300,1.12,,176.0,6.0,168.0,5.0,2019
+1002,middlesex banner,Wednesday,1349,0.79,144.0,475.0,5.0,217.0,4.0,2013
+1003,middlesex banner,Wednesday,1354,0.81,148.0,493.0,5.0,217.0,4,2014
+1004,middlesex banner,Wednesday,1439,1.31,153.0,511.0,4.0,175.0,8.0,2015
+1005,middlesex banner,Wednesday,1503,1.35,,529.0,4.0,175.0,8.0,2016
+1006,middlesex banner,Wednesday,1444,1.4,,549.0,4.0,175.0,8.0,2017
+1007,middlesex banner,Wednesday,1497,1.45,,549.0,4.0,175.0,8.0,2018
+1008,middlesex banner,Wednesday,1497,1.51,,549.0,4.0,175.0,8.0,2019
+1009,midland free press,Thursday,20098,0.94,235.0,471.0,10.0,287.0,3.0,2013
+1010,midland penetanguishene mirror,Thursday,21369,2.88,335.0,1160.0,10.0,175.0,10.0,2013
+1011,midland penetanguishene mirror,Thursday,21354,3.15,1160.0,1160.0,10.0,161.0,10,2014
+1012,midland penetanguishene mirror,Thursday,21459,3.15,1160.0,1160.0,10.0,161.0,10.0,2015
+1013,midland penetanguishene mirror,Thursday,21636,3.15,,1160.0,10.0,161.0,10.0,2016
+1014,midland penetanguishene mirror,Thursday,21775,3.15,,1160.0,10.0,161.0,10.0,2017
+1015,midland penetanguishene mirror,Thursday,21771,3.15,,1160.0,10.0,161.0,10.0,2018
+1016,midland penetanguishene mirror,Thursday,21612,3.15,,1160.0,10.0,161.0,10.0,2019
+1017,mildmay town country crier,Wednesday,1362,0.44,59.0,118.0,5.0,215.0,4.0,2013
+1018,mildmay town country crier,Wednesday,1348,0.44,59.0,118.0,5.0,215.0,4,2014
+1019,mildmay town country crier,Thursday,1351,0.44,59.0,118.0,5.0,215.0,4.0,2015
+1020,mildmay town country crier,Thursday,1299,0.49,,118.0,5.0,215.0,4.0,2016
+1021,mildmay town country crier,Thursday,1259,0.49,,118.0,5.0,215.0,4.0,2017
+1022,mildmay town country crier,Thursday,1372,0.49,,118.0,5.0,215.0,4.0,2018
+1023,mildmay town country crier,Thursday,1312,0.49,,118.0,5.0,215.0,4.0,2019
+1024,millbrook times,Thursday,1182,0.88,141.0,376.0,5.0,215.0,4.0,2013
+1025,millbrook times,Thursday,1183,0.91,146.0,388.0,5.0,215.0,4,2014
+1026,millbrook times,Thursday,1558,0.91,146.0,388.0,5.0,215.0,4.0,2015
+1027,millbrook times,Thursday,1471,0.91,,388.0,5.0,215.0,4.0,2016
+1028,millbrook times,Monthly,4100,0.91,,388.0,5.0,215.0,4.0,2017
+1029,millbrook times,Monthly,4100,0.91,,388.0,5.0,215.0,4.0,2018
+1030,millbrook times,Monthly,4100,0.91,,388.0,5.0,215.0,4.0,2019
+1031,milton canadian champion,Thursday,27552,2.92,335.0,1160.0,10.0,175.0,10.0,2013
+1032,milton canadian champion,Tuesday,22328,2.81,335.0,1160.0,10.0,175.0,10.0,2013
+1033,milton canadian champion,Thursday,28663,3.19,1160.0,1160.0,10.0,161.0,10,2014
+1034,milton canadian champion,Thursday,29750,3.19,1160.0,1160.0,10.0,161.0,10.0,2015
+1035,milton canadian champion,Thursday,30367,3.19,,1160.0,10.0,161.0,10.0,2016
+1036,milton canadian champion,Thursday,31268,3.19,,1160.0,10.0,161.0,10.0,2017
+1037,milton canadian champion,Thursday,32513,3.19,,1160.0,10.0,161.0,10.0,2018
+1038,milton canadian champion,Thursday,32654,3.19,,1160.0,10.0,161.0,10.0,2019
+1039,minden times,Wednesday,1601,0.61,141.0,353.0,9.0,158.0,3.0,2013
+1040,minden times,Wednesday,1683,0.61,141.0,353.0,9.0,158.0,3,2014
+1041,minden times,Wednesday,1254,0.52,141.0,353.0,9.0,189.0,3.0,2015
+1042,minden times,Thursday,1350,0.52,,176.0,9.0,189.0,3.0,2016
+1043,minden times,Thursday,1405,0.52,,176.0,9.0,189.0,3.0,2017
+1044,minden times,Thursday,1266,0.52,,176.0,9.0,189.0,3.0,2018
+1045,minden times,Thursday,1258,0.52,,176.0,9.0,189.0,3.0,2019
+1046,minto express,Wednesday,764,0.89,335.0,1160.0,10.0,175.0,10.0,2013
+1047,minto express,Wednesday,747,0.97,1160.0,1160.0,10.0,161.0,10,2014
+1048,minto express,Wednesday,667,0.97,1160.0,1160.0,10.0,161.0,10.0,2015
+1049,minto express,Wednesday,584,0.97,,1160.0,10.0,161.0,10.0,2016
+1050,minto express,Wednesday,584,0.97,,1160.0,10.0,161.0,10.0,2017
+1051,mississauga news,Friday,122760,9.53,335.0,1160.0,10.0,175.0,10.0,2013
+1052,mississauga news,Wednesday,123098,9.53,335.0,1160.0,10.0,175.0,10.0,2013
+1053,mississauga news,Friday,122874,10.4,1160.0,1160.0,10.0,161.0,10,2014
+1054,mississauga news,Wednesday,124805,10.4,1160.0,1160.0,10.0,161.0,10,2014
+1055,mississauga news,Friday,122354,9.64,1160.0,1160.0,10.0,161.0,10.0,2015
+1056,mississauga news,Thursday,125582,9.64,1160.0,1160.0,10.0,161.0,10.0,2015
+1057,mississauga news,Friday,122354,9.64,,1160.0,10.0,161.0,10.0,2016
+1058,mississauga news,Thursday,125582,9.64,,1160.0,10.0,161.0,10.0,2016
+1059,mississauga news,Friday,121982,9.64,,1160.0,10.0,161.0,10.0,2017
+1060,mississauga news,Thursday,165000,9.64,,1160.0,10.0,161.0,10.0,2017
+1061,mississauga news,Thursday,165000,9.64,,1160.0,10.0,161.0,10.0,2018
+1062,mississauga news,Thursday,167250,9.64,,1160.0,10.0,161.0,10.0,2019
+1063,mississauga news apt condo malton edition,Thursday,75665,4.41,1160.0,1160.0,10.0,161.0,10.0,2015
+1064,mississauga news apt condo malton edition,Thursday,75665,4.41,,1160.0,10.0,161.0,10.0,2016
+1065,mississauga news full city edition,Thursday/Friday,201247,10.99,1160.0,1160.0,10.0,161.0,10.0,2015
+1066,mississauga news full city edition,Thursday/Friday,201247,10.99,1160.0,1160.0,10.0,161.0,10.0,2015
+1067,mississauga news full city edition,Thursday/Friday,201247,10.99,,1160.0,10.0,161.0,10.0,2016
+1068,mississauga news full city edition,Thursday/Friday,201247,10.99,,1160.0,10.0,161.0,10.0,2016
+1069,mitchell advocate,Wednesday,2191,0.78,88.0,294.0,9.0,160.0,3.0,2013
+1070,mitchell advocate,Wednesday,2171,0.78,88.0,176.0,9.0,160.0,3,2014
+1071,mitchell advocate,Wednesday,2057,0.79,88.0,176.0,9.0,160.0,3.0,2015
+1072,mitchell advocate,Wednesday,1900,0.79,,176.0,9.0,160.0,3.0,2016
+1073,mitchell advocate,Wednesday,1870,0.79,,176.0,9.0,160.0,3.0,2017
+1074,mitchell advocate,Wednesday,1601,0.79,,176.0,9.0,160.0,3.0,2018
+1075,mitchell advocate,Wednesday,1473,0.71,,176.0,10.0,160.0,10.0,2019
+1076,morrisburg leader,Wednesday,2075,0.68,148.0,296.0,6.0,300.0,1.0,2013
+1077,morrisburg leader,Wednesday,1956,0.68,148.0,296.0,6.0,300.0,1,2014
+1078,morrisburg leader,Wednesday,1905,0.68,148.0,148.0,6.0,300.0,1.0,2015
+1079,morrisburg leader,Wednesday,1879,0.71,,148.0,6.0,300.0,1.0,2016
+1080,morrisburg leader,Wednesday,1900,0.71,,148.0,6.0,300.0,1.0,2017
+1081,morrisburg leader,Wednesday,1772,0.76,,148.0,6.0,300.0,1.0,2018
+1082,morrisburg leader,Wednesday,1750,0.82,,148.0,6.0,300.0,1.0,2019
+1083,mount forest bizbull,Monthly,7042,0.59,112.0,405.0,4.0,140.0,,2013
+1084,mount forest bizbull,Monthly,7042,0.59,112.0,405.0,4.0,140.0,,2014
+1085,mount forest bizbull,Monthly,7042,1.67,88.0,88.0,2.0,137.0,,2015
+1086,mount forest bizbull,Monthly,7042,1.67,,88.0,2.0,137.0,,2016
+1087,mount forest bizbull,Monthly,7042,1.67,,88.0,2.0,137.0,,2017
+1088,mount forest bizbull,Monthly,7042,1.67,,88.0,2.0,137.0,,2018
+1089,mount forest bizbull,Monthly,7042,1.67,,88.0,2.0,137.0,,2019
+1090,mount forest confederate,Wednesday,2174,0.86,335.0,1160.0,10.0,175.0,10.0,2013
+1091,mount forest confederate,Wednesday,2059,0.93,1160.0,1160.0,10.0,161.0,10,2014
+1092,mount forest confederate,Wednesday,1805,0.94,1160.0,1160.0,10.0,161.0,10.0,2015
+1093,mount forest confederate,Wednesday,1557,0.94,,1160.0,10.0,161.0,10.0,2016
+1094,mount forest confederate,Wednesday,1557,0.94,,1160.0,10.0,161.0,10.0,2017
+1095,muskoka district weekender,Friday,25779,3.0,335.0,1160.0,10.0,175.0,10.0,2013
+1096,muskoka district weekender,Thursday,26430,2.97,1160.0,1160.0,10.0,161.0,10,2014
+1097,muskoka muskokaregion.com,Thursday,27187,2.97,1160.0,1160.0,10.0,161.0,10.0,2015
+1098,muskoka muskokaregion.com,Thursday,25850,2.97,,1160.0,10.0,161.0,10.0,2016
+1099,muskoka muskokaregion.com,Thursday,25850,2.97,,1160.0,10.0,161.0,10.0,2017
+1100,muskoka muskokaregion.com,Thursday,25991,2.97,,1160.0,10.0,161.0,10.0,2018
+1101,muskoka muskokaregion.com,Thursday,25494,2.97,,1160.0,10.0,161.0,10.0,2019
+1102,muskoka what's up muskoka,Wednesday,24313,1.59,,,9.0,175.0,3.0,2013
+1103,muskoka what's up muskoka,Wednesday,25966,1.59,,,9.0,175.0,3,2014
+1104,muskoka what's up muskoka,Wednesday,25966,1.59,,,9.0,175.0,3.0,2015
+1105,muskoka what's up muskoka,Wednesday,27229,1.59,,,9.0,161.0,3.0,2016
+1106,napanee beaver,Thursday,15503,0.8,71.0,106.0,6.0,212.0,5.0,2013
+1107,napanee beaver,Thursday,15531,0.8,71.0,106.0,6.0,212.0,5,2014
+1108,napanee beaver,Thursday,15785,0.8,71.0,106.0,6.0,212.0,5.0,2015
+1109,napanee beaver,Thursday,15752,0.91,,106.0,6.0,188.0,5.0,2016
+1110,napanee beaver,Thursday,15752,0.91,,106.0,6.0,188.0,5.0,2017
+1111,napanee beaver,Thursday,15746,0.91,,106.0,6.0,160.0,5.0,2018
+1112,napanee beaver,Thursday,15786,0.91,,106.0,6.0,160.0,5.0,2019
+1113,napanee guide,Thursday,14965,0.77,194.0,429.0,9.0,160.0,3.0,2013
+1114,napanee guide,Thursday,14980,0.78,194.0,429.0,9.0,160.0,3,2014
+1115,napanee guide,Thursday,14948,0.78,194.0,429.0,9.0,160.0,3.0,2015
+1116,napanee guide,Thursday,14833,0.78,,429.0,9.0,160.0,3.0,2016
+1117,napanee guide,Thursday,14939,0.78,,429.0,9.0,160.0,3.0,2017
+1118,napanee guide,Thursday,15022,0.78,,429.0,10.0,160.0,10.0,2018
+1119,napanee guide,Thursday,15022,0.78,,429.0,10.0,160.0,10.0,2019
+1120,nepean barrhaven news,Thursday,46836,1.47,335.0,1160.0,6.0,218.0,5.0,2013
+1121,nepean barrhaven news,Thursday,48792,1.02,1160.0,1160.0,10.0,189.0,10,2014
+1122,nepean barrhaven news,Thursday,50401,1.2,1160.0,1160.0,10.0,161.0,10.0,2015
+1123,nepean barrhaven news,Thursday,51478,1.2,,1160.0,10.0,161.0,10.0,2016
+1124,nepean barrhaven news,Thursday,52390,1.2,,1160.0,10.0,161.0,10.0,2017
+1125,new hamburg independent,Wednesday,2418,0.89,335.0,1160.0,10.0,175.0,10.0,2013
+1126,new hamburg independent,Wednesday,2377,0.98,1160.0,1160.0,10.0,161.0,10,2014
+1127,new hamburg independent,Wednesday,2286,0.98,1160.0,1160.0,10.0,161.0,10.0,2015
+1128,new hamburg independent,Wednesday,2063,0.98,,1160.0,10.0,161.0,10.0,2016
+1129,new hamburg independent,Wednesday,1985,0.98,,1160.0,10.0,161.0,10.0,2017
+1130,new hamburg independent,Wednesday,1718,0.98,,1160.0,10.0,161.0,10.0,2018
+1131,new hamburg independent,Wednesday,1525,0.98,,1160.0,10.0,161.0,10.0,2019
+1132,new liskeard temiskaming speaker,Friday,9571,1.59,265.0,559.0,5.0,220.0,4.0,2013
+1133,new liskeard temiskaming speaker,Wednesday,3653,1.59,265.0,559.0,5.0,220.0,4.0,2013
+1134,new liskeard temiskaming speaker,Friday,10433,1.61,265.0,559.0,5.0,220.0,4,2014
+1135,new liskeard temiskaming speaker,Wednesday,3500,1.61,265.0,559.0,5.0,220.0,4,2014
+1136,new liskeard temiskaming speaker,Friday,10377,1.64,265.0,559.0,5.0,220.0,4.0,2015
+1137,new liskeard temiskaming speaker,Wednesday,3316,1.64,265.0,559.0,5.0,220.0,4.0,2015
+1138,new liskeard temiskaming speaker,Friday,10620,1.67,,559.0,5.0,220.0,4.0,2016
+1139,new liskeard temiskaming speaker,Wednesday,3078,1.67,,559.0,5.0,220.0,4.0,2016
+1140,new liskeard temiskaming speaker,Friday,10507,1.71,,559.0,5.0,220.0,4.0,2017
+1141,new liskeard temiskaming speaker,Wednesday,2169,1.71,,559.0,5.0,220.0,4.0,2017
+1142,new liskeard temiskaming speaker,Friday,10450,1.74,,559.0,5.0,220.0,4.0,2018
+1143,new liskeard temiskaming speaker,Wednesday,2965,1.74,,559.0,5.0,220.0,4.0,2018
+1144,new liskeard temiskaming speaker,Friday,10435,1.76,,559.0,5.0,220.0,4.0,2019
+1145,new liskeard temiskaming speaker,Wednesday,2914,1.76,,559.0,5.0,220.0,4.0,2019
+1146,newmarket era aurora banner,Thursday,50605,3.52,335.0,1160.0,10.0,301.0,10.0,2013
+1147,newmarket era aurora banner,Thursday,42590,3.52,1160.0,1160.0,10.0,301.0,10,2014
+1148,newmarket era aurora banner east gwillimbury express,Thursday,50887,3.52,1160.0,1160.0,10.0,301.0,10.0,2015
+1149,newmarket era aurora banner east gwillimbury express,Thursday,50971,3.52,,1160.0,10.0,301.0,10.0,2016
+1150,newmarket era aurora banner east gwillimbury express,Thursday,50971,3.52,,1160.0,10.0,301.0,10.0,2017
+1151,newmarket era aurora banner east gwillimbury express,Thursday,50435,3.52,,1160.0,10.0,161.0,10.0,2018
+1152,newmarket era aurora banner east gwillimbury express,Thursday,49595,3.52,,1160.0,10.0,161.0,10.0,2019
+1153,newmarket era aurora banner georgina advocate,Sunday,68202,4.93,335.0,1160.0,10.0,175.0,10.0,2013
+1154,newmarket era aurora banner georgina advocate,Sunday,68211,5.38,1160.0,1160.0,10.0,161.0,10,2014
+1155,newmarket era aurora banner georgina advocate,Sunday,69549,5.38,1160.0,1160.0,10.0,161.0,10.0,2015
+1156,niagara advance,Wednesday,7427,0.73,88.0,206.0,9.0,160.0,3.0,2013
+1157,niagara advance,Thursday,7426,0.73,88.0,206.0,9.0,160.0,3,2014
+1158,niagara advance,Thursday,7427,0.73,88.0,206.0,9.0,160.0,3.0,2015
+1159,niagara advance,Thursday,7380,0.73,,206.0,9.0,160.0,3.0,2016
+1160,niagara advance,Thursday,7489,0.73,,206.0,9.0,160.0,3.0,2017
+1161,niagara this week,Thursday,167300,3.79,335.0,1160.0,10.0,147.0,10.0,2013
+1162,niagara this week,Wednesday,95136,3.05,335.0,1160.0,10.0,147.0,10.0,2013
+1163,niagara this week,Thursday,180050,3.86,1160.0,1160.0,10.0,147.0,10,2014
+1164,niagara this week,Wednesday,94375,3.11,1160.0,1160.0,10.0,147.0,10,2014
+1165,niagara this week,Thursday,151925,3.86,1160.0,1160.0,10.0,147.0,10.0,2015
+1166,niagara this week,Wednesday,90739,3.11,1160.0,1160.0,10.0,147.0,10.0,2015
+1167,niagara this week,Thursday,159597,3.86,,1160.0,10.0,147.0,10.0,2016
+1168,niagara this week,Thursday,159597,3.86,,1160.0,10.0,147.0,10.0,2017
+1169,niagara this week,Thursday,157002,3.86,,1160.0,10.0,147.0,10.0,2018
+1170,niagara this week,Thursday,156928,3.86,,1160.0,10.0,147.0,10.0,2019
+1171,nipigon red rock gazette,Tuesday,872,1.13,342.0,412.0,5.0,224.0,4.0,2013
+1172,nipigon red rock gazette,Tuesday,872,1.15,342.0,412.0,5.0,224.0,4,2014
+1173,nipigon red rock gazette,Tuesday,735,1.15,342.0,412.0,5.0,224.0,4.0,2015
+1174,nipigon red rock gazette,Tuesday,505,1.15,,412.0,5.0,224.0,4.0,2016
+1175,nipigon red rock gazette,Tuesday,505,1.15,,412.0,5.0,224.0,4.0,2017
+1176,nipigon red rock gazette,Tuesday,497,1.15,,412.0,5.0,224.0,4.0,2018
+1177,nipigon red rock gazette,Tuesday,497,1.15,,412.0,5.0,224.0,4.0,2019
+1178,norfolk news,Thursday,25704,1.16,1160.0,1160.0,10.0,161.0,10.0,2015
+1179,norfolk news,Thursday,26013,1.16,,1160.0,10.0,161.0,10.0,2016
+1180,norfolk news,Thursday,30318,1.16,,1160.0,10.0,161.0,10.0,2017
+1181,north bay nipissing news,Thursday,42332,0.85,335.0,1160.0,10.0,175.0,10.0,2013
+1182,north bay nipissing news,Thursday,34222,0.93,1160.0,1160.0,10.0,161.0,10,2014
+1183,north bay nipissing news,Thursday,34614,0.93,1160.0,1160.0,10.0,161.0,10.0,2015
+1184,north york mirror,Friday,95435,7.73,335.0,1160.0,10.0,175.0,10.0,2013
+1185,north york mirror,Thursday,94915,7.73,335.0,1160.0,10.0,175.0,10.0,2013
+1186,north york mirror,Thursday,94743,8.44,1160.0,1160.0,10.0,161.0,10,2014
+1187,north york mirror,Thursday,97046,8.44,1160.0,1160.0,10.0,161.0,10.0,2015
+1188,north york mirror,Thursday,98013,8.44,,1160.0,10.0,161.0,10.0,2016
+1189,north york mirror,Thursday,96965,8.44,,1160.0,10.0,161.0,10.0,2017
+1190,north york mirror,Thursday,93964,8.69,,1160.0,10.0,161.0,10.0,2018
+1191,north york mirror,Thursday,90896,8.69,,1160.0,10.0,161.0,10.0,2019
+1192,northumberland news,Thursday/Friday,22752,2.55,335.0,1160.0,10.0,175.0,10.0,2013
+1193,northumberland news,Thursday/Friday,22752,2.55,335.0,1160.0,10.0,175.0,10.0,2013
+1194,northumberland news,Thursday/Friday,22785,2.78,1160.0,1160.0,10.0,161.0,10,2014
+1195,northumberland news,Thursday/Friday,22785,2.78,1160.0,1160.0,10.0,161.0,10,2014
+1196,northumberland news,Thursday,22731,2.75,1160.0,1160.0,10.0,161.0,10.0,2015
+1197,northumberland news,Thursday,22722,2.75,,1160.0,10.0,161.0,10.0,2016
+1198,northumberland news,Thursday,22631,2.75,,1160.0,10.0,161.0,10.0,2017
+1199,northumberland news,Thursday,22460,2.75,,1160.0,10.0,161.0,10.0,2018
+1200,northumberland news,Thursday,22338,2.75,,1160.0,10.0,161.0,10.0,2019
+1201,northumberland today.com,Monday/Tuesday/Wednesday/Friday,3806,1.12,118.0,353.0,10.0,301.0,3.0,2013
+1202,northumberland today.com,Monday/Tuesday/Wednesday/Friday,3806,1.12,118.0,353.0,10.0,301.0,3.0,2013
+1203,northumberland today.com,Monday/Tuesday/Wednesday/Friday,3806,1.12,118.0,353.0,10.0,301.0,3.0,2013
+1204,northumberland today.com,Monday/Tuesday/Wednesday/Friday,3806,1.12,118.0,353.0,10.0,301.0,3.0,2013
+1205,northumberland today.com,Thursday,21045,1.51,118.0,353.0,10.0,301.0,3.0,2013
+1206,northumberland today.com,Monday/Tuesday/Wednesday/Friday,3632,1.14,118.0,353.0,10.0,301.0,3,2014
+1207,northumberland today.com,Monday/Tuesday/Wednesday/Friday,3632,1.14,118.0,353.0,10.0,301.0,3,2014
+1208,northumberland today.com,Monday/Tuesday/Wednesday/Friday,3632,1.14,118.0,353.0,10.0,301.0,3,2014
+1209,northumberland today.com,Monday/Tuesday/Wednesday/Friday,3632,1.14,118.0,353.0,10.0,301.0,3,2014
+1210,northumberland today.com,Thursday,20410,1.53,118.0,353.0,10.0,301.0,3,2014
+1211,northumberland today.com,Monday/Tuesday/Wednesday/Friday,3168,1.14,118.0,353.0,10.0,301.0,3.0,2015
+1212,northumberland today.com,Monday/Tuesday/Wednesday/Friday,3168,1.14,118.0,353.0,10.0,301.0,3.0,2015
+1213,northumberland today.com,Monday/Tuesday/Wednesday/Friday,3168,1.14,118.0,353.0,10.0,301.0,3.0,2015
+1214,northumberland today.com,Monday/Tuesday/Wednesday/Friday,3168,1.14,118.0,353.0,10.0,301.0,3.0,2015
+1215,northumberland today.com,Thursday,21618,1.53,118.0,353.0,10.0,301.0,3.0,2015
+1216,northumberland today.com,Monday/Tuesday/Wednesday/Friday,2696,1.14,,353.0,10.0,287.0,10.0,2016
+1217,northumberland today.com,Monday/Tuesday/Wednesday/Friday,2696,1.14,,353.0,10.0,287.0,10.0,2016
+1218,northumberland today.com,Monday/Tuesday/Wednesday/Friday,2696,1.14,,353.0,10.0,287.0,10.0,2016
+1219,northumberland today.com,Monday/Tuesday/Wednesday/Friday,2696,1.14,,353.0,10.0,287.0,10.0,2016
+1220,northumberland today.com,Thursday,21523,1.53,,353.0,10.0,287.0,10.0,2016
+1221,northumberland today.com,Monday/Tuesday/Wednesday/Friday,2718,1.14,,353.0,10.0,287.0,10.0,2017
+1222,northumberland today.com,Monday/Tuesday/Wednesday/Friday,2718,1.14,,353.0,10.0,287.0,10.0,2017
+1223,northumberland today.com,Monday/Tuesday/Wednesday/Friday,2718,1.14,,353.0,10.0,287.0,10.0,2017
+1224,northumberland today.com,Monday/Tuesday/Wednesday/Friday,2718,1.14,,353.0,10.0,287.0,10.0,2017
+1225,northumberland today.com,Thursday,21493,1.53,,353.0,10.0,287.0,10.0,2017
+1226,norwich gazette,Wednesday,876,0.71,176.0,529.0,9.0,160.0,3.0,2013
+1227,norwich gazette,Wednesday,843,0.71,176.0,529.0,9.0,160.0,3,2014
+1228,norwich gazette,Wednesday,822,0.73,182.0,546.0,9.0,160.0,3.0,2015
+1229,norwich gazette,Wednesday,660,0.73,,546.0,9.0,160.0,3.0,2016
+1230,norwich gazette,Wednesday,660,0.73,,546.0,9.0,160.0,3.0,2017
+1231,norwich gazette,Wednesday,660,0.73,,546.0,10.0,160.0,10.0,2018
+1232,nunavut news north,Monday,6159,2.03,200.0,550.0,6.0,215.0,5.0,2013
+1233,nunavut news north,Monday,6127,2.11,200.0,550.0,6.0,215.0,5,2014
+1234,nunavut news north,Monday,5727,2.11,200.0,550.0,6.0,215.0,5.0,2015
+1235,nunavut news north,Monday,5939,2.11,,550.0,6.0,215.0,5.0,2016
+1236,nunavut news north,Monday,6368,2.11,,456.0,6.0,215.0,5.0,2017
+1237,nunavut news north,Monday,4596,2.14,,,6.0,215.0,5.0,2018
+1238,nunavut news north,Monday,4596,2.14,,,6.0,215.0,5.0,2019
+1239,nwt news north,Monday,7981,2.0,200.0,550.0,6.0,215.0,5.0,2013
+1240,nwt news north,Monday,7779,2.06,200.0,550.0,6.0,215.0,5,2014
+1241,nwt news north,Monday,7111,2.06,200.0,550.0,6.0,215.0,5.0,2015
+1242,nwt news north,Monday,7558,2.06,,550.0,6.0,215.0,5.0,2016
+1243,nwt nunavut news north,Monday,14140,2.44,400.0,1100.0,6.0,215.0,5.0,2013
+1244,nwt nunavut news north,Monday,13906,2.57,400.0,1100.0,6.0,215.0,5,2014
+1245,nwt nunavut news north,Monday,12788,2.57,400.0,1100.0,6.0,215.0,5.0,2015
+1246,oakville beaver,Friday,51673,5.03,335.0,1160.0,10.0,175.0,10.0,2013
+1247,oakville beaver,Thursday,50405,5.03,335.0,1160.0,10.0,175.0,10.0,2013
+1248,oakville beaver,Wednesday,50419,5.03,335.0,1160.0,10.0,175.0,10.0,2013
+1249,oakville beaver,Friday,50895,5.49,1160.0,1160.0,10.0,161.0,10,2014
+1250,oakville beaver,Thursday,60289,6.2,1160.0,1160.0,10.0,161.0,10,2014
+1251,oakville beaver,Wednesday,50918,5.49,1160.0,1160.0,10.0,161.0,10,2014
+1252,oakville beaver,Friday,44296,5.49,1160.0,1160.0,10.0,161.0,10.0,2015
+1253,oakville beaver,Thursday,52032,6.2,1160.0,1160.0,10.0,161.0,10.0,2015
+1254,oakville beaver,Friday,48236,6.2,,1160.0,10.0,161.0,10.0,2016
+1255,oakville beaver,Thursday,51864,6.2,,1160.0,10.0,161.0,10.0,2016
+1256,oakville beaver,Friday,51775,6.2,,1160.0,10.0,161.0,10.0,2017
+1257,oakville beaver,Thursday,51787,6.2,,1160.0,10.0,161.0,10.0,2017
+1258,oakville beaver,Friday,48148,6.2,,1160.0,10.0,161.0,10.0,2018
+1259,oakville beaver,Thursday,52145,6.2,,1160.0,10.0,161.0,10.0,2018
+1260,oakville beaver,Thursday,53161,6.2,,1160.0,10.0,161.0,10.0,2019
+1261,oakville north oakville today,Thursday,32473,2.7,335.0,1160.0,10.0,175.0,10.0,2013
+1262,ohsweken turtle island news,Wednesday,5000,1.59,182.0,776.0,5.0,200.0,4.0,2013
+1263,ohsweken turtle island news,Wednesday,5000,1.59,182.0,776.0,5.0,200.0,4,2014
+1264,ohsweken turtle island news,Wednesday,15000,1.59,182.0,776.0,6.0,164.0,5.0,2015
+1265,ohsweken turtle island news,Wednesday,15000,1.81,,776.0,6.0,164.0,5.0,2016
+1266,ohsweken turtle island news,Wednesday,15000,1.81,,776.0,6.0,164.0,5.0,2017
+1267,ohsweken turtle island news,Wednesday,15000,1.88,,776.0,6.0,164.0,5.0,2018
+1268,ohsweken turtle island news,Wednesday,15000,1.88,,776.0,6.0,164.0,5.0,2019
+1269,orangeville banner,Thursday,23656,2.09,335.0,1160.0,10.0,175.0,10.0,2013
+1270,orangeville banner,Tuesday,19509,1.8,335.0,1160.0,10.0,175.0,10.0,2013
+1271,orangeville banner,Thursday,23359,2.28,1160.0,1160.0,10.0,161.0,10,2014
+1272,orangeville banner,Thursday,22384,2.28,1160.0,1160.0,10.0,161.0,10.0,2015
+1273,orangeville banner,Thursday,23324,2.28,,1160.0,10.0,161.0,10.0,2016
+1274,orangeville banner,Thursday,23381,2.28,,1160.0,10.0,161.0,10.0,2017
+1275,orangeville banner,Thursday,23348,2.28,,1160.0,10.0,161.0,10.0,2018
+1276,orangeville banner,Thursday,21802,2.28,,1160.0,10.0,161.0,10.0,2019
+1277,orangeville citizen,Thursday,18580,0.88,59.0,235.0,8.0,276.0,6.0,2013
+1278,orangeville citizen,Thursday,17838,0.88,59.0,235.0,8.0,300.0,,2014
+1279,orangeville citizen,Thursday,17343,0.88,59.0,235.0,8.0,300.0,,2015
+1280,orangeville citizen,Thursday,17954,0.88,,235.0,8.0,300.0,9.0,2016
+1281,orangeville citizen,Thursday,17967,0.88,,235.0,8.0,300.0,9.0,2017
+1282,orangeville citizen,Thursday,18467,0.88,,235.0,8.0,300.0,9.0,2018
+1283,orangeville citizen,Thursday,18467,0.88,,235.0,8.0,300.0,9.0,2019
+1284,orillia today,Thursday,23872,2.88,335.0,1160.0,10.0,175.0,10.0,2013
+1285,orillia today,Thursday,23986,3.15,1160.0,1160.0,10.0,161.0,10,2014
+1286,orillia today,Thursday,24143,3.15,1160.0,1160.0,10.0,161.0,10.0,2015
+1287,orillia today,Thursday,24347,3.15,,1160.0,10.0,161.0,10.0,2016
+1288,orillia today,Thursday,24297,3.15,,1160.0,10.0,161.0,10.0,2017
+1289,orillia today,Thursday,24509,3.15,,1160.0,10.0,161.0,10.0,2018
+1290,orillia today,Thursday,24512,3.15,,1160.0,10.0,161.0,10.0,2019
+1291,orleans news,Thursday,47829,1.47,335.0,1160.0,6.0,218.0,5.0,2013
+1292,orleans news,Thursday,48837,1.02,1160.0,1160.0,10.0,189.0,10,2014
+1293,orleans news,Thursday,42273,1.2,1160.0,1160.0,10.0,161.0,10.0,2015
+1294,orleans news,Thursday,42898,1.2,,1160.0,10.0,161.0,10.0,2016
+1295,orleans news,Thursday,43271,1.2,,1160.0,10.0,161.0,10.0,2017
+1296,orleans star,Thursday,45439,1.56,235.0,235.0,8.0,175.0,12.0,2013
+1297,orleans star,Thursday,45439,1.56,235.0,235.0,8.0,175.0,12,2014
+1298,orleans star,Thursday,39980,,,,8.0,175.0,12.0,2015
+1299,orleans star,Thursday,42728,1.28,,,8.0,175.0,12.0,2018
+1300,orleans star,Thursday,42728,1.28,,,8.0,175.0,12.0,2019
+1301,orono weekly times,Wednesday,999,0.48,176.0,529.0,5.0,214.0,4.0,2013
+1302,orono weekly times,Wednesday,960,0.68,153.0,353.0,5.0,214.0,4,2014
+1303,orono weekly times,Wednesday,909,0.68,153.0,353.0,5.0,214.0,4.0,2015
+1304,orono weekly times,Wednesday,936,0.68,,353.0,5.0,214.0,4.0,2016
+1305,orono weekly times,Wednesday,936,0.72,,371.0,5.0,214.0,4.0,2017
+1306,orono weekly times,Wednesday,1000,0.73,,378.0,5.0,214.0,4.0,2018
+1307,orono weekly times,Wednesday,909,0.75,,388.0,5.0,214.0,4.0,2019
+1308,oshawa express,Wednesday,35000,1.81,112.0,347.0,8.0,195.0,6.0,2013
+1309,oshawa express,Wednesday,35000,1.81,112.0,347.0,8.0,195.0,6,2014
+1310,oshawa express,Wednesday,35000,1.81,112.0,347.0,8.0,195.0,6.0,2015
+1311,oshawa express,Wednesday,35000,1.81,,347.0,8.0,195.0,6.0,2016
+1312,oshawa express,Wednesday,35000,1.81,,347.0,8.0,195.0,6.0,2017
+1313,oshawa express,Wednesday,35000,1.81,,347.0,8.0,195.0,6.0,2018
+1314,oshawa express,Wednesday,35000,1.96,,347.0,8.0,180.0,6.0,2019
+1315,oshawa whitby clarington this week,Thursday/Friday,106294,7.49,335.0,1160.0,10.0,175.0,10.0,2013
+1316,oshawa whitby clarington this week,Thursday/Friday,106294,7.49,335.0,1160.0,10.0,175.0,10.0,2013
+1317,oshawa whitby clarington this week,Thursday,107090,8.18,1160.0,1160.0,10.0,161.0,10,2014
+1318,oshawa whitby clarington this week,Thursday,105428,8.18,1160.0,1160.0,10.0,161.0,10.0,2015
+1319,oshawa whitby clarington this week,Thursday,105931,8.18,,1160.0,10.0,161.0,10.0,2016
+1320,oshawa whitby clarington this week,Thursday,107250,8.18,,1160.0,10.0,161.0,10.0,2017
+1321,oshawa whitby clarington this week,Thursday,103648,8.18,,1160.0,10.0,161.0,10.0,2018
+1322,oshawa whitby clarington this week,Thursday,99846,8.18,,1160.0,10.0,161.0,10.0,2019
+1323,oshawa whitby clarington this week port perry star,Thursday,117902,7.96,670.0,2320.0,10.0,175.0,10.0,2013
+1324,oshawa whitby clarington this week port perry star,Thursday,118710,8.69,2320.0,2320.0,10.0,161.0,10,2014
+1325,oshawa whitby clarington this week port perry star,Thursday,116930,8.69,2320.0,2320.0,10.0,161.0,10.0,2015
+1326,oshawa whitby clarington this week port perry star,Thursday,117828,8.69,,2320.0,10.0,161.0,10.0,2016
+1327,oshawa whitby clarington this week port perry star,Thursday,116070,8.69,,2320.0,10.0,161.0,10.0,2017
+1328,oshawa whitby clarington this week port perry star,Thursday,115492,8.69,,2320.0,10.0,161.0,10.0,2018
+1329,oshawa whitby clarington this week port perry star,Thursday,111278,8.69,,2320.0,10.0,161.0,10.0,2019
+1330,oshawa whitby this week,Wednesday/Thursday/Friday,80562,6.52,335.0,1160.0,10.0,175.0,10.0,2013
+1331,oshawa whitby this week,Wednesday/Thursday/Friday,80562,6.52,335.0,1160.0,10.0,175.0,10.0,2013
+1332,oshawa whitby this week,Wednesday/Thursday/Friday,80562,6.52,335.0,1160.0,10.0,175.0,10.0,2013
+1333,oshawa whitby this week,Friday,79500,6.59,1160.0,1160.0,10.0,161.0,10,2014
+1334,oshawa whitby this week,Wednesday,81235,7.11,1160.0,1160.0,10.0,161.0,10,2014
+1335,oshawa whitby this week,Wednesday,80252,7.11,1160.0,1160.0,10.0,161.0,10.0,2015
+1336,oshawa whitby this week,Wednesday,80268,7.11,,1160.0,10.0,161.0,10.0,2016
+1337,oshawa whitby this week,Wednesday,81270,7.11,,1160.0,10.0,161.0,10.0,2017
+1338,oshawa whitby this week,Wednesday,77736,7.11,,1160.0,10.0,161.0,10.0,2018
+1339,oshawa whitby this week,Wednesday,74115,7.11,,1160.0,10.0,161.0,10.0,2019
+1340,ottawa community voice kanata stittsville,Thursday,46230,2.71,,206.0,6.0,147.0,5.0,2019
+1341,ottawa community voice south,Thursday,43046,2.71,,206.0,6.0,147.0,5.0,2019
+1342,ottawa east news,Thursday,38950,1.47,335.0,1160.0,6.0,218.0,5.0,2013
+1343,ottawa east news,Thursday,29011,1.02,1160.0,1160.0,10.0,189.0,10,2014
+1344,ottawa east news,Thursday,36519,1.2,1160.0,1160.0,10.0,161.0,10.0,2015
+1345,ottawa east news,Thursday,36484,1.2,,1160.0,10.0,161.0,10.0,2016
+1346,ottawa east news,Thursday,36056,1.2,,1160.0,10.0,161.0,10.0,2017
+1347,ottawa embassy,Wednesday,9921,6.99,367.0,934.0,4.0,190.0,8.0,2013
+1348,ottawa embassy,Wednesday,9840,7.69,453.0,1124.0,4.0,190.0,8,2014
+1349,ottawa embassy,Wednesday,10878,7.69,453.0,1124.0,4.0,190.0,8.0,2015
+1350,ottawa embassy,Wednesday,11486,7.69,,1124.0,4.0,190.0,8.0,2016
+1351,ottawa hill times,Monday,10640,6.99,367.0,934.0,4.0,190.0,8.0,2013
+1352,ottawa hill times,Monday,10368,7.69,453.0,1124.0,4.0,190.0,8,2014
+1353,ottawa hill times,Monday,11773,7.69,453.0,1124.0,4.0,190.0,8.0,2015
+1354,ottawa hill times,Monday,12360,7.69,,1124.0,4.0,190.0,8.0,2016
+1355,ottawa hill times,Monday/Wednesday,13169,7.69,,1124.0,4.0,190.0,8.0,2017
+1356,ottawa hill times,Monday/Wednesday,13169,7.69,,1124.0,4.0,190.0,8.0,2017
+1357,ottawa hill times,Monday/Wednesday,13169,7.69,,1124.0,4.0,190.0,8.0,2018
+1358,ottawa hill times,Monday/Wednesday,13169,7.69,,1124.0,4.0,190.0,8.0,2018
+1359,ottawa hill times,Monday/Wednesday,14732,7.69,,1124.0,4.0,190.0,8.0,2019
+1360,ottawa hill times,Monday/Wednesday,14732,7.69,,1124.0,4.0,190.0,8.0,2019
+1361,ottawa south news,Thursday,39133,1.47,335.0,1160.0,6.0,218.0,5.0,2013
+1362,ottawa south news,Thursday,40737,1.02,1160.0,1160.0,10.0,189.0,10,2014
+1363,ottawa south news,Thursday,41820,1.2,1160.0,1160.0,10.0,161.0,10.0,2015
+1364,ottawa south news,Thursday,42150,1.2,,1160.0,10.0,161.0,10.0,2016
+1365,ottawa south news,Thursday,52988,1.26,,1160.0,10.0,161.0,10.0,2017
+1366,ottawa west news,Thursday,32030,1.47,335.0,1160.0,6.0,218.0,5.0,2013
+1367,ottawa west news,Thursday,35681,1.02,1160.0,1160.0,10.0,189.0,10,2014
+1368,ottawa west news,Thursday,35247,1.2,1160.0,1160.0,10.0,161.0,10.0,2015
+1369,ottawa west news,Thursday,35107,1.2,,1160.0,10.0,161.0,10.0,2016
+1370,ottawa west news,Thursday,35081,1.2,,1160.0,10.0,161.0,10.0,2017
+1371,paris star,Thursday,775,0.77,94.0,371.0,9.0,160.0,3.0,2013
+1372,paris star,Thursday,4175,0.65,127.0,382.0,10.0,287.0,3,2014
+1373,paris star,Thursday,4175,0.65,127.0,382.0,10.0,287.0,3.0,2015
+1374,paris star,Thursday,4900,0.65,,382.0,10.0,287.0,3.0,2016
+1375,paris star,Thursday,4885,0.65,,382.0,10.0,287.0,10.0,2017
+1376,paris star,Thursday,4910,0.67,,394.0,10.0,287.0,10.0,2018
+1377,paris star,Thursday,4910,0.67,,394.0,10.0,287.0,10.0,2019
+1378,parkhill gazette,Thursday,943,0.89,76.0,271.0,6.0,210.0,5.0,2013
+1379,parkhill gazette,Thursday,928,0.89,76.0,271.0,6.0,210.0,5,2014
+1380,parkhill gazette,Thursday,860,0.91,100.0,271.0,6.0,210.0,5.0,2015
+1381,parkhill glencoe gazette transcript free press,Thursday,1702,1.2,,282.0,6.0,210.0,5.0,2016
+1382,parkhill glencoe gazette transcript free press,Thursday,1702,1.2,,282.0,6.0,210.0,5.0,2017
+1383,parkhill glencoe gazette transcript free press,Thursday,1183,1.2,,282.0,6.0,210.0,5.0,2018
+1384,parkhill glencoe gazette transcript free press,Thursday,992,1.2,,282.0,6.0,210.0,5.0,2019
+1385,parry sound beacon star,Friday,8000,1.49,335.0,1160.0,10.0,175.0,10.0,2013
+1386,parry sound beacon star,Friday,7971,2.64,1160.0,1160.0,10.0,161.0,10,2014
+1387,parry sound beacon star,Friday,7572,2.64,1160.0,1160.0,10.0,161.0,10.0,2015
+1388,parry sound beacon star,Friday,7604,2.64,,1160.0,10.0,161.0,10.0,2016
+1389,parry sound beacon star,Friday,7433,2.64,,1160.0,10.0,161.0,10.0,2017
+1390,parry sound beacon star,Friday,7328,2.64,,1160.0,10.0,161.0,10.0,2018
+1391,parry sound beacon star,Friday,7272,2.64,,1160.0,10.0,161.0,10.0,2019
+1392,parry sound north star,Wednesday,2840,1.33,335.0,1160.0,10.0,301.0,10.0,2013
+1393,parry sound north star,Wednesday,2874,1.33,1160.0,1160.0,10.0,301.0,10,2014
+1394,parry sound north star,Wednesday,2290,1.33,1160.0,1160.0,10.0,301.0,10.0,2015
+1395,parry sound north star,Wednesday,2281,1.33,,1160.0,10.0,301.0,10.0,2016
+1396,parry sound north star,Wednesday,2206,1.33,,1160.0,10.0,301.0,10.0,2017
+1397,parry sound north star,Wednesday,1972,1.33,,1160.0,10.0,297.0,10.0,2018
+1398,parry sound north star,Wednesday,1900,1.33,,1160.0,10.0,297.0,10.0,2019
+1399,pelham news,Thursday,6793,0.61,147.0,368.0,9.0,160.0,3.0,2013
+1400,pelham news,Thursday,6673,0.61,147.0,368.0,9.0,160.0,3,2014
+1401,pelham news,Thursday,6639,0.66,147.0,368.0,9.0,160.0,3.0,2015
+1402,pelham news,Thursday,6347,0.66,,368.0,9.0,160.0,3.0,2016
+1403,pelham news,Thursday,6430,0.66,,368.0,9.0,160.0,3.0,2017
+1404,pelham voice of pelham,Wednesday,8437,0.87,78.0,155.0,6.0,160.0,5.0,2013
+1405,pelham voice of pelham,Wednesday,6746,0.87,78.0,155.0,6.0,158.0,5,2014
+1406,pelham voice of pelham,Wednesday,5764,0.87,78.0,155.0,6.0,158.0,5.0,2015
+1407,pelham voice of pelham,Wednesday,6817,0.87,,155.0,6.0,217.0,5.0,2016
+1408,pelham voice of pelham,Wednesday,6782,0.87,,155.0,6.0,217.0,5.0,2017
+1409,pelham voice of pelham,Wednesday,6627,0.87,,155.0,6.0,217.0,5.0,2018
+1410,pelham voice of pelham,Wednesday,6627,0.92,,155.0,6.0,217.0,5.0,2019
+1411,perth courier,Thursday,11763,0.69,335.0,1160.0,6.0,218.0,5.0,2013
+1412,perth courier,Thursday,11930,0.48,1160.0,1160.0,10.0,189.0,10,2014
+1413,perth courier,Thursday,12345,0.57,1160.0,1160.0,10.0,161.0,10.0,2015
+1414,perth courier,Thursday,12467,0.57,,1160.0,10.0,161.0,10.0,2016
+1415,perth courier,Thursday,11722,0.57,,1160.0,10.0,161.0,10.0,2017
+1416,perth courier,Thursday,11765,0.57,,1160.0,10.0,161.0,10.0,2018
+1417,perth courier,Thursday,11828,0.57,,1160.0,10.0,161.0,10.0,2019
+1418,peterborough this week,Friday,45647,3.91,335.0,1160.0,10.0,175.0,10.0,2013
+1419,peterborough this week,Wednesday,45970,3.91,335.0,1160.0,10.0,175.0,10.0,2013
+1420,peterborough this week,Friday,45313,4.28,1160.0,1160.0,10.0,161.0,10,2014
+1421,peterborough this week,Wednesday,45794,4.28,1160.0,1160.0,10.0,161.0,10,2014
+1422,peterborough this week,Friday,44719,4.28,1160.0,1160.0,10.0,161.0,10.0,2015
+1423,peterborough this week,Wednesday,45276,4.28,1160.0,1160.0,10.0,161.0,10.0,2015
+1424,peterborough this week,Friday,44465,4.28,,1160.0,10.0,161.0,10.0,2016
+1425,peterborough this week,Wednesday,45043,4.28,,1160.0,10.0,161.0,10.0,2016
+1426,peterborough this week,Friday,43968,4.28,,1160.0,10.0,161.0,10.0,2017
+1427,peterborough this week,Wednesday,44528,4.28,,1160.0,10.0,161.0,10.0,2017
+1428,peterborough this week,Friday,43195,4.28,,1160.0,10.0,161.0,10.0,2018
+1429,peterborough this week,Wednesday,43797,4.28,,1160.0,10.0,161.0,10.0,2018
+1430,peterborough this week,Friday,41715,4.28,,1160.0,10.0,161.0,10.0,2019
+1431,peterborough this week,Wednesday,42182,4.28,,1160.0,10.0,161.0,10.0,2019
+1432,petrolia lambton independent,Thursday,6000,0.82,,,9.0,192.0,3,2014
+1433,petrolia lambton independent,Thursday,6000,0.82,,,9.0,192.0,3.0,2015
+1434,petrolia lambton independent,Thursday,6000,0.6,,,9.0,192.0,3.0,2016
+1435,petrolia lambton independent,Thursday,6000,0.6,,,9.0,192.0,3.0,2017
+1436,petrolia lambton independent,Thursday,6000,0.6,,353.0,9.0,192.0,3.0,2018
+1437,petrolia lambton independent,Thursday,1900,0.6,,353.0,9.0,192.0,3.0,2019
+1438,petrolia topic,Wednesday,1404,0.73,118.0,353.0,9.0,160.0,3.0,2013
+1439,petrolia topic,Wednesday,1309,0.73,118.0,353.0,9.0,160.0,3,2014
+1440,petrolia topic,Wednesday,1309,0.57,118.0,353.0,9.0,160.0,3.0,2015
+1441,petrolia topic,Wednesday,726,0.53,,234.0,9.0,160.0,3.0,2016
+1442,petrolia topic,Wednesday,726,0.53,,234.0,9.0,160.0,3.0,2017
+1443,petrolia topic,Wednesday,726,0.53,,234.0,9.0,160.0,3.0,2018
+1444,picton county weekly news,Thursday,11615,0.64,118.0,412.0,9.0,160.0,3.0,2013
+1445,picton county weekly news,Thursday,11529,0.58,176.0,176.0,9.0,160.0,3,2014
+1446,picton county weekly news,Thursday,11811,0.58,176.0,176.0,9.0,160.0,3.0,2015
+1447,picton county weekly news,Thursday,11492,0.58,,176.0,9.0,160.0,3.0,2016
+1448,picton county weekly news,Thursday,11149,0.58,,176.0,9.0,160.0,3.0,2017
+1449,picton county weekly news,Thursday,11149,0.58,,176.0,10.0,160.0,10.0,2018
+1450,picton county weekly news,Thursday,11149,0.58,,176.0,10.0,160.0,10.0,2019
+1451,picton gazette,Thursday,11955,0.79,71.0,106.0,6.0,212.0,5.0,2013
+1452,picton gazette,Thursday,11931,0.79,71.0,106.0,6.0,212.0,5,2014
+1453,picton gazette,Thursday,11955,0.79,71.0,106.0,6.0,212.0,5.0,2015
+1454,picton gazette,Thursday,11548,0.89,,106.0,6.0,188.0,5.0,2016
+1455,picton gazette,Thursday,11426,0.89,,106.0,6.0,188.0,5.0,2017
+1456,picton gazette,Thursday,11450,0.91,,106.0,6.0,160.0,5.0,2018
+1457,picton gazette,Thursday,11377,0.91,,106.0,6.0,160.0,5.0,2019
+1458,port colborne inport news,Thursday,11055,0.88,147.0,368.0,9.0,160.0,3.0,2013
+1459,port colborne inport news,Thursday,10623,0.88,147.0,368.0,9.0,160.0,3,2014
+1460,port colborne inport news,Thursday,10129,0.93,147.0,368.0,9.0,160.0,3.0,2015
+1461,port colborne inport news,Thursday,9880,0.93,,368.0,9.0,160.0,3.0,2016
+1462,port colborne inport news,Thursday,9849,0.93,,368.0,9.0,160.0,3.0,2017
+1463,port dover maple leaf,Wednesday,3110,0.65,153.0,294.0,10.0,224.0,10.0,2013
+1464,port dover maple leaf,Wednesday,2995,0.65,153.0,294.0,10.0,224.0,10,2014
+1465,port dover maple leaf,Wednesday,2866,0.62,153.0,294.0,10.0,224.0,10.0,2015
+1466,port dover maple leaf,Wednesday,2919,0.62,,235.0,10.0,224.0,10.0,2016
+1467,port dover maple leaf,Wednesday,2840,0.62,,235.0,10.0,224.0,10.0,2017
+1468,port dover maple leaf,Wednesday,2919,0.62,,235.0,10.0,224.0,10.0,2018
+1469,port dover maple leaf,Wednesday,2808,0.62,,235.0,10.0,224.0,10.0,2019
+1470,port elgin shoreline beacon,Tuesday,3371,0.84,147.0,147.0,9.0,160.0,3.0,2013
+1471,port elgin shoreline beacon,Tuesday,3569,0.84,147.0,147.0,9.0,160.0,3,2014
+1472,port elgin shoreline beacon,Tuesday,3303,0.84,147.0,147.0,9.0,160.0,3.0,2015
+1473,port elgin shoreline beacon,Tuesday,2879,0.84,,147.0,9.0,160.0,3.0,2016
+1474,port elgin shoreline beacon,Tuesday,2474,0.95,,147.0,9.0,160.0,3.0,2017
+1475,port elgin shoreline beacon,Tuesday,2183,0.95,,147.0,9.0,160.0,3.0,2018
+1476,port elgin shoreline beacon,Tuesday,1837,0.86,,147.0,10.0,160.0,10.0,2019
+1477,port perry star,Thursday,11608,1.87,335.0,1160.0,10.0,175.0,10.0,2013
+1478,port perry star,Thursday,11620,2.03,1160.0,1160.0,10.0,161.0,10,2014
+1479,port perry star,Thursday,11502,2.03,1160.0,1160.0,10.0,161.0,10.0,2015
+1480,port perry star,Thursday,11897,2.03,,1160.0,10.0,161.0,10.0,2016
+1481,port perry star,Thursday,11897,2.03,,1160.0,10.0,161.0,10.0,2017
+1482,port perry star,Thursday,11844,2.03,,1160.0,10.0,161.0,10.0,2018
+1483,port perry star,Thursday,11432,2.03,,1160.0,10.0,161.0,10.0,2019
+1484,port perry uxbridge the standard,Thursday,12231,1.22,100.0,176.0,6.0,196.0,5.0,2013
+1485,port perry uxbridge the standard,Thursday,13363,1.22,100.0,176.0,6.0,196.0,5,2014
+1486,port perry uxbridge the standard,Thursday,14415,1.22,100.0,176.0,6.0,177.0,5.0,2015
+1487,port perry uxbridge the standard,Thursday,14415,1.22,,176.0,6.0,177.0,5.0,2016
+1488,port perry uxbridge the standard,Thursday,11868,1.22,,176.0,6.0,177.0,5.0,2017
+1489,port perry uxbridge the standard,Thursday,11868,1.22,,176.0,6.0,177.0,5.0,2018
+1490,port perry uxbridge the standard,Thursday,11868,1.22,,176.0,6.0,177.0,5.0,2019
+1491,port stanley the lake erie beacon,Friday,7170,1.98,229.0,469.0,4.0,215.0,8.0,2013
+1492,port stanley the lake erie beacon,Friday,6684,1.98,229.0,469.0,4.0,215.0,8,2014
+1493,port stanley the lake erie beacon,Friday,6684,1.98,229.0,469.0,4.0,215.0,8.0,2015
+1494,port stanley the lake erie beacon,Friday,6684,1.98,,469.0,4.0,215.0,8.0,2016
+1495,port stanley the lake erie beacon,Friday,6684,1.98,,469.0,4.0,215.0,8.0,2017
+1496,prescott journal,Wednesday,1619,0.88,206.0,412.0,6.0,220.0,5.0,2013
+1497,prescott journal,Wednesday,1463,0.91,176.0,353.0,6.0,220.0,5,2014
+1498,prescott journal,Wednesday,1337,0.91,176.0,353.0,6.0,220.0,5.0,2015
+1499,prescott journal,Wednesday,1334,0.93,,353.0,6.0,220.0,5.0,2016
+1500,prescott journal,Wednesday,1288,0.93,,353.0,6.0,220.0,5.0,2017
+1501,prescott journal,Wednesday,1141,0.93,,353.0,6.0,220.0,5.0,2018
+1502,prescott journal,Wednesday,1099,0.93,,353.0,6.0,220.0,5.0,2019
+1503,quinte west news,Thursday,22993,1.47,335.0,1160.0,6.0,218.0,5.0,2013
+1504,quinte west news,Thursday,16057,1.13,1160.0,1160.0,10.0,189.0,10,2014
+1505,quinte west news,Thursday,16071,1.33,1160.0,1160.0,10.0,161.0,10.0,2015
+1506,quinte west news,Thursday,16046,1.33,,1160.0,10.0,161.0,10.0,2016
+1507,quinte west news,Thursday,15992,1.33,,1160.0,10.0,161.0,10.0,2017
+1508,rainy river record,Tuesday,684,0.8,135.0,435.0,5.0,209.0,4.0,2013
+1509,rainy river record,Tuesday,691,0.81,135.0,435.0,5.0,209.0,4,2014
+1510,rainy river record,Tuesday,612,0.85,141.0,456.0,5.0,209.0,4.0,2015
+1511,rainy river record,Tuesday,643,0.87,,471.0,5.0,209.0,4.0,2016
+1512,red lake northern sun news,Wednesday,1210,0.65,118.0,294.0,6.0,294.0,2.0,2013
+1513,red lake northern sun news,Wednesday,1210,0.66,118.0,294.0,6.0,294.0,2,2014
+1514,red lake northern sun news,Wednesday,1114,0.67,118.0,294.0,6.0,294.0,2.0,2015
+1515,red lake northern sun news,Wednesday,1068,1.24,,294.0,6.0,160.0,5.0,2016
+1516,red lake northern sun news,Wednesday,1068,1.26,,294.0,6.0,160.0,5.0,2017
+1517,red lake northern sun news,Wednesday,811,1.28,,294.0,6.0,160.0,5.0,2018
+1518,renfrew mercury,Thursday,15286,1.15,335.0,1160.0,6.0,218.0,5.0,2013
+1519,renfrew mercury,Thursday,15290,0.8,1160.0,1160.0,10.0,189.0,10,2014
+1520,renfrew mercury,Thursday,15564,0.94,1160.0,1160.0,10.0,161.0,10.0,2015
+1521,renfrew mercury,Thursday,13121,0.94,,1160.0,10.0,161.0,10.0,2016
+1522,renfrew mercury,Thursday,14519,0.94,,1160.0,10.0,161.0,10.0,2017
+1523,renfrew mercury,Thursday,13359,0.94,,1160.0,10.0,161.0,10.0,2018
+1524,renfrew mercury,Thursday,11942,0.94,,1160.0,10.0,161.0,10.0,2019
+1525,richmond hill liberal,Saturday,50939,3.27,335.0,1160.0,10.0,175.0,10.0,2013
+1526,richmond hill thornhill liberal,Thursday,83140,5.44,335.0,1160.0,10.0,175.0,10.0,2013
+1527,richmond hill thornhill liberal,Thursday,81654,5.94,1160.0,1160.0,10.0,161.0,10,2014
+1528,richmond hill thornhill liberal,Thursday,83416,5.94,1160.0,1160.0,10.0,161.0,10.0,2015
+1529,richmond hill thornhill liberal,Thursday,83846,5.94,,1160.0,10.0,161.0,10.0,2016
+1530,richmond hill thornhill liberal,Thursday,83846,5.94,,1160.0,10.0,161.0,10.0,2017
+1531,richmond hill thornhill liberal,Thursday,84047,5.94,,1160.0,10.0,161.0,10.0,2018
+1532,richmond hill thornhill liberal,Thursday,84542,5.94,,1160.0,10.0,161.0,10.0,2019
+1533,ridgetown independent news,Wednesday,1889,0.52,118.0,235.0,6.0,224.0,5.0,2013
+1534,ridgetown independent news,Wednesday,1964,0.52,118.0,235.0,6.0,224.0,5,2014
+1535,ridgetown independent news,Wednesday,1787,0.52,118.0,235.0,6.0,224.0,5.0,2015
+1536,ridgetown independent news,Wednesday,1776,0.52,,235.0,6.0,224.0,5.0,2016
+1537,ridgetown independent news,Wednesday,1752,0.53,,176.0,6.0,224.0,5.0,2017
+1538,ridgetown independent news,Wednesday,1640,0.53,,176.0,6.0,224.0,5.0,2018
+1539,ridgetown independent news,Wednesday,1583,0.56,,176.0,6.0,224.0,5.0,2019
+1540,russell villager,Wednesday,713,0.57,176.0,529.0,6.0,220.0,5.0,2013
+1541,sarnia journal,Thursday,30000,1.35,,,9.0,192.0,3.0,2015
+1542,sarnia journal,Thursday,30000,1.35,,,9.0,192.0,3.0,2016
+1543,sarnia journal,Thursday,30000,1.35,,,9.0,192.0,3.0,2017
+1544,sarnia journal,Thursday,30000,1.4,,,9.0,192.0,3.0,2018
+1545,sarnia journal,Thursday,30000,1.4,,,9.0,192.0,3.0,2019
+1546,sarnia lambton county this week,Thursday,41300,1.49,152.0,469.0,9.0,160.0,3.0,2013
+1547,sarnia lambton county this week,Thursday,41300,1.49,152.0,469.0,9.0,160.0,3,2014
+1548,sarnia lambton county this week,Thursday,40240,1.49,152.0,469.0,9.0,160.0,3.0,2015
+1549,sarnia lambton county this week,Thursday,39627,1.49,,469.0,9.0,160.0,3.0,2016
+1550,sarnia lambton county this week,Thursday,39156,1.49,,469.0,9.0,160.0,3.0,2017
+1551,sarnia lambton county this week,Thursday,39476,1.49,,469.0,9.0,160.0,3.0,2018
+1552,sarnia lambton county this week,Thursday,39476,1.34,,469.0,10.0,160.0,10.0,2019
+1553,sault ste. marie this week,Wednesday,30800,1.59,327.0,648.0,9.0,160.0,3.0,2013
+1554,sault ste. marie this week,Wednesday,30800,1.59,327.0,648.0,9.0,160.0,3,2014
+1555,sault ste. marie this week,Thursday,30800,1.64,335.0,665.0,9.0,160.0,3.0,2015
+1556,sault ste. marie this week,Thursday,30800,1.67,,678.0,9.0,160.0,3.0,2016
+1557,sault ste. marie this week,Thursday,31122,1.72,,688.0,9.0,160.0,3.0,2017
+1558,sault ste. marie this week,Thursday,31122,1.78,,706.0,10.0,287.0,10.0,2018
+1559,sault ste. marie this week,Thursday,31122,1.84,,706.0,10.0,287.0,10.0,2019
+1560,scarborough mirror,Thursday/Friday,117124,8.18,335.0,1160.0,10.0,175.0,10.0,2013
+1561,scarborough mirror,Thursday/Friday,117124,8.18,335.0,1160.0,10.0,175.0,10.0,2013
+1562,scarborough mirror,Thursday,119652,8.93,1160.0,1160.0,10.0,161.0,10,2014
+1563,scarborough mirror,Thursday,118432,8.93,1160.0,1160.0,10.0,161.0,10.0,2015
+1564,scarborough mirror,Thursday,121745,8.93,,1160.0,10.0,161.0,10.0,2016
+1565,scarborough mirror,Thursday,123762,8.93,,1160.0,10.0,161.0,10.0,2017
+1566,scarborough mirror,Thursday,122607,9.2,,1160.0,10.0,161.0,10.0,2018
+1567,scarborough mirror,Thursday,120372,9.2,,1160.0,10.0,161.0,10.0,2019
+1568,seaforth huron expositor,Wednesday,1658,0.73,88.0,353.0,9.0,160.0,3.0,2013
+1569,seaforth huron expositor,Wednesday,1461,0.72,88.0,353.0,9.0,160.0,3,2014
+1570,seaforth huron expositor,Wednesday,1394,0.73,88.0,353.0,9.0,160.0,3.0,2015
+1571,seaforth huron expositor,Wednesday,1316,0.73,,353.0,9.0,160.0,3.0,2016
+1572,seaforth huron expositor,Wednesday,1269,0.73,,353.0,9.0,160.0,3.0,2017
+1573,seaforth huron expositor,Wednesday,1082,0.73,,353.0,9.0,160.0,3.0,2018
+1574,seaforth huron expositor,Wednesday,1082,0.66,,353.0,10.0,160.0,10.0,2019
+1575,shelburne free press,Thursday,1572,0.82,353.0,353.0,6.0,301.0,1.0,2013
+1576,shelburne free press,Thursday,3454,0.82,353.0,353.0,6.0,301.0,1,2014
+1577,shelburne free press,Thursday,3454,0.62,353.0,353.0,8.0,300.0,,2015
+1578,shelburne free press,Thursday,3454,0.62,,353.0,8.0,300.0,9.0,2016
+1579,shelburne free press,Thursday,3454,0.62,,353.0,8.0,300.0,9.0,2017
+1580,shelburne free press,Thursday,3454,0.62,,353.0,8.0,300.0,9.0,2018
+1581,shelburne free press,Thursday,3454,0.62,,353.0,8.0,300.0,9.0,2019
+1582,simcoe times reformer,Wednesday,18726,1.37,176.0,529.0,10.0,301.0,3.0,2013
+1583,simcoe times reformer,Wednesday,18726,1.37,176.0,529.0,10.0,301.0,3,2014
+1584,simcoe times reformer,Wednesday,18726,1.37,176.0,529.0,10.0,287.0,3.0,2015
+1585,simcoe times reformer,Wednesday,18726,1.37,,529.0,10.0,287.0,3.0,2016
+1586,simcoe times reformer,Wednesday,18726,1.39,,529.0,10.0,287.0,10.0,2017
+1587,simcoe times reformer,Wednesday,18726,1.39,,529.0,10.0,287.0,10.0,2018
+1588,simcoe times reformer,Wednesday,18726,1.39,,529.0,10.0,287.0,10.0,2019
+1589,sioux lookout bulletin,Wednesday,4500,0.92,206.0,479.0,6.0,215.0,5.0,2013
+1590,sioux lookout bulletin,Wednesday,4469,0.92,247.0,247.0,6.0,215.0,5,2014
+1591,sioux lookout bulletin,Wednesday,4459,0.93,252.0,252.0,6.0,215.0,5.0,2015
+1592,sioux lookout bulletin,Wednesday,4463,0.94,,253.0,6.0,215.0,5.0,2016
+1593,sioux lookout bulletin,Wednesday,4463,0.96,,259.0,6.0,215.0,5.0,2017
+1594,sioux lookout bulletin,Wednesday,4397,0.99,,264.0,6.0,215.0,5.0,2018
+1595,sioux lookout bulletin,Wednesday,4397,1.01,,272.0,6.0,215.0,5.0,2019
+1596,sioux lookout wawatay news,Thursday,7439,0.89,153.0,341.0,6.0,218.0,5.0,2013
+1597,sioux lookout wawatay news,Thursday,9043,0.89,153.0,341.0,6.0,218.0,5,2014
+1598,sioux lookout wawatay news,Monthly,4500,0.99,,353.0,6.0,218.0,5.0,2016
+1599,sioux lookout wawatay news,Monthly,4500,1.06,,365.0,6.0,218.0,5.0,2017
+1600,sioux lookout wawatay news,Monthly,5450,1.06,,347.0,6.0,218.0,5.0,2018
+1601,sioux lookout wawatay news,Monthly,5450,1.06,,347.0,6.0,218.0,5.0,2019
+1602,smiths falls record news,Thursday,11010,0.97,335.0,1160.0,6.0,218.0,5.0,2013
+1603,smiths falls record news,Thursday,11726,0.68,1160.0,1160.0,10.0,189.0,10,2014
+1604,smiths falls record news,Thursday,12215,0.79,1160.0,1160.0,10.0,161.0,10.0,2015
+1605,smiths falls record news,Thursday,12186,0.79,,1160.0,10.0,161.0,10.0,2016
+1606,smiths falls record news,Thursday,11887,0.79,,1160.0,10.0,161.0,10.0,2017
+1607,smiths falls record news,Thursday,11515,0.79,,1160.0,10.0,161.0,10.0,2018
+1608,smiths falls record news,Thursday,11484,0.79,,1160.0,10.0,161.0,10.0,2019
+1609,south bruce independent extra,Thursday,7325,0.86,,382.0,6.0,217.0,5.0,2017
+1610,south bruce independent extra,Thursday,7325,0.86,,382.0,6.0,217.0,5.0,2018
+1611,south bruce independent extra,Thursday,7325,0.86,,382.0,6.0,217.0,5.0,2019
+1612,south bruce weekender,Thursday,15102,0.86,159.0,382.0,6.0,217.0,5,2014
+1613,south bruce weekender,Thursday,7325,0.86,159.0,382.0,6.0,217.0,5.0,2015
+1614,south bruce weekender,Thursday,7325,0.86,,382.0,6.0,217.0,5.0,2016
+1615,st. lawrence news,Thursday,28330,1.39,335.0,1160.0,6.0,218.0,5.0,2013
+1616,st. marys independent,Friday,4200,0.94,,176.0,6.0,176.0,5.0,2016
+1617,st. marys independent,Friday,4200,0.94,,176.0,6.0,176.0,5.0,2017
+1618,st. marys independent,Friday,4392,0.94,,176.0,6.0,176.0,5.0,2018
+1619,st. marys independent,Thursday,4392,0.99,,186.0,6.0,176.0,5.0,2019
+1620,st. marys journal argus,Wednesday,2128,0.86,335.0,1160.0,10.0,175.0,10.0,2013
+1621,st. marys journal argus,Wednesday,1979,0.93,1160.0,1160.0,10.0,161.0,10,2014
+1622,st. marys journal argus,Wednesday,1833,0.93,1160.0,1160.0,10.0,161.0,10.0,2015
+1623,st. marys journal argus,Wednesday,1670,0.93,,1160.0,10.0,161.0,10.0,2016
+1624,st. marys journal argus,Wednesday,1464,0.93,,1160.0,10.0,161.0,10.0,2017
+1625,st. marys journal argus weekender,Thursday,6886,1.05,335.0,1160.0,10.0,175.0,10.0,2013
+1626,st. marys journal argus weekender,Thursday,7022,1.14,1160.0,1160.0,10.0,161.0,10,2014
+1627,st. marys journal argus weekender,Thursday,6994,1.14,1160.0,1160.0,10.0,161.0,10.0,2015
+1628,st. marys journal argus weekender,Thursday,7165,1.14,,1160.0,10.0,161.0,10.0,2016
+1629,st. marys journal argus weekender,Thursday,7165,1.14,,1160.0,10.0,161.0,10.0,2017
+1630,st. thomas elgin weekly news,Thursday,30369,0.8,,,10.0,175.0,10.0,2013
+1631,st. thomas elgin weekly news,Thursday,29835,0.92,1160.0,1160.0,10.0,161.0,10,2014
+1632,st. thomas elgin weekly news,Thursday,30440,0.92,1160.0,1160.0,10.0,161.0,10.0,2015
+1633,st. thomas elgin weekly news,Thursday,30515,0.92,,1160.0,10.0,161.0,10.0,2016
+1634,st. thomas elgin weekly news,Thursday,30393,0.92,,1160.0,10.0,161.0,10.0,2017
+1635,stirling central hastings news,Thursday,11564,0.98,1160.0,1160.0,10.0,189.0,10,2014
+1636,stirling central hastings news,Thursday,11155,1.16,1160.0,1160.0,10.0,161.0,10.0,2015
+1637,stirling northeast emc,Thursday,11559,1.13,335.0,1160.0,6.0,218.0,5.0,2013
+1638,stittsville news,Thursday,12363,0.91,335.0,1160.0,6.0,218.0,5.0,2013
+1639,stittsville news,Thursday,12563,0.64,1160.0,1160.0,10.0,189.0,10,2014
+1640,stittsville news,Thursday,13217,0.75,1160.0,1160.0,10.0,161.0,10.0,2015
+1641,stittsville news,Thursday,13446,0.75,,1160.0,10.0,161.0,10.0,2016
+1642,stittsville news,Thursday,13712,0.75,,1160.0,10.0,161.0,10.0,2017
+1643,stoney creek news,Thursday,29900,2.5,335.0,1160.0,10.0,175.0,10.0,2013
+1644,stoney creek news,Thursday,29928,2.73,1160.0,1160.0,10.0,161.0,10,2014
+1645,stoney creek news,Thursday,30604,2.73,1160.0,1160.0,10.0,161.0,10.0,2015
+1646,stoney creek news,Thursday,29930,2.73,,1160.0,10.0,161.0,10.0,2016
+1647,stoney creek news,Thursday,29932,2.73,,1160.0,10.0,161.0,10.0,2017
+1648,stoney creek news,Thursday,29931,2.73,,1160.0,10.0,161.0,10.0,2018
+1649,stoney creek news,Thursday,29943,2.73,,1160.0,10.0,161.0,10.0,2019
+1650,stouffville sun tribune,Thursday/Saturday,12300,1.61,335.0,1160.0,10.0,175.0,10.0,2013
+1651,stouffville sun tribune,Thursday/Saturday,12300,1.61,335.0,1160.0,10.0,175.0,10.0,2013
+1652,stouffville sun tribune,Thursday,13083,1.75,1160.0,1160.0,10.0,161.0,10,2014
+1653,stouffville sun tribune,Thursday,13537,1.75,1160.0,1160.0,10.0,161.0,10.0,2015
+1654,stouffville sun tribune,Thursday,13555,1.75,,1160.0,10.0,161.0,10.0,2016
+1655,stouffville sun tribune,Thursday,14097,1.75,,1160.0,10.0,161.0,10.0,2017
+1656,stouffville sun tribune,Thursday,14097,1.75,,1160.0,10.0,161.0,10.0,2018
+1657,stouffville sun tribune,Thursday,14074,1.75,,1160.0,10.0,161.0,10.0,2019
+1658,stratford gazette,Thursday,19549,1.53,335.0,1160.0,10.0,175.0,10.0,2013
+1659,stratford gazette,Thursday,19584,1.66,1160.0,1160.0,10.0,161.0,10,2014
+1660,stratford gazette,Thursday,16583,1.66,1160.0,1160.0,10.0,161.0,10.0,2015
+1661,stratford gazette,Thursday,19977,1.66,,1160.0,10.0,161.0,10.0,2016
+1662,stratford gazette,Thursday,19855,1.66,,1160.0,10.0,161.0,10.0,2017
+1663,strathroy age dispatch,Thursday,2263,1.08,128.0,469.0,9.0,160.0,3.0,2013
+1664,strathroy age dispatch,Thursday,2066,1.08,128.0,469.0,9.0,160.0,3,2014
+1665,strathroy age dispatch,Thursday,1480,1.08,118.0,352.0,9.0,160.0,3.0,2015
+1666,strathroy age dispatch,Thursday,843,0.99,,352.0,9.0,160.0,3.0,2016
+1667,strathroy age dispatch,Thursday,843,0.99,,352.0,9.0,160.0,3.0,2017
+1668,strathroy age dispatch,Thursday,843,0.99,,352.0,10.0,160.0,10.0,2018
+1669,strathroy middlesex age dispatch,Thursday,15150,0.99,,352.0,10.0,160.0,10.0,2019
+1670,sturgeon falls west nipissing tribune,Wednesday,2275,0.91,247.0,553.0,6.0,196.0,5.0,2013
+1671,sturgeon falls west nipissing tribune,Wednesday,1959,0.91,247.0,553.0,6.0,196.0,5,2014
+1672,sturgeon falls west nipissing tribune,Wednesday,1931,0.91,247.0,553.0,6.0,196.0,5.0,2015
+1673,sturgeon falls west nipissing tribune,Wednesday,1912,0.91,,553.0,6.0,196.0,5.0,2016
+1674,sturgeon falls west nipissing tribune,Wednesday,1764,0.91,,412.0,6.0,196.0,5.0,2017
+1675,sturgeon falls west nipissing tribune,Wednesday,1692,1.02,,412.0,6.0,196.0,5.0,2018
+1676,sturgeon falls west nipissing tribune,Wednesday,1639,1.02,,412.0,6.0,196.0,5.0,2019
+1677,sudbury northern life,Thursday,47620,2.47,361.0,722.0,9.0,196.0,3.0,2013
+1678,sudbury northern life,Tuesday,38599,2.47,361.0,722.0,9.0,196.0,3.0,2013
+1679,sudbury northern life,Thursday,47465,2.47,361.0,722.0,9.0,196.0,3,2014
+1680,sudbury northern life,Tuesday,38479,2.47,361.0,722.0,9.0,196.0,3,2014
+1681,sudbury northern life,Thursday,47136,2.47,361.0,722.0,9.0,196.0,3.0,2015
+1682,sudbury northern life,Tuesday,38255,2.47,361.0,722.0,9.0,196.0,3.0,2015
+1683,sudbury northern life,Thursday,46426,2.47,,722.0,9.0,196.0,3.0,2016
+1684,sudbury northern life,Tuesday,37600,2.47,,722.0,9.0,196.0,3.0,2016
+1685,sudbury northern life,Thursday,45133,2.79,,722.0,8.0,196.0,6.0,2017
+1686,sudbury northern life,Thursday,44194,2.79,,722.0,8.0,196.0,6.0,2018
+1687,sudbury northern life,Thursday,44106,2.79,,722.0,8.0,196.0,6.0,2019
+1688,tavistock gazette,Wednesday,1261,0.66,147.0,147.0,6.0,192.0,5.0,2013
+1689,tavistock gazette,Wednesday,1244,0.68,147.0,147.0,6.0,192.0,5,2014
+1690,tavistock gazette,Wednesday,1241,0.71,147.0,147.0,6.0,192.0,5.0,2015
+1691,tavistock gazette,Wednesday,1239,0.72,,147.0,6.0,192.0,5.0,2016
+1692,tavistock gazette,Wednesday,1208,0.73,,147.0,6.0,192.0,5.0,2017
+1693,tavistock gazette,Wednesday,1170,0.74,,147.0,6.0,192.0,5.0,2018
+1694,tavistock gazette,Wednesday,1168,0.75,,147.0,6.0,192.0,5.0,2019
+1695,tecumseh shoreline week,Friday,17000,1.34,129.0,388.0,6.0,204.0,5.0,2013
+1696,tecumseh shoreline week,Friday,17312,1.34,129.0,388.0,6.0,204.0,5,2014
+1697,tecumseh shoreline week,Friday,17312,1.41,136.0,408.0,6.0,204.0,5.0,2015
+1698,tecumseh shoreline week,Friday,17312,1.41,,408.0,6.0,204.0,5.0,2016
+1699,tecumseh shoreline week,Friday,17312,1.48,,428.0,6.0,204.0,5.0,2017
+1700,tecumseh shoreline week,Friday,17362,1.62,,428.0,6.0,204.0,5.0,2018
+1701,tecumseh shoreline week,Friday,17362,1.62,,428.0,6.0,287.0,5.0,2019
+1702,terrace bay schreiber news,Tuesday,352,1.13,212.0,412.0,5.0,224.0,4.0,2013
+1703,terrace bay schreiber news,Tuesday,352,1.15,212.0,412.0,5.0,224.0,4,2014
+1704,terrace bay schreiber news,Tuesday,324,1.15,212.0,412.0,5.0,224.0,4.0,2015
+1705,terrace bay schreiber news,Tuesday,325,1.15,,412.0,5.0,224.0,4.0,2016
+1706,terrace bay schreiber news,Tuesday,325,1.15,,412.0,5.0,224.0,4.0,2017
+1707,terrace bay schreiber news,Tuesday,291,1.15,,412.0,5.0,224.0,4.0,2018
+1708,terrace bay schreiber news,Tuesday,291,1.15,,412.0,5.0,224.0,4.0,2019
+1709,thamesville herald,Wednesday,755,0.49,88.0,176.0,6.0,224.0,5.0,2013
+1710,thamesville herald,Wednesday,742,0.49,88.0,176.0,6.0,224.0,5,2014
+1711,thamesville herald,Wednesday,685,0.49,88.0,176.0,6.0,224.0,5.0,2015
+1712,thamesville herald,Wednesday,627,0.51,,88.0,6.0,224.0,5.0,2016
+1713,thamesville herald,Wednesday,594,0.41,,,9.0,192.0,3.0,2017
+1714,thamesville herald,Wednesday,814,0.41,,353.0,9.0,192.0,3.0,2018
+1715,thamesville herald,Wednesday,814,0.41,,353.0,9.0,192.0,3.0,2019
+1716,thessalon north shore sentinel,Wednesday,2089,0.71,118.0,353.0,6.0,205.0,5.0,2013
+1717,thessalon north shore sentinel,Wednesday,2104,0.71,118.0,118.0,6.0,205.0,5,2014
+1718,thessalon north shore sentinel,Wednesday,1901,0.71,118.0,118.0,6.0,161.0,5.0,2015
+1719,thessalon north shore sentinel,Wednesday,1824,0.71,,118.0,6.0,161.0,5.0,2016
+1720,thessalon north shore sentinel,Wednesday,1896,0.71,,118.0,6.0,161.0,5.0,2017
+1721,thessalon north shore sentinel,Wednesday,1613,0.71,,118.0,6.0,161.0,5.0,2018
+1722,thessalon north shore sentinel,Wednesday,1613,0.71,,118.0,6.0,161.0,5.0,2019
+1723,thorold niagara news,Wednesday,7276,0.53,88.0,206.0,9.0,160.0,3.0,2013
+1724,thorold niagara news,Thursday,7275,0.53,88.0,206.0,9.0,160.0,3,2014
+1725,thorold niagara news,Thursday,7275,0.53,88.0,206.0,9.0,160.0,3.0,2015
+1726,thorold niagara news,Thursday,7129,0.53,,206.0,9.0,160.0,3.0,2016
+1727,thorold niagara news,Thursday,7131,0.53,,206.0,9.0,160.0,3.0,2017
+1728,thunder bay source,Friday,43740,1.75,184.0,404.0,9.0,157.0,3.0,2013
+1729,thunder bay source,Thursday,43740,1.75,184.0,404.0,9.0,157.0,3,2014
+1730,thunder bay source,Thursday,43740,1.75,184.0,404.0,9.0,157.0,3.0,2015
+1731,thunder bay source,Thursday,43739,1.75,,404.0,9.0,157.0,3.0,2016
+1732,thunder bay source,Thursday,43740,1.75,,404.0,9.0,157.0,3.0,2017
+1733,thunder bay source,Thursday,43717,1.75,,404.0,9.0,157.0,3.0,2018
+1734,thunder bay source,Thursday,43170,1.75,,404.0,9.0,157.0,3.0,2019
+1735,tilbury times,Tuesday,1101,0.85,129.0,388.0,6.0,204.0,5.0,2013
+1736,tilbury times,Tuesday,1123,0.85,129.0,388.0,6.0,204.0,5,2014
+1737,tilbury times,Tuesday,993,0.89,136.0,408.0,6.0,204.0,5.0,2015
+1738,tilbury times,Tuesday,1113,0.89,,408.0,6.0,204.0,5.0,2016
+1739,tilbury times,Tuesday,913,0.94,,428.0,6.0,204.0,5.0,2017
+1740,tilbury times,Tuesday,910,1.04,,428.0,6.0,204.0,5.0,2018
+1741,tilbury times,Tuesday,1078,1.04,,428.0,6.0,287.0,5.0,2019
+1742,tilbury wheatley this week,Thursday,9277,0.74,59.0,141.0,9.0,160.0,3.0,2013
+1743,tilbury wheatley this week,Thursday,9277,0.74,59.0,141.0,9.0,160.0,3,2014
+1744,tillsonburg independent news,Wednesday,9844,1.15,186.0,556.0,10.0,301.0,3.0,2013
+1745,tillsonburg independent news,Wednesday,9744,1.15,186.0,556.0,10.0,287.0,3.0,2015
+1746,tillsonburg independent news,Wednesday,9594,1.15,,556.0,10.0,287.0,3.0,2016
+1747,tillsonburg independent news,Wednesday,9594,1.18,,556.0,10.0,287.0,10.0,2017
+1748,tillsonburg independent news,Wednesday,10355,1.19,,556.0,10.0,287.0,10.0,2018
+1749,tillsonburg independent news,Wednesday,10355,1.19,,556.0,10.0,287.0,10.0,2019
+1750,tillsonburg news,Friday,2000,1.05,186.0,556.0,10.0,287.0,3.0,2015
+1751,tillsonburg news,Friday,1559,1.05,,556.0,10.0,287.0,3.0,2016
+1752,tillsonburg news,Friday,1559,1.07,,556.0,10.0,287.0,10.0,2017
+1753,tillsonburg news,Friday,1173,1.08,,556.0,10.0,287.0,10.0,2018
+1754,tillsonburg news,Friday,1173,1.08,,556.0,10.0,287.0,10.0,2019
+1755,timmins times,Thursday,16478,1.42,128.0,386.0,9.0,160.0,3.0,2013
+1756,timmins times,Thursday,16325,1.42,128.0,386.0,9.0,160.0,3,2014
+1757,timmins times,Thursday,16325,1.42,128.0,386.0,9.0,160.0,3.0,2015
+1758,timmins times,Thursday,16325,1.42,,386.0,9.0,160.0,3.0,2016
+1759,timmins times,Thursday,17900,1.42,,386.0,9.0,160.0,3.0,2017
+1760,timmins times,Thursday,17900,1.42,,386.0,9.0,160.0,3.0,2018
+1761,timmins times,Thursday,17900,1.42,,386.0,10.0,160.0,10.0,2019
+1762,toronto aaj kaal,Friday,8000,1.18,118.0,471.0,5.0,220.0,-,2014
+1763,toronto aaj kaal,Friday,8000,1.18,235.0,235.0,5.0,220.0,,2015
+1764,toronto bloor west parkdale liberty villager,Thursday,57907,,250.0,,10.0,175.0,,2013
+1765,toronto bloor west parkdale neighbourhood voice,Thursday,39877,3.48,,1160.0,10.0,161.0,10.0,2019
+1766,toronto bloor west parkdale villager,Thursday,40630,3.48,,1160.0,10.0,161.0,10.0,2018
+1767,toronto bloor west villager,Thursday,33173,2.9,1160.0,1160.0,10.0,161.0,10,2014
+1768,toronto bloor west villager,Thursday,33602,2.9,1160.0,1160.0,10.0,161.0,10.0,2015
+1769,toronto bloor west villager,Thursday,34614,2.9,,1160.0,10.0,161.0,10.0,2016
+1770,toronto bloor west villager,Thursday,34154,2.9,,1160.0,10.0,161.0,10.0,2017
+1771,toronto can india news,Friday,35482,2.17,600.0,600.0,6.0,217.0,5,2014
+1772,toronto can india news,Friday,35482,2.24,600.0,600.0,6.0,217.0,5.0,2015
+1773,toronto can india news,Friday,36013,2.29,,659.0,6.0,217.0,5.0,2016
+1774,toronto caribbean,Wednesday,15000,0.65,118.0,118.0,4.0,182.0,8,2014
+1775,toronto caribbean,Wednesday,15000,0.65,118.0,118.0,4.0,182.0,8.0,2015
+1776,toronto city centre mirror,Thursday,45540,4.34,335.0,1160.0,10.0,175.0,10.0,2013
+1777,toronto city centre mirror,Thursday,46701,4.74,1160.0,1160.0,10.0,161.0,10,2014
+1778,toronto city centre mirror,Thursday,47154,4.74,1160.0,1160.0,10.0,161.0,10.0,2015
+1779,toronto city centre mirror,Thursday,48704,4.74,,1160.0,10.0,161.0,10.0,2016
+1780,toronto city centre mirror,Thursday,28400,4.74,,1160.0,10.0,161.0,10.0,2017
+1781,toronto city centre mirror,Thursday,26390,4.88,,1160.0,10.0,161.0,10.0,2018
+1782,toronto city centre york neighbourhood voice,Thursday,44726,4.88,,1160.0,10.0,161.0,10.0,2019
+1783,toronto community news,Thursday,480800,35.02,2680.0,9280.0,10.0,175.0,10.0,2013
+1784,toronto correio da manha,Tuesday,15242,2.64,147.0,529.0,6.0,180.0,-,2014
+1785,toronto correio da manha,Tuesday,15242,2.64,147.0,529.0,6.0,180.0,,2015
+1786,toronto correio da manha,Tuesday,15242,2.64,,529.0,6.0,180.0,,2016
+1787,toronto correio da manha,Tuesday/Friday,17800,2.64,,529.0,6.0,180.0,,2017
+1788,toronto correio da manha,Tuesday/Friday,17800,2.64,,529.0,6.0,180.0,,2017
+1789,toronto correio da manha,Tuesday/Friday,17800,2.64,,529.0,6.0,180.0,,2018
+1790,toronto correio da manha,Tuesday/Friday,17800,2.64,,529.0,6.0,180.0,,2018
+1791,toronto correio da manha,Tuesday/Friday,17800,2.64,,529.0,6.0,180.0,,2019
+1792,toronto correio da manha,Tuesday/Friday,17800,2.64,,529.0,6.0,180.0,,2019
+1793,toronto correo canadiense,Wednesday,20000,2.64,147.0,529.0,10.0,200.0,,2013
+1794,toronto correo canadiense,Thursday,20000,2.64,147.0,529.0,6.0,180.0,-,2014
+1795,toronto correo canadiense,Friday,20000,2.64,147.0,529.0,6.0,180.0,,2015
+1796,toronto correo canadiense,Friday,20000,2.64,,529.0,6.0,180.0,,2016
+1797,toronto correo canadiense,Thursday,20000,2.64,,529.0,6.0,180.0,,2017
+1798,toronto correo canadiense,Thursday,20000,2.64,,529.0,6.0,180.0,,2018
+1799,toronto correo canadiense,Thursday,20000,2.64,,529.0,6.0,180.0,,2019
+1800,toronto diversity reporter,Wednesday,21306,3.21,362.0,362.0,4.0,220.0,8,2014
+1801,toronto diversity reporter,Wednesday,21308,3.21,362.0,362.0,4.0,220.0,8.0,2015
+1802,toronto diversity reporter,Wednesday,21308,3.21,,362.0,4.0,220.0,8.0,2016
+1803,toronto diversity reporter,Wednesday,21308,3.21,,362.0,4.0,220.0,8.0,2017
+1804,toronto diversity reporter,Wednesday,21308,3.21,,362.0,4.0,220.0,8.0,2018
+1805,toronto diversity reporter,Wednesday,21308,3.21,,362.0,4.0,220.0,8.0,2019
+1806,toronto downtown bulletin,Monthly,75986,5.52,,,6.0,275.0,5.0,2013
+1807,toronto downtown bulletin,Monthly,72920,5.52,,,6.0,275.0,5,2014
+1808,toronto express l,Tuesday,20000,1.97,176.0,529.0,12.0,300.0,-,2014
+1809,toronto express l,Tuesday,20000,1.97,176.0,529.0,12.0,300.0,,2015
+1810,toronto express l,Tuesday,20000,1.97,,529.0,12.0,300.0,,2016
+1811,toronto express l,Tuesday,20000,1.97,,529.0,12.0,300.0,,2017
+1812,toronto forest hill town crier,Monthly,20700,3.53,176.0,588.0,6.0,192.0,9.0,2013
+1813,toronto ghanaian news,Monthly,9929,0.72,470.0,470.0,6.0,217.0,5,2014
+1814,toronto ghanaian news,Monthly,9929,0.72,470.0,470.0,6.0,217.0,5.0,2015
+1815,toronto ghanaian news,Monthly,12447,0.72,,470.0,6.0,217.0,5.0,2016
+1816,toronto kanadai amerikai magyarsag,Saturday,2054,1.05,100.0,100.0,8.0,290.0,5.0,2013
+1817,toronto kanadai amerikai magyarsag,Saturday,1883,1.05,100.0,100.0,8.0,290.0,5,2014
+1818,toronto kanadai amerikai magyarsag,Saturday,1835,1.05,100.0,100.0,8.0,290.0,5.0,2015
+1819,toronto kanadai amerikai magyarsag,Saturday,1965,1.05,,100.0,8.0,290.0,5.0,2016
+1820,toronto kanadai amerikai magyarsag,Saturday,1896,1.05,,100.0,8.0,290.0,5.0,2017
+1821,toronto kanadai amerikai magyarsag,Saturday,1771,1.05,,100.0,8.0,290.0,5.0,2018
+1822,toronto kanadai amerikai magyarsag,Saturday,1665,1.05,,100.0,8.0,290.0,5.0,2019
+1823,toronto leaside rosedale town crier,Monthly,19750,3.53,176.0,588.0,6.0,192.0,9.0,2013
+1824,toronto north toronto town crier,Monthly,20700,3.53,176.0,588.0,6.0,192.0,9.0,2013
+1825,toronto nove ilhas,Tuesday,15242,2.64,147.0,529.0,10.0,200.0,,2013
+1826,toronto now,Thursday,105440,6005.0,530.0,1615.0,5.0,158.0,,2013
+1827,toronto now,Thursday,105440,6245.0,530.0,1615.0,5.0,158.0,-,2014
+1828,toronto now,Thursday,105440,,,,5.0,158.0,,2015
+1829,toronto now,Thursday,105440,,,,5.0,158.0,,2016
+1830,toronto now,Thursday,96915,,,,5.0,158.0,,2017
+1831,toronto now,Thursday,93765,,,,5.0,158.0,,2018
+1832,toronto now,Thursday,85645,,,,5.0,158.0,,2019
+1833,toronto parkdale liberty villager,Thursday,24298,2.13,335.0,1160.0,10.0,175.0,10.0,2013
+1834,toronto parkdale liberty villager,Thursday,24335,2.32,1160.0,1160.0,10.0,161.0,10,2014
+1835,toronto parkdale liberty villager,Thursday,24366,2.32,1160.0,1160.0,10.0,161.0,10.0,2015
+1836,toronto parkdale liberty villager,Thursday,24997,2.32,,1160.0,10.0,161.0,10.0,2016
+1837,toronto parkdale liberty villager,Thursday,12901,2.32,,1160.0,10.0,161.0,10.0,2017
+1838,toronto russian express,Friday,9000,0.82,229.0,229.0,5.0,215.0,4,2014
+1839,toronto russian express,Friday,9000,0.82,229.0,229.0,5.0,215.0,4.0,2015
+1840,toronto russian express,Friday,9000,0.82,,229.0,5.0,215.0,4.0,2016
+1841,toronto russian express,Friday,9000,0.82,,229.0,5.0,215.0,4.0,2017
+1842,toronto russian express,Friday,9000,0.82,,229.0,5.0,215.0,4.0,2018
+1843,toronto russian express,Friday,9000,0.82,,229.0,5.0,215.0,4.0,2019
+1844,toronto salam toronto,Thursday,7700,1.37,141.0,0.0,4.0,203.0,8.0,2013
+1845,toronto salam toronto,Thursday,7400,1.37,141.0,,4.0,203.0,8,2014
+1846,toronto salam toronto,Thursday,7400,1.37,141.0,,4.0,203.0,8.0,2015
+1847,toronto salam toronto,Thursday,7400,1.37,,,4.0,203.0,8.0,2016
+1848,toronto salam toronto,Thursday,7400,1.39,,,4.0,203.0,8.0,2017
+1849,toronto salam toronto,Thursday,7400,1.42,,,4.0,203.0,8.0,2018
+1850,toronto salam toronto,Thursday,7400,1.47,,,4.0,203.0,8.0,2019
+1851,toronto sunday times,Thursday,30500,1.18,235.0,471.0,8.0,294.0,5.0,2013
+1852,toronto sunday times,Thursday,30500,1.18,235.0,471.0,8.0,294.0,5,2014
+1853,toronto sunday times,Thursday,30500,1.18,235.0,471.0,8.0,294.0,5.0,2015
+1854,toronto sunday times,Thursday,30500,1.18,,471.0,8.0,294.0,5.0,2016
+1855,toronto sunday times,Thursday,30500,1.18,,471.0,8.0,294.0,5.0,2017
+1856,toronto sunday times,Thursday,30500,1.18,,471.0,8.0,294.0,5.0,2018
+1857,toronto sunday times,Thursday,30500,1.18,,471.0,8.0,294.0,5.0,2019
+1858,toronto thangatheepam,Thursday,5930,0.99,118.0,118.0,4.0,224.0,8,2014
+1859,toronto thangatheepam,Thursday,5920,0.99,118.0,118.0,4.0,224.0,8.0,2015
+1860,toronto thoi bao,Thursday,12644,0.8,118.0,1200.0,5.0,220.0,4.0,2013
+1861,toronto thoi bao,Thursday,13190,0.8,118.0,1200.0,5.0,170.0,4,2014
+1862,toronto thoi bao,Thursday,13029,0.8,118.0,1200.0,4.0,170.0,,2015
+1863,toronto thoi bao,Thursday,12089,0.8,,1200.0,4.0,170.0,,2016
+1864,toronto thoi bao,Thursday,10872,0.8,,1200.0,4.0,170.0,,2017
+1865,toronto thoi bao,Thursday,9740,0.8,,1200.0,4.0,186.0,,2018
+1866,toronto thoi bao,Thursday,9886,0.8,,1200.0,4.0,186.0,,2019
+1867,toronto today,Monthly,54700,5.88,,,6.0,154.0,11.0,2013
+1868,toronto urdu khabarnama,Thursday,4960,0.94,220.0,660.0,8.0,294.0,7,2014
+1869,toronto urdu khabarnama,Thursday,6507,0.94,220.0,660.0,8.0,294.0,7.0,2015
+1870,toronto urdu khabarnama,Thursday,6507,0.94,,660.0,8.0,294.0,7.0,2016
+1871,toronto weekly punjabi awaaz,Wednesday,9698,2.24,489.0,489.0,5.0,292.0,4,2014
+1872,toronto weekly punjabi awaaz,Friday,9721,2.24,489.0,489.0,5.0,292.0,4.0,2015
+1873,toronto weekly punjabi awaaz,Friday,9698,2.24,,489.0,5.0,292.0,,2016
+1874,toronto weekly punjabi awaaz,Friday,9675,2.24,,489.0,5.0,292.0,,2017
+1875,toronto weekly punjabi awaaz,Friday,9900,2.46,,489.0,5.0,292.0,,2018
+1876,toronto weekly punjabi awaaz,Friday,9900,2.95,,587.0,5.0,292.0,,2019
+1877,toronto weekly voice,Friday,29985,2.65,,489.0,5.0,292.0,,2016
+1878,toronto weekly voice,Friday,29997,2.65,,489.0,5.0,292.0,,2017
+1879,toronto weekly voice,Friday,29300,2.92,,489.0,5.0,292.0,,2018
+1880,toronto weekly voice,Friday,29300,3.51,,587.0,5.0,292.0,,2019
+1881,toronto zwiazkowiec,Thursday,1449,1.21,188.0,188.0,4.0,155.0,-,2014
+1882,toronto zwiazkowiec,Tuesday,1257,1.21,188.0,188.0,4.0,155.0,,2015
+1883,toronto zwiazkowiec,Tuesday,1360,1.21,,188.0,4.0,155.0,,2016
+1884,toronto zwiazkowiec,Tuesday,1346,1.21,,188.0,4.0,155.0,,2017
+1885,toronto zwiazkowiec,Tuesday,1346,1.21,,188.0,4.0,155.0,,2018
+1886,toronto zwiazkowiec,Tuesday,1346,1.21,,188.0,4.0,155.0,,2019
+1887,trenton trentonian,Thursday,13399,0.85,118.0,294.0,9.0,160.0,3.0,2013
+1888,trenton trentonian,Thursday,13368,0.58,176.0,176.0,9.0,160.0,3,2014
+1889,trenton trentonian,Thursday,14119,0.58,176.0,176.0,9.0,160.0,3.0,2015
+1890,trenton trentonian,Thursday,14638,0.58,,176.0,9.0,160.0,3.0,2016
+1891,trenton trentonian,Thursday,14992,0.58,,176.0,9.0,160.0,3.0,2017
+1892,trenton trentonian,Thursday,15160,0.58,,176.0,10.0,160.0,10.0,2018
+1893,trenton trentonian,Thursday,15160,0.58,,176.0,10.0,160.0,10.0,2019
+1894,tweed news,Wednesday,957,1.01,153.0,588.0,6.0,294.0,1.0,2013
+1895,tweed news,Wednesday,913,1.04,153.0,588.0,6.0,294.0,1,2014
+1896,tweed news,Wednesday,882,1.04,153.0,588.0,6.0,294.0,2.0,2015
+1897,tweed news,Wednesday,838,1.05,,588.0,6.0,294.0,2.0,2016
+1898,tweed news,Wednesday,838,1.06,,588.0,6.0,294.0,2.0,2017
+1899,tweed news,Wednesday,821,1.06,,588.0,6.0,294.0,2.0,2018
+1900,tweed news,Wednesday,801,1.06,,588.0,6.0,294.0,2.0,2019
+1901,uxbridge cosmos,Thursday,9200,0.94,176.0,176.0,5.0,189.0,4,2014
+1902,uxbridge cosmos,Thursday,8850,0.94,176.0,176.0,5.0,189.0,4.0,2015
+1903,uxbridge cosmos,Thursday,8850,0.94,,176.0,5.0,189.0,4.0,2016
+1904,uxbridge cosmos,Thursday,8850,0.94,,176.0,5.0,189.0,4.0,2017
+1905,uxbridge cosmos,Thursday,8850,0.94,,176.0,5.0,189.0,4.0,2018
+1906,uxbridge cosmos,Thursday,8850,0.94,,176.0,5.0,189.0,4.0,2019
+1907,uxbridge times journal,Thursday,10086,1.56,335.0,1160.0,10.0,175.0,10.0,2013
+1908,uxbridge times journal,Thursday,9027,1.7,1160.0,1160.0,10.0,161.0,10,2014
+1909,uxbridge times journal,Thursday,9024,1.7,1160.0,1160.0,10.0,161.0,10.0,2015
+1910,uxbridge times journal,Thursday,8999,1.7,,1160.0,10.0,161.0,10.0,2016
+1911,uxbridge times journal,Thursday,8958,1.7,,1160.0,10.0,161.0,10.0,2017
+1912,uxbridge times journal,Thursday,8855,1.7,,1160.0,10.0,161.0,10.0,2018
+1913,uxbridge times journal,Thursday,8745,1.7,,1160.0,10.0,161.0,10.0,2019
+1914,vankleek hill review,Wednesday,3522,0.87,227.0,552.0,8.0,300.0,11.0,2013
+1915,vankleek hill review,Wednesday,3558,0.89,234.0,568.0,8.0,300.0,11,2014
+1916,vankleek hill review,Wednesday,4620,0.89,234.0,568.0,8.0,300.0,11.0,2015
+1917,vankleek hill review,Wednesday,3588,0.91,,580.0,8.0,300.0,11.0,2016
+1918,vankleek hill review,Wednesday,3399,0.91,,580.0,8.0,300.0,11.0,2017
+1919,vankleek hill review,Wednesday,3356,0.91,,580.0,8.0,300.0,11.0,2018
+1920,vankleek hill review,Wednesday,3050,0.91,,580.0,8.0,300.0,11.0,2019
+1921,vaughan citizen,Thursday,50813,3.13,335.0,1160.0,10.0,175.0,10.0,2013
+1922,vaughan citizen,Wednesday,49642,3.13,335.0,1160.0,10.0,175.0,10.0,2013
+1923,vaughan citizen,Thursday,51864,3.41,1160.0,1160.0,10.0,161.0,10,2014
+1924,vaughan citizen,Thursday,56533,3.41,1160.0,1160.0,10.0,161.0,10.0,2015
+1925,vaughan citizen,Thursday,56971,3.41,,1160.0,10.0,161.0,10.0,2016
+1926,vaughan citizen,Thursday,57814,3.41,,1160.0,10.0,161.0,10.0,2017
+1927,vaughan citizen,Thursday,57814,3.41,,1160.0,10.0,161.0,10.0,2018
+1928,vaughan citizen,Thursday,58413,3.41,,1160.0,10.0,161.0,10.0,2019
+1929,vaughan today,Monthly,30000,3.53,,,6.0,154.0,11.0,2013
+1930,vaughan weekly,Wednesday,12450,1.04,88.0,176.0,6.0,210.0,5,2014
+1931,walkerton herald times,Wednesday,1795,0.86,335.0,1160.0,10.0,175.0,10.0,2013
+1932,walkerton herald times,Thursday,1685,0.93,1160.0,1160.0,10.0,161.0,10,2014
+1933,walkerton herald times,Thursday,1542,0.93,1160.0,1160.0,10.0,161.0,10.0,2015
+1934,walkerton herald times,Thursday,1417,0.93,,1160.0,10.0,161.0,10.0,2016
+1935,walkerton herald times,Thursday,1417,0.93,,1160.0,10.0,161.0,10.0,2017
+1936,walkerton herald times,Thursday,1215,0.93,,1160.0,10.0,161.0,10.0,2018
+1937,walkerton herald times,Thursday,1081,0.93,,1160.0,10.0,161.0,10.0,2019
+1938,wallaceburg courier press,Thursday,8942,0.84,94.0,282.0,9.0,160.0,3.0,2013
+1939,wallaceburg courier press,Thursday,8939,0.84,94.0,282.0,9.0,160.0,3,2014
+1940,wallaceburg courier press,Thursday,8940,0.84,94.0,282.0,9.0,160.0,3.0,2015
+1941,wallaceburg courier press,Thursday,8871,0.84,,282.0,9.0,160.0,3.0,2016
+1942,wallaceburg courier press,Thursday,8914,0.84,,282.0,9.0,160.0,3.0,2017
+1943,wallaceburg courier press,Thursday,8914,0.84,,118.0,9.0,160.0,3.0,2018
+1944,wallaceburg courier press,Thursday,8914,0.75,,118.0,10.0,160.0,10.0,2019
+1945,wasaga stayner sun,Wednesday,9085,2.16,335.0,1160.0,10.0,175.0,10.0,2013
+1946,wasaga stayner sun,Thursday,12345,2.35,1160.0,1160.0,10.0,161.0,10,2014
+1947,wasaga stayner sun,Thursday,12256,2.35,1160.0,1160.0,10.0,161.0,10.0,2015
+1948,wasaga stayner sun,Thursday,12507,2.35,,1160.0,10.0,161.0,10.0,2016
+1949,wasaga stayner sun,Thursday,12507,2.35,,1160.0,10.0,161.0,10.0,2017
+1950,wasaga stayner sun,Thursday,13051,2.35,,1160.0,10.0,161.0,10.0,2018
+1951,wasaga stayner sun,Thursday,13239,2.35,,1160.0,10.0,161.0,10.0,2019
+1952,waterdown flamborough review,Thursday,13757,1.22,335.0,1160.0,10.0,175.0,10.0,2013
+1953,waterdown flamborough review,Thursday,13769,1.33,1160.0,1160.0,10.0,161.0,10,2014
+1954,waterdown flamborough review,Thursday,13856,1.33,1160.0,1160.0,10.0,161.0,10.0,2015
+1955,waterdown flamborough review,Thursday,13819,1.33,,1160.0,10.0,161.0,10.0,2016
+1956,waterdown flamborough review,Thursday,13791,1.33,,1160.0,10.0,161.0,10.0,2017
+1957,waterdown flamborough review,Thursday,14213,1.33,,1160.0,10.0,161.0,10.0,2018
+1958,waterdown flamborough review,Thursday,14187,1.33,,1160.0,10.0,161.0,10.0,2019
+1959,waterloo chronicle,Wednesday,30544,1.53,335.0,1160.0,10.0,175.0,10.0,2013
+1960,waterloo chronicle,Wednesday,30565,1.66,1160.0,1160.0,10.0,161.0,10,2014
+1961,waterloo chronicle,Wednesday,30819,1.67,1160.0,1160.0,10.0,161.0,10.0,2015
+1962,waterloo chronicle,Thursday,30278,1.67,,1160.0,10.0,161.0,10.0,2016
+1963,waterloo chronicle,Thursday,29538,1.67,,1160.0,10.0,161.0,10.0,2017
+1964,waterloo chronicle,Thursday,30611,1.67,,1160.0,10.0,161.0,10.0,2018
+1965,waterloo chronicle,Thursday,30611,1.67,,1160.0,10.0,161.0,10.0,2019
+1966,watford guide advocate,Thursday,893,0.89,76.0,271.0,6.0,210.0,5.0,2013
+1967,watford guide advocate,Thursday,938,0.89,76.0,271.0,6.0,210.0,5,2014
+1968,watford guide advocate,Thursday,892,0.91,100.0,271.0,6.0,210.0,5.0,2015
+1969,wawa algoma news review,Wednesday,889,0.6,224.0,671.0,5.0,207.0,4.0,2013
+1970,wawa algoma news review,Wednesday,824,0.6,224.0,671.0,5.0,207.0,4,2014
+1971,wawa algoma news review,Wednesday,647,0.6,224.0,671.0,5.0,227.0,4.0,2015
+1972,wawa algoma news review,Wednesday,805,0.6,,671.0,5.0,227.0,4.0,2016
+1973,wawa algoma news review,Wednesday,804,0.6,,671.0,5.0,227.0,4.0,2017
+1974,wawa algoma news review,Wednesday,532,0.6,,671.0,5.0,227.0,4.0,2018
+1975,wawa algoma news review,Wednesday,532,0.6,,671.0,5.0,227.0,4.0,2019
+1976,wellington times,Wednesday,5000,0.48,,112.0,6.0,176.0,5.0,2017
+1977,west carleton review,Thursday,6736,0.91,335.0,1160.0,6.0,218.0,5.0,2013
+1978,west carleton review,Thursday,6916,0.64,1160.0,1160.0,10.0,189.0,10,2014
+1979,west carleton review,Thursday,7099,0.75,1160.0,1160.0,10.0,161.0,10.0,2015
+1980,west carleton review,Thursday,7000,0.75,,1160.0,10.0,161.0,10.0,2016
+1981,west carleton review,Thursday,6956,0.75,,1160.0,10.0,161.0,10.0,2017
+1982,west lorne west elgin chronicle,Thursday,5782,0.98,147.0,471.0,9.0,160.0,3.0,2013
+1983,west lorne west elgin chronicle,Thursday,5695,0.98,147.0,471.0,9.0,160.0,3,2014
+1984,west lorne west elgin chronicle,Thursday,5563,0.91,147.0,471.0,9.0,160.0,3.0,2015
+1985,west lorne west elgin chronicle,Thursday,5647,0.91,,352.0,9.0,160.0,3.0,2016
+1986,west lorne west elgin chronicle,Thursday,5647,0.91,,352.0,9.0,160.0,3.0,2017
+1987,west lorne west elgin chronicle,Thursday,5647,0.91,,352.0,10.0,160.0,10.0,2018
+1988,west lorne west elgin chronicle,Thursday,5647,0.91,,352.0,10.0,160.0,10.0,2019
+1989,westport review mirror,Thursday,1724,0.74,176.0,324.0,6.0,210.0,5.0,2013
+1990,westport review mirror,Thursday,1719,0.77,118.0,176.0,6.0,210.0,5,2014
+1991,westport review mirror,Thursday,1708,0.77,118.0,176.0,6.0,210.0,5.0,2015
+1992,westport review mirror,Thursday,1751,0.8,,176.0,6.0,210.0,5.0,2016
+1993,westport review mirror,Thursday,1701,0.8,,176.0,6.0,210.0,5.0,2017
+1994,westport review mirror,Thursday,1710,0.8,,176.0,6.0,210.0,5.0,2018
+1995,westport review mirror,Thursday,1611,0.8,,176.0,6.0,210.0,5.0,2019
+1996,wheatley journal,Wednesday,774,0.59,147.0,441.0,6.0,204.0,5.0,2013
+1997,wheatley journal,Wednesday,727,0.59,147.0,441.0,6.0,204.0,5,2014
+1998,wheatley journal,Wednesday,696,0.59,147.0,441.0,6.0,204.0,5.0,2015
+1999,wheatley journal,Wednesday,645,0.59,,441.0,6.0,204.0,5.0,2016
+2000,wheatley journal,Wednesday,632,0.59,,441.0,6.0,204.0,5.0,2017
+2001,wheatley journal,Wednesday,597,0.59,,441.0,6.0,204.0,5.0,2018
+2002,wiarton echo,Tuesday,1895,0.66,116.0,514.0,9.0,160.0,3.0,2013
+2003,wiarton echo,Tuesday,1776,0.66,116.0,514.0,9.0,160.0,3,2014
+2004,wiarton echo,Tuesday,1801,0.68,121.0,539.0,9.0,160.0,3.0,2015
+2005,wiarton echo,Tuesday,1754,0.68,,539.0,9.0,160.0,3.0,2016
+2006,wiarton echo,Tuesday,1538,0.86,,59.0,9.0,160.0,3.0,2017
+2007,wiarton echo,Tuesday,1356,0.86,,59.0,9.0,160.0,3.0,2018
+2008,wiarton echo,Tuesday,1143,0.78,,59.0,10.0,160.0,10.0,2019
+2009,winchester press,Wednesday,3376,0.97,206.0,412.0,6.0,220.0,5.0,2013
+2010,winchester press,Wednesday,3370,0.99,206.0,412.0,6.0,220.0,5,2014
+2011,winchester press,Wednesday,3164,0.99,206.0,412.0,6.0,220.0,5.0,2015
+2012,winchester press,Wednesday,3116,1.01,,412.0,6.0,220.0,5.0,2016
+2013,winchester press,Wednesday,3116,1.01,,412.0,6.0,220.0,5.0,2017
+2014,winchester press,Wednesday,2813,1.01,,412.0,6.0,220.0,5.0,2018
+2015,winchester press,Wednesday,2727,1.01,,412.0,6.0,220.0,5.0,2019
+2016,wingham advance times,Wednesday,1451,0.86,335.0,1160.0,10.0,175.0,10.0,2013
+2017,wingham advance times,Wednesday,1320,0.93,1160.0,1160.0,10.0,161.0,10,2014
+2018,wingham advance times,Wednesday,1254,0.93,1160.0,1160.0,10.0,161.0,10.0,2015
+2019,wingham advance times,Wednesday,1072,0.93,,1160.0,10.0,161.0,10.0,2016
+2020,wingham advance times,Wednesday,1072,0.93,,1160.0,10.0,161.0,10.0,2017
+2021,wingham advance times,Wednesday,735,0.93,,1160.0,10.0,161.0,10.0,2018
+2022,wingham advance times,Wednesday,735,0.93,,1160.0,10.0,161.0,10.0,2019
+2023,york guardian,Thursday,27720,2.13,335.0,1160.0,10.0,175.0,10.0,2013
+2024,york guardian,Thursday,28588,2.32,1160.0,1160.0,10.0,161.0,10,2014
+2025,york guardian,Thursday,28709,2.32,1160.0,1160.0,10.0,161.0,10.0,2015
+2026,york guardian,Thursday,29585,2.32,,1160.0,10.0,161.0,10.0,2016
+2027,york guardian,Thursday,29078,2.32,,1160.0,10.0,161.0,10.0,2017
+2028,york guardian,Thursday,26666,2.39,,1160.0,10.0,161.0,10.0,2018

@@ -1,0 +1,298 @@
+Address,Longitude,Latitude,CSDUID,CSDNAME,CSDTYPE,PRUID,PRNAME,CDUID,CDNAME,CDTYPE,CCSUID,CCSNAME,ERUID,ERNAME,SACCODE,SACTYPE,CMAUID,CMAPUID,CMANAME,CMATYPE
+"london ,ON, Canada",-81.243372,42.9832406,3539036,London,CY,35,Ontario,3539,Middlesex,CTY,3539036,London,3560,London,555,1,555,35555,London,B
+"sarnia ,ON, Canada",-82.4065585,42.9746137,3538030,Sarnia,CY,35,Ontario,3538,Lambton,CTY,3538030,Sarnia,3570,Windsor--Sarnia,562,2,562,35562,Sarnia,K
+"woodstock ,ON, Canada",-80.7562977,43.1301111,3532042,Woodstock,CY,35,Ontario,3532,Oxford,CTY,3532045,Blandford-Blenheim,3560,London,544,3,544,35544,Woodstock,D
+"flesherton ,ON, Canada",-80.5457496,44.2610602,3542015,Grey Highlands,MU,35,Ontario,3542,Grey,CTY,3542015,Grey Highlands,3580,Stratford--Bruce Peninsula,997,5,,,,
+"woodbridge ,ON, Canada",-79.5923855,43.7848982,3519028,Vaughan,CY,35,Ontario,3519,York,RM,3519028,Vaughan,3530,Toronto,535,1,535,35535,Toronto,B
+"mitchell ,ON, Canada",-81.197899,43.467942,3531025,West Perth,MU,35,Ontario,3531,Perth,CTY,3531025,West Perth,3580,Stratford--Bruce Peninsula,997,5,,,,
+"strathroy ,ON, Canada",-81.59100834,42.966146,3539015,Strathroy-Caradoc,MU,35,Ontario,3539,Middlesex,CTY,3539015,Strathroy-Caradoc,3560,London,555,1,555,35555,London,B
+"middlesex ,ON, Canada",-80.9305313,42.9791385,3539027,Thames Centre,MU,35,Ontario,3539,Middlesex,CTY,3539027,Thames Centre,3560,London,555,1,555,35555,London,B
+"alliston ,ON, Canada",-79.8692321,44.1539369,3543007,New Tecumseth,T,35,Ontario,3543,Simcoe,CTY,3543007,New Tecumseth,3540,Kitchener--Waterloo--Barrie,535,1,535,35535,Toronto,B
+"burks falls ,ON, Canada",-79.4118686,45.619853,3549022,Burk's Falls,VL,35,Ontario,3549,Parry Sound,DIS,3549019,Armour,3590,Northeast / Nord-est,997,5,,,,
+"amherstburg ,ON, Canada",-83.1086458,42.1013315,3537028,Amherstburg,T,35,Ontario,3537,Essex,CTY,3537028,Amherstburg,3570,Windsor--Sarnia,559,1,559,35559,Windsor,B
+"ancaster ,ON, Canada",-79.976692,43.225693,3525005,Hamilton,C,35,Ontario,3525,Hamilton,CDR,3525005,Hamilton,3550,Hamilton--Niagara Peninsula,537,1,537,35537,Hamilton,B
+"toronto ,ON, Canada",-79.3839347,43.6534817,3520005,Toronto,C,35,Ontario,3520,Toronto,CDR,3520005,Toronto,3530,Toronto,535,1,535,35535,Toronto,B
+"arnprior ,ON, Canada",-76.3543692,45.433515,3547002,Arnprior,T,35,Ontario,3547,Renfrew,CTY,3547003,McNab/Braeside,3515,Kingston--Pembroke,507,3,507,35507,Arnprior,D
+"arthur ,ON, Canada",-80.5355526,43.8309446,3523050,Wellington North,TP,35,Ontario,3523,Wellington,CTY,3523050,Wellington North,3540,Kitchener--Waterloo--Barrie,997,5,,,,
+"atikokan ,ON, Canada",-91.624603,48.762526,3559001,Atikokan,T,35,Ontario,3559,Rainy River,DIS,3559090,"Rainy River, Unorganized",3595,Northwest / Nord-ouest,998,6,,,,
+"aurora ,ON, Canada",-79.467545,43.99973,3519046,Aurora,T,35,Ontario,3519,York,RM,3519048,Newmarket,3530,Toronto,535,1,535,35535,Toronto,B
+"aylmer ,ON, Canada",-80.983658,42.773227,3534011,Aylmer,T,35,Ontario,3534,Elgin,CTY,3534010,Malahide,3560,London,996,4,,,,
+"ayr ,ON, Canada",-80.4507012,43.2855122,3530004,North Dumfries,TP,35,Ontario,3530,Waterloo,RM,3530004,North Dumfries,3540,Kitchener--Waterloo--Barrie,541,1,541,35541,Kitchener - Cambridge - Waterloo,B
+"bancroft ,ON, Canada",-77.8537127,45.0570769,3512061,Bancroft,T,35,Ontario,3512,Hastings,CTY,3512061,Bancroft,3515,Kingston--Pembroke,997,5,,,,
+"barrhaven ,ON, Canada",-75.759707,45.280172,3506008,Ottawa,CV,35,Ontario,3506,Ottawa,CDR,3506008,Ottawa,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"barrie ,ON, Canada",-79.6901736,44.3893113,3543042,Barrie,CY,35,Ontario,3543,Simcoe,CTY,3543009,Springwater,3540,Kitchener--Waterloo--Barrie,568,1,568,35568,Barrie,B
+"barry's bay ,ON, Canada",-77.679176,45.488298,3547030,Madawaska Valley,TP,35,Ontario,3547,Renfrew,CTY,3547030,Madawaska Valley,3515,Kingston--Pembroke,997,5,,,,
+"east york ,ON, Canada",-79.33251996,43.699971,3520005,Toronto,C,35,Ontario,3520,Toronto,CDR,3520005,Toronto,3530,Toronto,535,1,535,35535,Toronto,B
+"parry sound ,ON, Canada",-80.1055284,45.6675279,3549039,Whitestone,MU,35,Ontario,3549,Parry Sound,DIS,3549039,Whitestone,3590,Northeast / Nord-est,997,5,,,,
+"oakville ,ON, Canada",-79.666672,43.447436,3524001,Oakville,T,35,Ontario,3524,Halton,RM,3524001,Oakville,3530,Toronto,535,1,535,35535,Toronto,B
+"belleville ,ON, Canada",-77.3852556,44.1633264,3512005,Belleville,CY,35,Ontario,3512,Hastings,CTY,3512005,Belleville,3515,Kingston--Pembroke,522,1,522,35522,Belleville,B
+"quinte ,ON, Canada",-77.3403039,44.1884744,3512005,Belleville,CY,35,Ontario,3512,Hastings,CTY,3512005,Belleville,3515,Kingston--Pembroke,522,1,522,35522,Belleville,B
+"mount forest ,ON, Canada",-80.7338237,43.9806979,3523050,Wellington North,TP,35,Ontario,3523,Wellington,CTY,3523050,Wellington North,3540,Kitchener--Waterloo--Barrie,997,5,,,,
+"blenheim ,ON, Canada",-81.9974055,42.3354182,3536020,Chatham-Kent,MU,35,Ontario,3536,Chatham-Kent,CDR,3536020,Chatham-Kent,3570,Windsor--Sarnia,556,3,556,35556,Chatham-Kent,D
+"blue mountains ,ON, Canada",-80.3417924,44.4992906,3542045,The Blue Mountains,T,35,Ontario,3542,Grey,CTY,3542045,The Blue Mountains,3580,Stratford--Bruce Peninsula,996,4,,,,
+"blyth ,ON, Canada",-81.4294024,43.7365991,3540055,North Huron,TP,35,Ontario,3540,Huron,CTY,3540055,North Huron,3580,Stratford--Bruce Peninsula,998,6,,,,
+"brussels ,ON, Canada",-81.2506263,43.7433558,3540040,Huron East,MU,35,Ontario,3540,Huron,CTY,3540040,Huron East,3580,Stratford--Bruce Peninsula,997,5,,,,
+"bracebridge ,ON, Canada",-79.310989,45.041508,3544018,Bracebridge,T,35,Ontario,3544,Muskoka,DM,3544018,Bracebridge,3520,Muskoka--Kawarthas,997,5,,,,
+"bradford ,ON, Canada",-79.5560133,44.1171265,3543014,Bradford West Gwillimbury,T,35,Ontario,3543,Simcoe,CTY,3543014,Bradford West Gwillimbury,3540,Kitchener--Waterloo--Barrie,535,1,535,35535,Toronto,B
+"bradford west gwillimbury ,ON, Canada",-79.5647069,44.1143279,3543014,Bradford West Gwillimbury,T,35,Ontario,3543,Simcoe,CTY,3543014,Bradford West Gwillimbury,3540,Kitchener--Waterloo--Barrie,535,1,535,35535,Toronto,B
+"brampton ,ON, Canada",-79.7599366,43.685832,3521010,Brampton,CY,35,Ontario,3521,Peel,RM,3521010,Brampton,3530,Toronto,535,1,535,35535,Toronto,B
+"brantford ,ON, Canada",-80.2631733,43.1408157,3529006,Brantford,CY,35,Ontario,3529,Brant,CDR,3529005,Brant,3550,Hamilton--Niagara Peninsula,543,1,543,35543,Brantford,B
+"brighton ,ON, Canada",-77.7370071,44.0422275,3514004,Brighton,MU,35,Ontario,3514,Northumberland,CTY,3514004,Brighton,3520,Muskoka--Kawarthas,996,4,,,,
+"warkworth ,ON, Canada",-77.8868553,44.2019073,3514045,Trent Hills,MU,35,Ontario,3514,Northumberland,CTY,3514045,Trent Hills,3520,Muskoka--Kawarthas,997,5,,,,
+"campbellford ,ON, Canada",-77.798084,44.3085912,3514045,Trent Hills,MU,35,Ontario,3514,Northumberland,CTY,3514045,Trent Hills,3520,Muskoka--Kawarthas,997,5,,,,
+"brock ,ON, Canada",-79.10016491,44.34768505,3518039,Brock,TP,35,Ontario,3518,Durham,RM,3518039,Brock,3530,Toronto,996,4,,,,
+"brockville ,ON, Canada",-75.6843332,44.5895925,3507015,Brockville,CY,35,Ontario,3507,Leeds and Grenville,UC,3507014,Elizabethtown-Kitley,3510,Ottawa,512,3,512,35512,Brockville,D
+"tobermory ,ON, Canada",-81.64304911,45.23469705,3541069,Northern Bruce Peninsula,MU,35,Ontario,3541,Bruce,CTY,3541069,Northern Bruce Peninsula,3580,Stratford--Bruce Peninsula,997,5,,,,
+"burford ,ON, Canada",-80.4292701,43.1032142,3529005,Brant,CY,35,Ontario,3529,Brant,CDR,3529005,Brant,3550,Hamilton--Niagara Peninsula,543,1,543,35543,Brantford,B
+"burlington ,ON, Canada",-79.7966835,43.3248924,3524002,Burlington,CY,35,Ontario,3524,Halton,RM,3524002,Burlington,3550,Hamilton--Niagara Peninsula,537,1,537,35537,Hamilton,B
+"caledon ,ON, Canada",-79.9061037,43.82706015,3521024,Caledon,T,35,Ontario,3521,Peel,RM,3521024,Caledon,3530,Toronto,535,1,535,35535,Toronto,B
+"cambridge ,ON, Canada",-80.3123023,43.3600536,3530010,Cambridge,CY,35,Ontario,3530,Waterloo,RM,3530010,Cambridge,3540,Kitchener--Waterloo--Barrie,541,1,541,35541,Kitchener - Cambridge - Waterloo,B
+"northwest ,ON, Canada",-81.6294098,45.8946323,3551017,Northeastern Manitoulin and the Islands,MU,35,Ontario,3551,Manitoulin,DIS,3551017,Northeastern Manitoulin and the Islands,3590,Northeast / Nord-est,998,6,,,,
+"milton ,ON, Canada",-79.882817,43.513671,3524009,Milton,T,35,Ontario,3524,Halton,RM,3524009,Milton,3530,Toronto,535,1,535,35535,Toronto,B
+"kawartha lakes ,ON, Canada",-78.8486034,44.575616,3516010,Kawartha Lakes,CY,35,Ontario,3516,Kawartha Lakes,CDR,3516010,Kawartha Lakes,3520,Muskoka--Kawarthas,530,3,530,35530,Kawartha Lakes,D
+"north durham ,ON, Canada",-79.00681681,43.89321,3518005,Ajax,T,35,Ontario,3518,Durham,RM,3518009,Whitby,3530,Toronto,535,1,535,35535,Toronto,B
+"almonte ,ON, Canada",-76.1945277,45.226049,3509030,Mississippi Mills,T,35,Ontario,3509,Lanark,CTY,3509030,Mississippi Mills,3510,Ottawa,509,3,509,35509,Carleton Place,D
+"carleton place ,ON, Canada",-76.1465672,45.1403366,3509028,Carleton Place,T,35,Ontario,3509,Lanark,CTY,3509024,Beckwith,3510,Ottawa,509,3,509,35509,Carleton Place,D
+"stirling ,ON, Canada",-77.5473774,44.2962217,3512020,Stirling-Rawdon,TP,35,Ontario,3512,Hastings,CTY,3512020,Stirling-Rawdon,3515,Kingston--Pembroke,522,1,522,35522,Belleville,B
+"cfb borden ,ON, Canada",-79.9123591,44.2716234,3543003,Adjala-Tosorontio,TP,35,Ontario,3543,Simcoe,CTY,3543003,Adjala-Tosorontio,3540,Kitchener--Waterloo--Barrie,996,4,,,,
+"cfb petawawa ,ON, Canada",-77.285804,45.9146454,3547076,Petawawa,T,35,Ontario,3547,Renfrew,CTY,3547090,Laurentian Hills,3515,Kingston--Pembroke,516,3,516,35516,Petawawa,D
+"cfb trenton ,ON, Canada",-77.53340414,44.11837255,3512015,Quinte West,CY,35,Ontario,3512,Hastings,CTY,3512015,Quinte West,3515,Kingston--Pembroke,522,1,522,35522,Belleville,B
+"chapleau ,ON, Canada",-83.4018741,47.845632,3552092,Chapleau,TP,35,Ontario,3552,Sudbury,DIS,3552013,Markstay-Warren,3590,Northeast / Nord-est,997,5,,,,
+"chatham ,ON, Canada",-82.1853837,42.4057219,3536020,Chatham-Kent,MU,35,Ontario,3536,Chatham-Kent,CDR,3536020,Chatham-Kent,3570,Windsor--Sarnia,556,3,556,35556,Chatham-Kent,D
+"chesterville ,ON, Canada",-75.2289179,45.1024266,3501030,North Dundas,TP,35,Ontario,3501,"Stormont, Dundas and Glengarry",UC,3501030,North Dundas,3510,Ottawa,996,4,,,,
+"west elgin ,ON, Canada",-81.64382954,42.567862,3534042,West Elgin,MU,35,Ontario,3534,Elgin,CTY,3534042,West Elgin,3560,London,996,4,,,,
+"clarington ,ON, Canada",-78.65135738,43.96868585,3518017,Clarington,MU,35,Ontario,3518,Durham,RM,3518017,Clarington,3530,Toronto,532,1,532,35532,Oshawa,B
+"clinton ,ON, Canada",-81.539576,43.617187,3540025,Central Huron,MU,35,Ontario,3540,Huron,CTY,3540025,Central Huron,3580,Stratford--Bruce Peninsula,997,5,,,,
+"cochrane ,ON, Canada",-82.1914444,50.630898,3556092,"Cochrane, Unorganized, North Part",NO,35,Ontario,3556,Cochrane,DIS,3556092,"Cochrane, Unorganized, North Part",3590,Northeast / Nord-est,998,6,,,,
+"collingwood ,ON, Canada",-80.2172379,44.5027226,3543031,Collingwood,T,35,Ontario,3543,Simcoe,CTY,3543005,Clearview,3540,Kitchener--Waterloo--Barrie,567,3,567,35567,Collingwood,D
+"drayton ,ON, Canada",-80.6711337,43.755055,3523033,Mapleton,TP,35,Ontario,3523,Wellington,CTY,3523033,Mapleton,3540,Kitchener--Waterloo--Barrie,997,5,,,,
+"cornwall ,ON, Canada",-74.728703,45.0184417,3501012,Cornwall,CY,35,Ontario,3501,"Stormont, Dundas and Glengarry",UC,3501011,South Stormont,3510,Ottawa,501,3,501,35501,Cornwall,D
+"haliburton ,ON, Canada",-78.5148132,45.1525396,3546024,Dysart et al,MU,35,Ontario,3546,Haliburton,CTY,3546005,Highlands East,3520,Muskoka--Kawarthas,997,5,,,,
+"wallaceburg ,ON, Canada",-82.3873866,42.5928652,3536020,Chatham-Kent,MU,35,Ontario,3536,Chatham-Kent,CDR,3536020,Chatham-Kent,3570,Windsor--Sarnia,556,3,556,35556,Chatham-Kent,D
+"creemore ,ON, Canada",-80.1084149,44.327104,3543005,Clearview,TP,35,Ontario,3543,Simcoe,CTY,3543005,Clearview,3540,Kitchener--Waterloo--Barrie,996,4,,,,
+"deep river ,ON, Canada",-77.487602,46.101328,3547096,Deep River,T,35,Ontario,3547,Renfrew,CTY,3547090,Laurentian Hills,3515,Kingston--Pembroke,997,5,,,,
+"delhi ,ON, Canada",-80.4983709,42.8544957,3528052,Norfolk County,CY,35,Ontario,3528,Haldimand-Norfolk,CDR,3528052,Norfolk County,3550,Hamilton--Niagara Peninsula,547,3,547,35547,Norfolk,D
+"dorchester ,ON, Canada",-81.0586953,42.9886863,3539027,Thames Centre,MU,35,Ontario,3539,Middlesex,CTY,3539027,Thames Centre,3560,London,555,1,555,35555,London,B
+"ignace ,ON, Canada",-91.654816,49.41276,3560001,Ignace,TP,35,Ontario,3560,Kenora,DIS,3560090,"Kenora, Unorganized",3595,Northwest / Nord-ouest,998,6,,,,
+"dryden ,ON, Canada",-92.835846,49.785698,3560027,Dryden,CY,35,Ontario,3560,Kenora,DIS,3560090,"Kenora, Unorganized",3595,Northwest / Nord-ouest,998,6,,,,
+"red lake ,ON, Canada",-93.827362,51.018938,3560042,Red Lake,MU,35,Ontario,3560,Kenora,DIS,3560090,"Kenora, Unorganized",3595,Northwest / Nord-ouest,998,6,,,,
+"dundalk ,ON, Canada",-80.3965759,44.1691536,3542005,Southgate,TP,35,Ontario,3542,Grey,CTY,3542005,Southgate,3580,Stratford--Bruce Peninsula,997,5,,,,
+"dundas ,ON, Canada",-79.9546341,43.2661904,3525005,Hamilton,C,35,Ontario,3525,Hamilton,CDR,3525005,Hamilton,3550,Hamilton--Niagara Peninsula,537,1,537,35537,Hamilton,B
+"east gwillimbury ,ON, Canada",-79.4558241,44.078008,3519054,East Gwillimbury,T,35,Ontario,3519,York,RM,3519054,East Gwillimbury,3530,Toronto,535,1,535,35535,Toronto,B
+"markham ,ON, Canada",-79.3376825,43.8563707,3519036,Markham,CY,35,Ontario,3519,York,RM,3519036,Markham,3530,Toronto,535,1,535,35535,Toronto,B
+"eganville ,ON, Canada",-77.1004317,45.5406943,3547035,Bonnechere Valley,TP,35,Ontario,3547,Renfrew,CTY,3547035,Bonnechere Valley,3515,Kingston--Pembroke,997,5,,,,
+"elliot lake ,ON, Canada",-82.652893,46.373464,3557041,Elliot Lake,CY,35,Ontario,3557,Algoma,DIS,3557095,"Algoma, Unorganized, North Part",3590,Northeast / Nord-est,582,3,582,35582,Elliot Lake,D
+"elmira ,ON, Canada",-80.5121147,43.5919677,3530035,Woolwich,TP,35,Ontario,3530,Waterloo,RM,3530035,Woolwich,3540,Kitchener--Waterloo--Barrie,541,1,541,35541,Kitchener - Cambridge - Waterloo,B
+"woolwich ,ON, Canada",-80.49951538,43.5665497,3530035,Woolwich,TP,35,Ontario,3530,Waterloo,RM,3530035,Woolwich,3540,Kitchener--Waterloo--Barrie,541,1,541,35541,Kitchener - Cambridge - Waterloo,B
+"elmvale ,ON, Canada",-79.8661611,44.5837294,3543009,Springwater,TP,35,Ontario,3543,Simcoe,CTY,3543009,Springwater,3540,Kitchener--Waterloo--Barrie,568,1,568,35568,Barrie,B
+"ottawa ,ON, Canada",-75.6901106,45.4208777,3506008,Ottawa,CV,35,Ontario,3506,Ottawa,CDR,3506008,Ottawa,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"embrun ,ON, Canada",-75.2749125,45.2742012,3502048,Russell,TP,35,Ontario,3502,Prescott and Russell,UC,3502048,Russell,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"iroquois falls ,ON, Canada",-80.6770998,48.7672213,3556031,Iroquois Falls,T,35,Ontario,3556,Cochrane,DIS,3556092,"Cochrane, Unorganized, North Part",3590,Northeast / Nord-est,997,5,,,,
+"newmarket ,ON, Canada",-79.461708,44.056258,3519048,Newmarket,T,35,Ontario,3519,York,RM,3519048,Newmarket,3530,Toronto,535,1,535,35535,Toronto,B
+"erin ,ON, Canada",-80.070076,43.77506,3523017,Erin,T,35,Ontario,3523,Wellington,CTY,3523017,Erin,3540,Kitchener--Waterloo--Barrie,996,4,,,,
+"espanola ,ON, Canada",-81.769867,46.265341,3552026,Espanola,T,35,Ontario,3552,Sudbury,DIS,3552013,Markstay-Warren,3590,Northeast / Nord-est,997,5,,,,
+"etobicoke ,ON, Canada",-79.5656326,43.6435559,3520005,Toronto,C,35,Ontario,3520,Toronto,CDR,3520005,Toronto,3530,Toronto,535,1,535,35535,Toronto,B
+"exeter ,ON, Canada",-81.4801081,43.3449871,3540005,South Huron,MU,35,Ontario,3540,Huron,CTY,3540005,South Huron,3580,Stratford--Bruce Peninsula,997,5,,,,
+"fergus ,ON, Canada",-80.3779366,43.7059439,3523025,Centre Wellington,TP,35,Ontario,3523,Wellington,CTY,3523025,Centre Wellington,3540,Kitchener--Waterloo--Barrie,531,3,531,35531,Centre Wellington,D
+"elora ,ON, Canada",-80.429581,43.681148,3523025,Centre Wellington,TP,35,Ontario,3523,Wellington,CTY,3523025,Centre Wellington,3540,Kitchener--Waterloo--Barrie,531,3,531,35531,Centre Wellington,D
+"waterdown ,ON, Canada",-79.8956803,43.3314156,3525005,Hamilton,C,35,Ontario,3525,Hamilton,CDR,3525005,Hamilton,3550,Hamilton--Niagara Peninsula,537,1,537,35537,Hamilton,B
+"fonthill ,ON, Canada",-79.2859628,43.0307817,3526028,Pelham,T,35,Ontario,3526,Niagara,RM,3526028,Pelham,3550,Hamilton--Niagara Peninsula,539,1,539,35539,St. Catharines - Niagara,B
+"forest ,ON, Canada",-82.0003357,43.1007795,3538040,Lambton Shores,MU,35,Ontario,3538,Lambton,CTY,3538040,Lambton Shores,3570,Windsor--Sarnia,997,5,,,,
+"fort erie ,ON, Canada",-78.918611,42.91308,3526003,Fort Erie,T,35,Ontario,3526,Niagara,RM,3526003,Fort Erie,3550,Hamilton--Niagara Peninsula,539,1,539,35539,St. Catharines - Niagara,B
+"fort frances ,ON, Canada",-93.3967615,48.6114425,3559012,Fort Frances,T,35,Ontario,3559,Rainy River,DIS,3559090,"Rainy River, Unorganized",3595,Northwest / Nord-ouest,998,6,,,,
+"frontenac ,ON, Canada",-76.6330415,44.6102902,3510020,South Frontenac,TP,35,Ontario,3510,Frontenac,CTY,3510020,South Frontenac,3515,Kingston--Pembroke,521,1,521,35521,Kingston,B
+"gananoque ,ON, Canada",-76.1646638,44.3352722,3507024,Gananoque,T,35,Ontario,3507,Leeds and Grenville,UC,3507021,Leeds and the Thousand Islands,3510,Ottawa,996,4,,,,
+"nipigon ,ON, Canada",-88.2610663,49.0155918,3558044,Nipigon,TP,35,Ontario,3558,Thunder Bay,DIS,3558090,"Thunder Bay, Unorganized",3595,Northwest / Nord-ouest,997,5,,,,
+"red rock ,ON, Canada",-88.2592117,48.9425393,3558041,Red Rock,TP,35,Ontario,3558,Thunder Bay,DIS,3558090,"Thunder Bay, Unorganized",3595,Northwest / Nord-ouest,997,5,,,,
+"norwich ,ON, Canada",-80.59756,42.987699,3532002,Norwich,TP,35,Ontario,3532,Oxford,CTY,3532002,Norwich,3560,London,996,4,,,,
+"tavistock ,ON, Canada",-80.8363123,43.32104,3532038,East Zorra-Tavistock,TP,35,Ontario,3532,Oxford,CTY,3532038,East Zorra-Tavistock,3560,London,996,4,,,,
+"parkhill ,ON, Canada",-81.6842168,43.1622799,3539041,North Middlesex,MU,35,Ontario,3539,Middlesex,CTY,3539041,North Middlesex,3560,London,996,4,,,,
+"glencoe ,ON, Canada",-81.711159,42.7481918,3539005,Southwest Middlesex,MU,35,Ontario,3539,Middlesex,CTY,3539005,Southwest Middlesex,3560,London,996,4,,,,
+"georgetown ,ON, Canada",-79.9036058,43.6502652,3524015,Halton Hills,T,35,Ontario,3524,Halton,RM,3524015,Halton Hills,3530,Toronto,535,1,535,35535,Toronto,B
+"acton ,ON, Canada",-80.0351117,43.6340679,3524015,Halton Hills,T,35,Ontario,3524,Halton,RM,3524015,Halton Hills,3530,Toronto,535,1,535,35535,Toronto,B
+"keswick ,ON, Canada",-79.4686558,44.2396166,3519070,Georgina,T,35,Ontario,3519,York,RM,3519070,Georgina,3530,Toronto,535,1,535,35535,Toronto,B
+"glanbrook ,ON, Canada",-80.11659666,43.2580421,3525005,Hamilton,C,35,Ontario,3525,Hamilton,CDR,3525005,Hamilton,3550,Hamilton--Niagara Peninsula,537,1,537,35537,Hamilton,B
+"alexandria ,ON, Canada",-74.6367573,45.3112037,3501050,North Glengarry,TP,35,Ontario,3501,"Stormont, Dundas and Glengarry",UC,3501050,North Glengarry,3510,Ottawa,997,5,,,,
+"goderich ,ON, Canada",-81.7110949,43.7430924,3540028,Goderich,T,35,Ontario,3540,Huron,CTY,3540025,Central Huron,3580,Stratford--Bruce Peninsula,998,6,,,,
+"penetanguishene ,ON, Canada",-79.9339487,44.7688035,3543072,Penetanguishene,T,35,Ontario,3543,Simcoe,CTY,3543071,Tay,3540,Kitchener--Waterloo--Barrie,571,3,571,35571,Midland,D
+"haldimand ,ON, Canada",-79.8362031,42.945542,3528018,Haldimand County,CY,35,Ontario,3528,Haldimand-Norfolk,CDR,3528018,Haldimand County,3550,Hamilton--Niagara Peninsula,996,4,,,,
+"gravenhurst ,ON, Canada",-79.373131,44.91741,3544002,Gravenhurst,T,35,Ontario,3544,Muskoka,DM,3544002,Gravenhurst,3520,Muskoka--Kawarthas,997,5,,,,
+"hanover ,ON, Canada",-81.0279572,44.1520712,3542029,Hanover,T,35,Ontario,3542,Grey,CTY,3542004,West Grey,3580,Stratford--Bruce Peninsula,997,5,,,,
+"grimsby ,ON, Canada",-79.560677,43.1931661,3526065,Grimsby,T,35,Ontario,3526,Niagara,RM,3526065,Grimsby,3550,Hamilton--Niagara Peninsula,537,1,537,35537,Hamilton,B
+"lincoln ,ON, Canada",-79.41600689,43.17354975,3526057,Lincoln,T,35,Ontario,3526,Niagara,RM,3526057,Lincoln,3550,Hamilton--Niagara Peninsula,539,1,539,35539,St. Catharines - Niagara,B
+"cfsu ottawa ,ON, Canada",-75.67750546,45.3278795,3506008,Ottawa,CV,35,Ontario,3506,Ottawa,CDR,3506008,Ottawa,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"guelph ,ON, Canada",-80.2493276,43.5460516,3523008,Guelph,CY,35,Ontario,3523,Wellington,CTY,3523009,Guelph/Eramosa,3540,Kitchener--Waterloo--Barrie,550,1,550,35550,Guelph,B
+"watford ,ON, Canada",-81.8802713,42.9480988,3538043,Warwick,TP,35,Ontario,3538,Lambton,CTY,3538043,Warwick,3570,Windsor--Sarnia,996,4,,,,
+"hagersville ,ON, Canada",-80.0517133,42.961976,3528018,Haldimand County,CY,35,Ontario,3528,Haldimand-Norfolk,CDR,3528018,Haldimand County,3550,Hamilton--Niagara Peninsula,996,4,,,,
+"cayuga ,ON, Canada",-79.8585358,42.9497266,3528018,Haldimand County,CY,35,Ontario,3528,Haldimand-Norfolk,CDR,3528018,Haldimand County,3550,Hamilton--Niagara Peninsula,996,4,,,,
+"hamilton ,ON, Canada",-79.8728583,43.2560802,3525005,Hamilton,C,35,Ontario,3525,Hamilton,CDR,3525005,Hamilton,3550,Hamilton--Niagara Peninsula,537,1,537,35537,Hamilton,B
+"thamesville ,ON, Canada",-81.9771193,42.5518069,3536020,Chatham-Kent,MU,35,Ontario,3536,Chatham-Kent,CDR,3536020,Chatham-Kent,3570,Windsor--Sarnia,556,3,556,35556,Chatham-Kent,D
+"wilberforce ,ON, Canada",-78.2229057,45.0369198,3546005,Highlands East,MU,35,Ontario,3546,Haliburton,CTY,3546005,Highlands East,3520,Muskoka--Kawarthas,997,5,,,,
+"kapuskasing ,ON, Canada",-82.433333,49.416667,3556066,Kapuskasing,T,35,Ontario,3556,Cochrane,DIS,3556092,"Cochrane, Unorganized, North Part",3590,Northeast / Nord-est,998,6,,,,
+"huntsville ,ON, Canada",-79.218434,45.3263919,3544042,Huntsville,T,35,Ontario,3544,Muskoka,DM,3544042,Huntsville,3520,Muskoka--Kawarthas,998,6,,,,
+"seaforth ,ON, Canada",-81.3934183,43.5534328,3540040,Huron East,MU,35,Ontario,3540,Huron,CTY,3540040,Huron East,3580,Stratford--Bruce Peninsula,997,5,,,,
+"port colborne ,ON, Canada",-79.2513905,42.8862392,3526011,Port Colborne,CY,35,Ontario,3526,Niagara,RM,3526011,Port Colborne,3550,Hamilton--Niagara Peninsula,539,1,539,35539,St. Catharines - Niagara,B
+"st. marys ,ON, Canada",-81.1408629,43.2570855,3531016,St. Marys,T,35,Ontario,3531,Perth,CTY,3531013,Perth South,3580,Stratford--Bruce Peninsula,996,4,,,,
+"ridgetown ,ON, Canada",-81.8821334,42.4394208,3536020,Chatham-Kent,MU,35,Ontario,3536,Chatham-Kent,CDR,3536020,Chatham-Kent,3570,Windsor--Sarnia,556,3,556,35556,Chatham-Kent,D
+"tillsonburg ,ON, Canada",-80.7265015,42.859494,3532004,Tillsonburg,T,35,Ontario,3532,Oxford,CTY,3532012,South-West Oxford,3560,London,546,3,546,35546,Tillsonburg,D
+"ingersoll ,ON, Canada",-80.88211,43.037725,3532018,Ingersoll,T,35,Ontario,3532,Oxford,CTY,3532012,South-West Oxford,3560,London,533,3,533,35533,Ingersoll,D
+"innisfil ,ON, Canada",-79.5461073,44.3150892,3543017,Innisfil,T,35,Ontario,3543,Simcoe,CTY,3543017,Innisfil,3540,Kitchener--Waterloo--Barrie,568,1,568,35568,Barrie,B
+"hornepayne ,ON, Canada",-84.7752864,49.2181387,3557096,Hornepayne,TP,35,Ontario,3557,Algoma,DIS,3557095,"Algoma, Unorganized, North Part",3590,Northeast / Nord-est,998,6,,,,
+"wheatley ,ON, Canada",-82.4630203,42.0950707,3536020,Chatham-Kent,MU,35,Ontario,3536,Chatham-Kent,CDR,3536020,Chatham-Kent,3570,Windsor--Sarnia,556,3,556,35556,Chatham-Kent,D
+"kanata ,ON, Canada",-75.8940505,45.3128048,3506008,Ottawa,CV,35,Ontario,3506,Ottawa,CDR,3506008,Ottawa,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"kemptville ,ON, Canada",-75.644567,45.0154164,3507065,North Grenville,MU,35,Ontario,3507,Leeds and Grenville,UC,3507065,North Grenville,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"kenora ,ON, Canada",-89.1618188,54.0245941,3560090,"Kenora, Unorganized",NO,35,Ontario,3560,Kenora,DIS,3560090,"Kenora, Unorganized",3595,Northwest / Nord-ouest,997,5,,,,
+"kincardine ,ON, Canada",-81.6348713,44.1776378,3541024,Kincardine,MU,35,Ontario,3541,Bruce,CTY,3541024,Kincardine,3580,Stratford--Bruce Peninsula,998,6,,,,
+"king township ,ON, Canada",-79.51742858,43.93160955,3519049,King,TP,35,Ontario,3519,York,RM,3519049,King,3530,Toronto,535,1,535,35535,Toronto,B
+"king ,ON, Canada",-79.3777538,43.6489494,3520005,Toronto,C,35,Ontario,3520,Toronto,CDR,3520005,Toronto,3530,Toronto,535,1,535,35535,Toronto,B
+"kingston ,ON, Canada",-76.481323,44.230687,3510010,Kingston,CY,35,Ontario,3510,Frontenac,CTY,3510010,Kingston,3515,Kingston--Pembroke,521,1,521,35521,Kingston,B
+"kingsville ,ON, Canada",-82.7396606,42.0378963,3537013,Kingsville,T,35,Ontario,3537,Essex,CTY,3537013,Kingsville,3570,Windsor--Sarnia,557,3,557,35557,Leamington,D
+"kitchener ,ON, Canada",-80.4927815,43.451291,3530013,Kitchener,CY,35,Ontario,3530,Waterloo,RM,3530013,Kitchener,3540,Kitchener--Waterloo--Barrie,541,1,541,35541,Kitchener - Cambridge - Waterloo,B
+"port stanley ,ON, Canada",-81.2121712,42.6660437,3534020,Central Elgin,MU,35,Ontario,3534,Elgin,CTY,3534020,Central Elgin,3560,London,555,1,555,35555,London,B
+"lakefield ,ON, Canada",-78.2721953,44.4233365,3515015,Selwyn,TP,35,Ontario,3515,Peterborough,CTY,3515015,Selwyn,3520,Muskoka--Kawarthas,529,1,529,35529,Peterborough,B
+"grand bend ,ON, Canada",-81.757507,43.312689,3538040,Lambton Shores,MU,35,Ontario,3538,Lambton,CTY,3538040,Lambton Shores,3570,Windsor--Sarnia,997,5,,,,
+"zurich ,ON, Canada",-81.624703,43.421133,3540010,Bluewater,MU,35,Ontario,3540,Huron,CTY,3540010,Bluewater,3580,Stratford--Bruce Peninsula,997,5,,,,
+"belle river ,ON, Canada",-82.7113352,42.2928986,3537064,Lakeshore,T,35,Ontario,3537,Essex,CTY,3537064,Lakeshore,3570,Windsor--Sarnia,559,1,559,35559,Windsor,B
+"lambton-middlesex ,ON, Canada",-81.65954471,42.82117265,3539005,Southwest Middlesex,MU,35,Ontario,3539,Middlesex,CTY,3539005,Southwest Middlesex,3560,London,996,4,,,,
+"lasalle ,ON, Canada",-83.06409001,42.21807995,3537034,LaSalle,T,35,Ontario,3537,Essex,CTY,3537034,LaSalle,3570,Windsor--Sarnia,559,1,559,35559,Windsor,B
+"hawkesbury ,ON, Canada",-74.6055611,45.610281,3502008,Hawkesbury,T,35,Ontario,3502,Prescott and Russell,UC,3502010,Champlain,3510,Ottawa,502,3,502,35502,Hawkesbury (Ontario part / partie de l'Ontario),D
+"hearst ,ON, Canada",-83.666382,49.690732,3556076,Hearst,T,35,Ontario,3556,Cochrane,DIS,3556092,"Cochrane, Unorganized, North Part",3590,Northeast / Nord-est,998,6,,,,
+"sudbury ,ON, Canada",-80.991211,46.49272,3553005,Greater Sudbury / Grand Sudbury,CV,35,Ontario,3553,Greater Sudbury / Grand Sudbury,CDR,3553005,Greater Sudbury / Grand Sudbury,3590,Northeast / Nord-est,580,1,580,35580,Greater Sudbury / Grand Sudbury,B
+"dresden ,ON, Canada",-82.1795314,42.5909853,3536020,Chatham-Kent,MU,35,Ontario,3536,Chatham-Kent,CDR,3536020,Chatham-Kent,3570,Windsor--Sarnia,556,3,556,35556,Chatham-Kent,D
+"bothwell ,ON, Canada",-81.8707447,42.6309355,3536020,Chatham-Kent,MU,35,Ontario,3536,Chatham-Kent,CDR,3536020,Chatham-Kent,3570,Windsor--Sarnia,556,3,556,35556,Chatham-Kent,D
+"leamington ,ON, Canada",-82.5996998,42.0531166,3537003,Leamington,MU,35,Ontario,3537,Essex,CTY,3537003,Leamington,3570,Windsor--Sarnia,557,3,557,35557,Leamington,D
+"listowel ,ON, Canada",-80.952882,43.731593,3531040,North Perth,MU,35,Ontario,3531,Perth,CTY,3531040,North Perth,3580,Stratford--Bruce Peninsula,997,5,,,,
+"geraldton ,ON, Canada",-86.9493168,49.7188752,3558075,Greenstone,MU,35,Ontario,3558,Thunder Bay,DIS,3558090,"Thunder Bay, Unorganized",3595,Northwest / Nord-ouest,998,6,,,,
+"lucknow ,ON, Canada",-81.5172512,43.961848,3541015,Huron-Kinloss,TP,35,Ontario,3541,Bruce,CTY,3541015,Huron-Kinloss,3580,Stratford--Bruce Peninsula,998,6,,,,
+"manitoulin island ,ON, Canada",-82.21460502,45.7563115,3551006,Central Manitoulin,MU,35,Ontario,3551,Manitoulin,DIS,3551017,Northeastern Manitoulin and the Islands,3590,Northeast / Nord-est,998,6,,,,
+"gore bay ,ON, Canada",-82.4640868,45.9167876,3551026,Gore Bay,T,35,Ontario,3551,Manitoulin,DIS,3551027,Gordon/Barrie Island,3590,Northeast / Nord-est,998,6,,,,
+"manitouwadge ,ON, Canada",-85.8384058,49.121541,3558066,Manitouwadge,TP,35,Ontario,3558,Thunder Bay,DIS,3558090,"Thunder Bay, Unorganized",3595,Northwest / Nord-ouest,998,6,,,,
+"manotick ,ON, Canada",-75.6860593,45.2264407,3506008,Ottawa,CV,35,Ontario,3506,Ottawa,CDR,3506008,Ottawa,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"stratford ,ON, Canada",-80.9818016,43.3700899,3531011,Stratford,CY,35,Ontario,3531,Perth,CTY,3531013,Perth South,3580,Stratford--Bruce Peninsula,553,3,553,35553,Stratford,D
+"mattawa ,ON, Canada",-78.703308,46.317296,3548021,Mattawa,T,35,Ontario,3548,Nipissing,DIS,3548094,"Nipissing, Unorganized, North Part",3590,Northeast / Nord-est,997,5,,,,
+"meaford ,ON, Canada",-80.5916531,44.6069298,3542047,Meaford,MU,35,Ontario,3542,Grey,CTY,3542047,Meaford,3580,Stratford--Bruce Peninsula,996,4,,,,
+"marathon ,ON, Canada",-86.371598,48.7209349,3558059,Marathon,T,35,Ontario,3558,Thunder Bay,DIS,3558090,"Thunder Bay, Unorganized",3595,Northwest / Nord-ouest,998,6,,,,
+"lucan ,ON, Canada",-81.4031356,43.1878148,3539060,Lucan Biddulph,TP,35,Ontario,3539,Middlesex,CTY,3539060,Lucan Biddulph,3560,London,996,4,,,,
+"ailsa craig ,ON, Canada",-81.5336236,43.1471072,3539041,North Middlesex,MU,35,Ontario,3539,Middlesex,CTY,3539041,North Middlesex,3560,London,996,4,,,,
+"ilderton ,ON, Canada",-81.3751432,43.0812001,3539033,Middlesex Centre,MU,35,Ontario,3539,Middlesex,CTY,3539033,Middlesex Centre,3560,London,555,1,555,35555,London,B
+"midland ,ON, Canada",-79.885712,44.750147,3543074,Midland,T,35,Ontario,3543,Simcoe,CTY,3543071,Tay,3540,Kitchener--Waterloo--Barrie,571,3,571,35571,Midland,D
+" penetanguishene ,ON, Canada",-79.9339487,44.7688035,3543072,Penetanguishene,T,35,Ontario,3543,Simcoe,CTY,3543071,Tay,3540,Kitchener--Waterloo--Barrie,571,3,571,35571,Midland,D
+"millbrook ,ON, Canada",-78.4475977,44.1511443,3515013,Cavan Monaghan,TP,35,Ontario,3515,Peterborough,CTY,3515013,Cavan Monaghan,3520,Muskoka--Kawarthas,529,1,529,35529,Peterborough,B
+"minden ,ON, Canada",-78.72493,44.9254436,3546015,Minden Hills,TP,35,Ontario,3546,Haliburton,CTY,3546015,Minden Hills,3520,Muskoka--Kawarthas,997,5,,,,
+"harriston ,ON, Canada",-80.8690127,43.9118312,3523043,Minto,T,35,Ontario,3523,Wellington,CTY,3523043,Minto,3540,Kitchener--Waterloo--Barrie,997,5,,,,
+"mississauga ,ON, Canada",-79.6443879,43.5896231,3521005,Mississauga,CY,35,Ontario,3521,Peel,RM,3521010,Brampton,3530,Toronto,535,1,535,35535,Toronto,B
+"morrisburg ,ON, Canada",-75.1829545,44.8977043,3501020,South Dundas,MU,35,Ontario,3501,"Stormont, Dundas and Glengarry",UC,3501020,South Dundas,3510,Ottawa,997,5,,,,
+"muskoka ,ON, Canada",-79.3839611,45.1307013,3544018,Bracebridge,T,35,Ontario,3544,Muskoka,DM,3544018,Bracebridge,3520,Muskoka--Kawarthas,997,5,,,,
+"napanee ,ON, Canada",-76.9505543,44.2473883,3511015,Greater Napanee,T,35,Ontario,3511,Lennox and Addington,CTY,3511015,Greater Napanee,3515,Kingston--Pembroke,996,4,,,,
+"lennox ,ON, Canada",-77.1060061,44.5861252,3511030,Stone Mills,TP,35,Ontario,3511,Lennox and Addington,CTY,3511030,Stone Mills,3515,Kingston--Pembroke,996,4,,,,
+"addington ,ON, Canada",-77.367125,45.2883677,3547020,"Brudenell, Lyndoch and Raglan",TP,35,Ontario,3547,Renfrew,CTY,3547020,"Brudenell, Lyndoch and Raglan",3515,Kingston--Pembroke,997,5,,,,
+"nepean ,ON, Canada",-75.7639408,45.3446891,3506008,Ottawa,CV,35,Ontario,3506,Ottawa,CDR,3506008,Ottawa,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"new hamburg ,ON, Canada",-80.7097716,43.3784216,3530020,Wilmot,TP,35,Ontario,3530,Waterloo,RM,3530020,Wilmot,3540,Kitchener--Waterloo--Barrie,541,1,541,35541,Kitchener - Cambridge - Waterloo,B
+"beeton ,ON, Canada",-79.784557,44.0789618,3543007,New Tecumseth,T,35,Ontario,3543,Simcoe,CTY,3543007,New Tecumseth,3540,Kitchener--Waterloo--Barrie,535,1,535,35535,Toronto,B
+"new tecumseth ,ON, Canada",-79.77443058,44.0818996,3543007,New Tecumseth,T,35,Ontario,3543,Simcoe,CTY,3543007,New Tecumseth,3540,Kitchener--Waterloo--Barrie,535,1,535,35535,Toronto,B
+"terrace bay ,ON, Canada",-87.102356,48.782437,3558054,Terrace Bay,TP,35,Ontario,3558,Thunder Bay,DIS,3558090,"Thunder Bay, Unorganized",3595,Northwest / Nord-ouest,997,5,,,,
+"schreiber ,ON, Canada",-87.2627416,48.8114595,3558051,Schreiber,TP,35,Ontario,3558,Thunder Bay,DIS,3558090,"Thunder Bay, Unorganized",3595,Northwest / Nord-ouest,998,6,,,,
+"ajax ,ON, Canada",-79.0208814,43.8505287,3518005,Ajax,T,35,Ontario,3518,Durham,RM,3518009,Whitby,3530,Toronto,535,1,535,35535,Toronto,B
+"pickering ,ON, Canada",-79.090576,43.835765,3518001,Pickering,CY,35,Ontario,3518,Durham,RM,3518001,Pickering,3530,Toronto,535,1,535,35535,Toronto,B
+"west lincoln ,ON, Canada",-79.56674111,43.0724658,3526021,West Lincoln,TP,35,Ontario,3526,Niagara,RM,3526021,West Lincoln,3550,Hamilton--Niagara Peninsula,996,4,,,,
+"niagara on the lake ,ON, Canada",-79.0723264,43.2556116,3526047,Niagara-on-the-Lake,T,35,Ontario,3526,Niagara,RM,3526047,Niagara-on-the-Lake,3550,Hamilton--Niagara Peninsula,539,1,539,35539,St. Catharines - Niagara,B
+"thorold ,ON, Canada",-79.2005935,43.1249127,3526037,Thorold,CY,35,Ontario,3526,Niagara,RM,3526037,Thorold,3550,Hamilton--Niagara Peninsula,539,1,539,35539,St. Catharines - Niagara,B
+"niagara ,ON, Canada",-79.3098089,43.0631891,3526028,Pelham,T,35,Ontario,3526,Niagara,RM,3526028,Pelham,3550,Hamilton--Niagara Peninsula,539,1,539,35539,St. Catharines - Niagara,B
+"north bay ,ON, Canada",-79.4607617,46.3092115,3548044,North Bay,CY,35,Ontario,3548,Nipissing,DIS,3548094,"Nipissing, Unorganized, North Part",3590,Northeast / Nord-est,575,2,575,35575,North Bay,K
+"norfolk ,ON, Canada",-80.4538365,42.7971532,3528052,Norfolk County,CY,35,Ontario,3528,Haldimand-Norfolk,CDR,3528052,Norfolk County,3550,Hamilton--Niagara Peninsula,547,3,547,35547,Norfolk,D
+"oxford mills ,ON, Canada",-75.6781618,44.9654376,3507065,North Grenville,MU,35,Ontario,3507,Leeds and Grenville,UC,3507065,North Grenville,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"north grenville ,ON, Canada",-75.64483041,44.98584265,3507065,North Grenville,MU,35,Ontario,3507,Leeds and Grenville,UC,3507065,North Grenville,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"thessalon ,ON, Canada",-83.5483478,46.2638311,3557028,Thessalon,T,35,Ontario,3557,Algoma,DIS,3557035,Huron Shores,3590,Northeast / Nord-est,997,5,,,,
+"north york ,ON, Canada",-79.44911697,43.7543263,3520005,Toronto,C,35,Ontario,3520,Toronto,CDR,3520005,Toronto,3530,Toronto,535,1,535,35535,Toronto,B
+"kirkland lake ,ON, Canada",-80.031281,48.154177,3554068,Kirkland Lake,T,35,Ontario,3554,Timiskaming,DIS,3554094,"Timiskaming, Unorganized, West Part",3590,Northeast / Nord-est,998,6,,,,
+"cobourg ,ON, Canada",-78.1677784,43.9595998,3514021,Cobourg,T,35,Ontario,3514,Northumberland,CTY,3514019,Hamilton,3520,Muskoka--Kawarthas,527,3,527,35527,Cobourg,D
+"port hope ,ON, Canada",-78.2939704,43.9515755,3514020,Port Hope,MU,35,Ontario,3514,Northumberland,CTY,3514020,Port Hope,3520,Muskoka--Kawarthas,528,3,528,35528,Port Hope,D
+"colborne ,ON, Canada",-77.8879789,44.0050196,3514014,Cramahe,TP,35,Ontario,3514,Northumberland,CTY,3514014,Cramahe,3520,Muskoka--Kawarthas,996,4,,,,
+"northumberland ,ON, Canada",-77.9872929,44.1096596,3514024,Alnwick/Haldimand,TP,35,Ontario,3514,Northumberland,CTY,3514024,Alnwick/Haldimand,3520,Muskoka--Kawarthas,996,4,,,,
+"timmins ,ON, Canada",-81.330414,48.477473,3556027,Timmins,CY,35,Ontario,3556,Cochrane,DIS,3556027,Timmins,3590,Northeast / Nord-est,586,3,586,35586,Timmins,D
+"orangeville ,ON, Canada",-80.0973754,43.9193171,3522014,Orangeville,T,35,Ontario,3522,Dufferin,CTY,3522012,Mono,3540,Kitchener--Waterloo--Barrie,535,1,535,35535,Toronto,B
+"orillia ,ON, Canada",-79.4169256,44.6066135,3543052,Orillia,CY,35,Ontario,3543,Simcoe,CTY,3543015,Severn,3540,Kitchener--Waterloo--Barrie,569,3,569,35569,Orillia,D
+"orleans ,ON, Canada",-75.52745676,45.40683715,3506008,Ottawa,CV,35,Ontario,3506,Ottawa,CDR,3506008,Ottawa,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"orono ,ON, Canada",-78.616447,43.975028,3518017,Clarington,MU,35,Ontario,3518,Durham,RM,3518017,Clarington,3530,Toronto,532,1,532,35532,Oshawa,B
+"oshawa ,ON, Canada",-78.8635324,43.8975558,3518013,Oshawa,CY,35,Ontario,3518,Durham,RM,3518013,Oshawa,3530,Toronto,532,1,532,35532,Oshawa,B
+"paris ,ON, Canada",-80.384281,43.193234,3529005,Brant,CY,35,Ontario,3529,Brant,CDR,3529005,Brant,3550,Hamilton--Niagara Peninsula,543,1,543,35543,Brantford,B
+"pembroke ,ON, Canada",-77.1115433,45.8209741,3547064,Pembroke,CY,35,Ontario,3547,Renfrew,CTY,3547075,Laurentian Valley,3515,Kingston--Pembroke,515,3,515,35515,Pembroke,D
+"perth ,ON, Canada",-81.0164111,43.4935991,3531030,Perth East,TP,35,Ontario,3531,Perth,CTY,3531030,Perth East,3580,Stratford--Bruce Peninsula,996,4,,,,
+"petawawa ,ON, Canada",-77.2826645,45.8984286,3547076,Petawawa,T,35,Ontario,3547,Renfrew,CTY,3547090,Laurentian Hills,3515,Kingston--Pembroke,516,3,516,35516,Petawawa,D
+"peterborough ,ON, Canada",-78.3199496,44.3048009,3515014,Peterborough,CY,35,Ontario,3515,Peterborough,CTY,3515015,Selwyn,3520,Muskoka--Kawarthas,529,1,529,35529,Peterborough,B
+"petrolia ,ON, Canada",-82.149582,42.882002,3538019,Petrolia,T,35,Ontario,3538,Lambton,CTY,3538016,Enniskillen,3570,Windsor--Sarnia,996,4,,,,
+"picton ,ON, Canada",-77.1411741,44.0077067,3513020,Prince Edward County,CY,35,Ontario,3513,Prince Edward,CDR,3513020,Prince Edward County,3515,Kingston--Pembroke,996,4,,,,
+"prince edward ,ON, Canada",-77.246933,44.031827,3513020,Prince Edward County,CY,35,Ontario,3513,Prince Edward,CDR,3513020,Prince Edward County,3515,Kingston--Pembroke,996,4,,,,
+"port dover ,ON, Canada",-80.2005169,42.7845713,3528052,Norfolk County,CY,35,Ontario,3528,Haldimand-Norfolk,CDR,3528052,Norfolk County,3550,Hamilton--Niagara Peninsula,547,3,547,35547,Norfolk,D
+"port perry ,ON, Canada",-78.9425076,44.1054151,3518020,Scugog,TP,35,Ontario,3518,Durham,RM,3518020,Scugog,3530,Toronto,996,4,,,,
+"prescott ,ON, Canada",-75.5191675,44.7184132,3507008,Prescott,T,35,Ontario,3507,Leeds and Grenville,UC,3507006,Augusta,3510,Ottawa,996,4,,,,
+"quinte west ,ON, Canada",-77.5666791,44.191211,3512015,Quinte West,CY,35,Ontario,3512,Hastings,CTY,3512015,Quinte West,3515,Kingston--Pembroke,522,1,522,35522,Belleville,B
+"rainy river ,ON, Canada",-92.6997993,48.8208533,3559090,"Rainy River, Unorganized",NO,35,Ontario,3559,Rainy River,DIS,3559090,"Rainy River, Unorganized",3595,Northwest / Nord-ouest,998,6,,,,
+"windsor ,ON, Canada",-83.0373389,42.3167397,3537039,Windsor,CY,35,Ontario,3537,Essex,CTY,3537039,Windsor,3570,Windsor--Sarnia,559,1,559,35559,Windsor,B
+"renfrew ,ON, Canada",-77.2793698,45.7300564,3547075,Laurentian Valley,TP,35,Ontario,3547,Renfrew,CTY,3547075,Laurentian Valley,3515,Kingston--Pembroke,515,3,515,35515,Pembroke,D
+"westport ,ON, Canada",-76.397463,44.678462,3507033,Westport,VL,35,Ontario,3507,Leeds and Grenville,UC,3507040,Rideau Lakes,3510,Ottawa,997,5,,,,
+"richmond hill ,ON, Canada",-79.4392925,43.8801166,3519038,Richmond Hill,T,35,Ontario,3519,York,RM,3519048,Newmarket,3530,Toronto,535,1,535,35535,Toronto,B
+"thornhill ,ON, Canada",-79.4245925,43.8161477,3519028,Vaughan,CY,35,Ontario,3519,York,RM,3519028,Vaughan,3530,Toronto,535,1,535,35535,Toronto,B
+"rockland ,ON, Canada",-75.2915629,45.5485795,3502036,Clarence-Rockland,C,35,Ontario,3502,Prescott and Russell,UC,3502036,Clarence-Rockland,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"russell ,ON, Canada",-75.3583264,45.2573172,3502048,Russell,TP,35,Ontario,3502,Prescott and Russell,UC,3502048,Russell,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"welland ,ON, Canada",-79.2484192,42.9922181,3526032,Welland,CY,35,Ontario,3526,Niagara,RM,3526037,Thorold,3550,Hamilton--Niagara Peninsula,539,1,539,35539,St. Catharines - Niagara,B
+"caledonia ,ON, Canada",-79.4653558,43.6923702,3520005,Toronto,C,35,Ontario,3520,Toronto,CDR,3520005,Toronto,3530,Toronto,535,1,535,35535,Toronto,B
+"sault ste. marie ,ON, Canada",-84.320068,46.52391,3557061,Sault Ste. Marie,CY,35,Ontario,3557,Algoma,DIS,3557061,Sault Ste. Marie,3590,Northeast / Nord-est,590,2,590,35590,Sault Ste. Marie,K
+"scarborough ,ON, Canada",-79.2576479,43.7729744,3520005,Toronto,C,35,Ontario,3520,Toronto,CDR,3520005,Toronto,3530,Toronto,535,1,535,35535,Toronto,B
+"shelburne ,ON, Canada",-80.203431,44.078473,3522021,Shelburne,T,35,Ontario,3522,Dufferin,CTY,3522019,Melancthon,3540,Kitchener--Waterloo--Barrie,996,4,,,,
+"port elgin ,ON, Canada",-81.3889458,44.4358826,3541045,Saugeen Shores,T,35,Ontario,3541,Bruce,CTY,3541045,Saugeen Shores,3580,Stratford--Bruce Peninsula,997,5,,,,
+"tecumseh ,ON, Canada",-82.8861974,42.3117951,3537048,Tecumseh,T,35,Ontario,3537,Essex,CTY,3537048,Tecumseh,3570,Windsor--Sarnia,559,1,559,35559,Windsor,B
+"st. clair beach ,ON, Canada",-82.8588507,42.3202229,3537048,Tecumseh,T,35,Ontario,3537,Essex,CTY,3537048,Tecumseh,3570,Windsor--Sarnia,559,1,559,35559,Windsor,B
+"simcoe ,ON, Canada",-79.7038708,44.5014007,3543009,Springwater,TP,35,Ontario,3543,Simcoe,CTY,3543009,Springwater,3540,Kitchener--Waterloo--Barrie,568,1,568,35568,Barrie,B
+"sioux lookout ,ON, Canada",-92.19624323,50.11345465,3560034,Sioux Lookout,MU,35,Ontario,3560,Kenora,DIS,3560090,"Kenora, Unorganized",3595,Northwest / Nord-ouest,998,6,,,,
+"smiths falls ,ON, Canada",-76.0212062,44.9013316,3509004,Smiths Falls,T,35,Ontario,3509,Lanark,CTY,3509001,Montague,3510,Ottawa,997,5,,,,
+"1000 islands ,ON, Canada",-75.8853212,44.4318712,3507021,Leeds and the Thousand Islands,TP,35,Ontario,3507,Leeds and Grenville,UC,3507021,Leeds and the Thousand Islands,3510,Ottawa,996,4,,,,
+"dufferin  ,ON, Canada",-80.1691941,44.0497496,3522008,Amaranth,TP,35,Ontario,3522,Dufferin,CTY,3522008,Amaranth,3540,Kitchener--Waterloo--Barrie,996,4,,,,
+"georgina ,ON, Canada",-79.34615813,44.34159575,3519070,Georgina,T,35,Ontario,3519,York,RM,3519070,Georgina,3530,Toronto,535,1,535,35535,Toronto,B
+"haldimand-norfolk ,ON, Canada",-80.27101841,42.83163935,3528052,Norfolk County,CY,35,Ontario,3528,Haldimand-Norfolk,CDR,3528052,Norfolk County,3550,Hamilton--Niagara Peninsula,547,3,547,35547,Norfolk,D
+"waterloo ,ON, Canada",-80.5222961,43.4652699,3530016,Waterloo,CY,35,Ontario,3530,Waterloo,RM,3530013,Kitchener,3540,Kitchener--Waterloo--Barrie,541,1,541,35541,Kitchener - Cambridge - Waterloo,B
+"niagara falls ,ON, Canada",-79.0639039,43.1065603,3526043,Niagara Falls,CY,35,Ontario,3526,Niagara,RM,3526043,Niagara Falls,3550,Hamilton--Niagara Peninsula,539,1,539,35539,St. Catharines - Niagara,B
+"northumberland west ,ON, Canada",-77.5988284,44.0959943,3512015,Quinte West,CY,35,Ontario,3512,Hastings,CTY,3512015,Quinte West,3515,Kingston--Pembroke,522,1,522,35522,Belleville,B
+"south simcoe ,ON, Canada",-80.1812131,44.8944812,3543069,Christian Island 30,IRI,35,Ontario,3543,Simcoe,CTY,3543068,Tiny,3540,Kitchener--Waterloo--Barrie,997,5,,,,
+"st. catharines ,ON, Canada",-79.2441003,43.1579812,3526053,St. Catharines,CY,35,Ontario,3526,Niagara,RM,3526053,St. Catharines,3550,Hamilton--Niagara Peninsula,539,1,539,35539,St. Catharines - Niagara,B
+"st. lawrence ,ON, Canada",-79.3714278,43.649422,3520005,Toronto,C,35,Ontario,3520,Toronto,CDR,3520005,Toronto,3530,Toronto,535,1,535,35535,Toronto,B
+"stouffville ,ON, Canada",-79.2454446,43.9717581,3519044,Whitchurch-Stouffville,T,35,Ontario,3519,York,RM,3519044,Whitchurch-Stouffville,3530,Toronto,535,1,535,35535,Toronto,B
+"uxbridge ,ON, Canada",-79.1226768,44.1088502,3518029,Uxbridge,TP,35,Ontario,3518,Durham,RM,3518029,Uxbridge,3530,Toronto,535,1,535,35535,Toronto,B
+"vaughan ,ON, Canada",-79.5268023,43.7941544,3519028,Vaughan,CY,35,Ontario,3519,York,RM,3519028,Vaughan,3530,Toronto,535,1,535,35535,Toronto,B
+"whitby ,ON, Canada",-78.9421751,43.87982,3518009,Whitby,T,35,Ontario,3518,Durham,RM,3518009,Whitby,3530,Toronto,532,1,532,35532,Oshawa,B
+"st. thomas ,ON, Canada",-81.1929882,42.779022,3534021,St. Thomas,CY,35,Ontario,3534,Elgin,CTY,3534020,Central Elgin,3560,London,555,1,555,35555,London,B
+"elgin ,ON, Canada",-81.3660384,42.7269522,3534024,Southwold,TP,35,Ontario,3534,Elgin,CTY,3534024,Southwold,3560,London,555,1,555,35555,London,B
+"stayner ,ON, Canada",-80.0904451,44.4194642,3543005,Clearview,TP,35,Ontario,3543,Simcoe,CTY,3543005,Clearview,3540,Kitchener--Waterloo--Barrie,996,4,,,,
+"northeast ,ON, Canada",-81.40476769,46.2897445,3553005,Greater Sudbury / Grand Sudbury,CV,35,Ontario,3553,Greater Sudbury / Grand Sudbury,CDR,3553005,Greater Sudbury / Grand Sudbury,3590,Northeast / Nord-est,580,1,580,35580,Greater Sudbury / Grand Sudbury,B
+"stittsville ,ON, Canada",-75.91290007,45.2700872,3506008,Ottawa,CV,35,Ontario,3506,Ottawa,CDR,3506008,Ottawa,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"stoney creek ,ON, Canada",-79.7176762,43.1936781,3525005,Hamilton,C,35,Ontario,3525,Hamilton,CDR,3525005,Hamilton,3550,Hamilton--Niagara Peninsula,537,1,537,35537,Hamilton,B
+"new liskeard ,ON, Canada",-79.6789029,47.508731,3554020,Temiskaming Shores,CY,35,Ontario,3554,Timiskaming,DIS,3554020,Temiskaming Shores,3590,Northeast / Nord-est,998,6,,,,
+"wawa ,ON, Canada",-84.7740199,47.9929283,3557076,Wawa,MU,35,Ontario,3557,Algoma,DIS,3557095,"Algoma, Unorganized, North Part",3590,Northeast / Nord-est,997,5,,,,
+"wasaga ,ON, Canada",-80.0203156,44.5224813,3543064,Wasaga Beach,T,35,Ontario,3543,Simcoe,CTY,3543009,Springwater,3540,Kitchener--Waterloo--Barrie,565,3,565,35565,Wasaga Beach,D
+"sharbot lake ,ON, Canada",-76.6901144,44.7706987,3510035,Central Frontenac,TP,35,Ontario,3510,Frontenac,CTY,3510035,Central Frontenac,3515,Kingston--Pembroke,996,4,,,,
+"harrow ,ON, Canada",-82.9183594,42.035586,3537016,Essex,T,35,Ontario,3537,Essex,CTY,3537016,Essex,3570,Windsor--Sarnia,996,4,,,,
+"lambton ,ON, Canada",-82.40588922,42.93121985,3538025,Sarnia 45,IRI,35,Ontario,3538,Lambton,CTY,3538030,Sarnia,3570,Windsor--Sarnia,562,2,562,35562,Sarnia,K
+"bobcaygeon ,ON, Canada",-78.5444995,44.5372969,3516010,Kawartha Lakes,CY,35,Ontario,3516,Kawartha Lakes,CDR,3516010,Kawartha Lakes,3520,Muskoka--Kawarthas,530,3,530,35530,Kawartha Lakes,D
+"lanark highlands ,ON, Canada",-76.48559827,45.0875524,3509039,Lanark Highlands,TP,35,Ontario,3509,Lanark,CTY,3509039,Lanark Highlands,3510,Ottawa,996,4,,,,
+"lanark ,ON, Canada",-76.3298878,45.047011,3509039,Lanark Highlands,TP,35,Ontario,3509,Lanark,CTY,3509039,Lanark Highlands,3510,Ottawa,996,4,,,,
+"lindsay ,ON, Canada",-78.7369939,44.3551266,3516010,Kawartha Lakes,CY,35,Ontario,3516,Kawartha Lakes,CDR,3516010,Kawartha Lakes,3520,Muskoka--Kawarthas,530,3,530,35530,Kawartha Lakes,D
+"clarence-rockland ,ON, Canada",-75.2607533,45.5247978,3502036,Clarence-Rockland,C,35,Ontario,3502,Prescott and Russell,UC,3502036,Clarence-Rockland,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"vankleek hill ,ON, Canada",-74.6519669,45.5196086,3502010,Champlain,TP,35,Ontario,3502,Prescott and Russell,UC,3502010,Champlain,3510,Ottawa,996,4,,,,
+"cfb north bay ,ON, Canada",-79.41634873,46.3582867,3548044,North Bay,CY,35,Ontario,3548,Nipissing,DIS,3548094,"Nipissing, Unorganized, North Part",3590,Northeast / Nord-est,575,2,575,35575,North Bay,K
+"tweed ,ON, Canada",-77.3119649,44.4764863,3512030,Tweed,MU,35,Ontario,3512,Hastings,CTY,3512030,Tweed,3515,Kingston--Pembroke,996,4,,,,
+"walkerton ,ON, Canada",-81.1485894,44.1331908,3541032,Brockton,MU,35,Ontario,3541,Bruce,CTY,3541032,Brockton,3580,Stratford--Bruce Peninsula,998,6,,,,
+"wiarton ,ON, Canada",-81.1408154,44.7438271,3541055,South Bruce Peninsula,T,35,Ontario,3541,Bruce,CTY,3541055,South Bruce Peninsula,3580,Stratford--Bruce Peninsula,997,5,,,,
+"thunder bay ,ON, Canada",-88.4811791,49.809661,3558090,"Thunder Bay, Unorganized",NO,35,Ontario,3558,Thunder Bay,DIS,3558090,"Thunder Bay, Unorganized",3595,Northwest / Nord-ouest,996,4,,,,
+"tilbury ,ON, Canada",-82.4322682,42.2593155,3536020,Chatham-Kent,MU,35,Ontario,3536,Chatham-Kent,CDR,3536020,Chatham-Kent,3570,Windsor--Sarnia,556,3,556,35556,Chatham-Kent,D
+"mildmay ,ON, Canada",-81.1177723,44.0427744,3541004,South Bruce,MU,35,Ontario,3541,Bruce,CTY,3541004,South Bruce,3580,Stratford--Bruce Peninsula,998,6,,,,
+"trenton ,ON, Canada",-77.57539,44.1019126,3512015,Quinte West,CY,35,Ontario,3512,Hastings,CTY,3512015,Quinte West,3515,Kingston--Pembroke,522,1,522,35522,Belleville,B
+"west nipissing ,ON, Canada",-79.9321566,46.3653409,3548055,West Nipissing / Nipissing Ouest,M,35,Ontario,3548,Nipissing,DIS,3548055,West Nipissing / Nipissing Ouest,3590,Northeast / Nord-est,997,5,,,,
+"ohsweken ,ON, Canada",-80.1179909,43.0687351,3529020,Six Nations (Part) 40,IRI,35,Ontario,3529,Brant,CDR,3529005,Brant,3550,Hamilton--Niagara Peninsula,543,1,543,35543,Brantford,B
+"six nations ,ON, Canada",-80.11192461,43.05224615,3529020,Six Nations (Part) 40,IRI,35,Ontario,3529,Brant,CDR,3529005,Brant,3550,Hamilton--Niagara Peninsula,543,1,543,35543,Brantford,B
+"pelham ,ON, Canada",-79.2838481,43.0445702,3526028,Pelham,T,35,Ontario,3526,Niagara,RM,3526028,Pelham,3550,Hamilton--Niagara Peninsula,539,1,539,35539,St. Catharines - Niagara,B
+"wellington ,ON, Canada",-80.4614994,43.7590121,3523025,Centre Wellington,TP,35,Ontario,3523,Wellington,CTY,3523025,Centre Wellington,3540,Kitchener--Waterloo--Barrie,531,3,531,35531,Centre Wellington,D
+"west carleton ,ON, Canada",-76.14484319,45.3554496,3506008,Ottawa,CV,35,Ontario,3506,Ottawa,CDR,3506008,Ottawa,3510,Ottawa,505,1,505,35505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),B
+"winchester ,ON, Canada",-75.35299,45.0928774,3501030,North Dundas,TP,35,Ontario,3501,"Stormont, Dundas and Glengarry",UC,3501030,North Dundas,3510,Ottawa,996,4,,,,
+"wingham ,ON, Canada",-81.31275,43.886245,3540055,North Huron,TP,35,Ontario,3540,Huron,CTY,3540055,North Huron,3580,Stratford--Bruce Peninsula,998,6,,,,
+"york ,ON, Canada",-79.4372217,44.0007518,3519046,Aurora,T,35,Ontario,3519,York,RM,3519048,Newmarket,3530,Toronto,535,1,535,35535,Toronto,B
+"essex ,ON, Canada",-82.9183594,42.035586,3537016,Essex,T,35,Ontario,3537,Essex,CTY,3537016,Essex,3570,Windsor--Sarnia,996,4,,,,

@@ -1,0 +1,15 @@
+2016 Census Profiles Files / Profile of Census Subdivisions
+COL0 - GEO UID
+COL1 - Province code
+COL2 - Province name
+COL3 - CD code
+COL4 - CD name
+COL5 - CSD code
+COL6 - CSD name
+COL7 - Population and dwelling counts / Population, 2016
+COL8 - Population and dwelling counts / Population, 2011
+COL9 - Population and dwelling counts / Population percentage change, 2011 to 2016
+COL10 - Population and dwelling counts / Total private dwellings
+COL11 - Population and dwelling counts / Private dwellings occupied by usual residents
+COL12 - Population and dwelling counts / Population density per square kilometre
+COL13 - Population and dwelling counts / Land area in square kilometres

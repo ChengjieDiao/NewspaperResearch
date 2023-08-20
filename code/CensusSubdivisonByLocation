@@ -1,0 +1,15 @@
+import geopandas as gpd
+from shapely.geometry import Point
+
+# Load the shapefile
+# Note: You need to replace 'path_to_shapefile' with the actual path to the shapefile
+canada = gpd.read_file('path_to_shapefile.shp')
+
+# Create a geographic point based on longitude and latitude
+# Note: Replace 'longitude' and 'latitude' with actual coordinates
+point = Point(longitude, latitude)
+
+# Find the census subdivision that contains the point
+subdivision = canada[canada.geometry.contains(point)]
+
+print(subdivision)
